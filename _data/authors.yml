@@ -15,7 +15,7 @@ phlow: # replace this with your info
 kadm:
   name: "kdillmcfarland"
   siterole: "webmaster, developer, copywriter, designer"
-  uri:
+  uri: http://https://kdillmcfarland.github.io/
   email:
   twitter: "@kdillmcfarland"
 # you can add more authors here
