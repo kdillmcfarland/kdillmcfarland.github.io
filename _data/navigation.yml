@@ -10,10 +10,10 @@
   url: "/current/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+  - title: "Resistance to tuberculosis"
+    url: "/tb/"
+  - title: "Asthma and viral infection"
+    url: "/asthma/"
  
 - title: "Blog"
   url: "/blog/"
