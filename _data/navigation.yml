@@ -3,7 +3,7 @@
   side: left
 
 - title: Resume
-  url: "/resume/"
+  url: "/info/"
   side: left
   dropdown:
   - title: "Short"
