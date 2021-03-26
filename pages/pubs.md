@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 subheadline: ""
 teaser: ""
-permalink: "/resume/pubs/"
+permalink: "/pubs/"
 header:
     image_fullwidth: "pubs.png"
 ---
