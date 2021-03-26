@@ -96,6 +96,6 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Contact
 
-University of Washington, Division of Allergy and Infectious Diseases, Box 358061
+University of Washington, Division of Allergy and Infectious Diseases, Box 358061  
 kadm [at] uw.edu  
 @kdillmcfarland

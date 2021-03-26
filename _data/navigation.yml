@@ -6,12 +6,14 @@
   url: "/info/"
   side: left
   dropdown:
-  - title: "Short"
+  - title: "Resume"
     url: "/short/"
-  - title: "Long"
-    url: "/long/"
   - title: "Publications"
     url: "/pubs/"
+  - title: "Teaching"
+    url: "/teach/"
+  - title: "Presentations"
+    url: "/present/"
 
 - title: "Current"
   url: "/current/"
