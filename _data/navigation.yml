@@ -5,6 +5,13 @@
 - title: Resume
   url: "/resume/"
   side: left
+  dropdown:
+  - title: "Short"
+    url: "/short/"
+  - title: "Long"
+    url: "/long/"
+  - title: "Publications"
+    url: "/pubs/"
 
 - title: "Current"
   url: "/current/"
