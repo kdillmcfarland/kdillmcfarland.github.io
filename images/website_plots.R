@@ -14,5 +14,5 @@ data.frame(
         axis.text.x=element_text(color="#bdbdbd"),
         axis.text.y=element_text(color="#bdbdbd")) + 
   labs(x="",y="") +
-  ggsave("images/pubs.png", width=8, height=1.7)
+  ggsave("images/pubs.png", width=8, height=1.6)
   
