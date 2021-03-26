@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 permalink: "/workshops/"
 header:
-    image_fullwidth: "pubs.png"
+    image_fullwidth: "scatterplot2.png"
 ---
 
 This section is a work in progress. Please find my past workshops on GitHub for
