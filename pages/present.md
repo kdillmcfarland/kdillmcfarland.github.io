@@ -10,9 +10,9 @@ header:
 
 ### Select invited talks
 
-**Dill-McFarland KA**, Peterson G, Simmons J, Hawn TR. 2021. Epigenetic programming contributes to resistance to *M. tuberculosis*. Center for Emerging and Re-emerging Infectious Diseases (CERID), U. of Washington, Seattle, WA, USA
+**Dill-McFarland KA**, Hawn TR. 2021. Epigenetic programming contributes to resistance to *M. tuberculosis*. Center for Emerging and Re-emerging Infectious Diseases (CERID), U. of Washington, Seattle, WA, USA
 
-**Dill-McFarland KA**, Herd P, Rey FE. 2017. Social interactions and the human gut microbiota. Population Health Sciences at U. of Wisconsin-Madison, Madison, WI, USA
+**Dill-McFarland KA**, Hallam SJ. 2019. Incorporating data science into undergraduate microbiology education. American Society for Microbiology (ASM) Microbe. San Francisco, CA, USA
 
 **Dill-McFarland KA**, Rey FE, Herd P. 2017. Early- vs. late-life determinants of the human gut microbiota. U. of Wisconsin System’s postdoctoral seminar series through NSF ADVANCE: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers. Oshkosh, WI, USA
 
