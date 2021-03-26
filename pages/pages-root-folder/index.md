@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: heatmap.jpg
+  image_fullwidth: heatmap.png
 widget1:
   title: "Resume"
   url: 'http://kdillmcfarland.github.io/resume/'
@@ -22,6 +22,7 @@ widget3:
   url: 'http://kdillmcfarland.github.io/workshops/'
   image: 
   text: 'Notes and slides from data science workshops I've taught including R, git, and cloud computing.'
+
 #
 # Use the call for action to show a button on the frontpage
 #
