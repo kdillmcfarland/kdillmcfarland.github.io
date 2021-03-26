@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+permalink: /index.html
 header:
   image_fullwidth: heatmap.png
 widget1:
@@ -7,16 +8,15 @@ widget1:
   url: 'http://kdillmcfarland.github.io/resume/'
   image: 
   text: 'Where I've been and where I want to go.'
-widget3:
-  title: "Workshops"
-  url: 'http://kdillmcfarland.github.io/workshops/'
-  image: 
-  text: 'Notes and slides from data science workshops I've taught including R, git, and cloud computing.'
 widget2:
   title: "Blog"
   url: 'http://kdillmcfarland.github.io/blog/'
   image: 
   text: 'Helpful tips, thoughts, musings, and anything else that pops into my head.'
-
+widget3:
+  title: "Workshops"
+  url: 'http://kdillmcfarland.github.io/workshops/'
+  image: 
+  text: 'Notes and slides from data science workshops I've taught including R, git, and cloud computing.'
 
 homepage: true
