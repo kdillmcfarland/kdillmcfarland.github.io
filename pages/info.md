@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "man.plot.png"
 ---
 
 Greetings! My name is Kim Dill-McFarland, and I am a bioinformatician at the U. of Washington. I work at the intersection of microbiology and computer science, applying computational approaches to biological problems. Using sequencing and other high-throughput techniques, I research how the human immune system responds to disease. I work with a variety of labs at UW and am always game to dive into new data!
