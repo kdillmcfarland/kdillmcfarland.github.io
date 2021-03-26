@@ -11,5 +11,5 @@ data.frame(
   geom_col(fill="#6a51a3") +
   theme_classic() +
   labs(x="",y="") +
-  ggsave("images/pubs.png", width=8, height=1.2)
+  ggsave("images/pubs.png", width=8, height=1.7)
   
