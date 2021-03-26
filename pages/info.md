@@ -15,3 +15,6 @@ This website is a landing place for my work including current projects, workshop
 [GitHub](https://github.com/kdillmcfarland)  
 [LinkedIn](https://www.linkedin.com/in/kdillmcfarland/)  
 [Twitter](https://twitter.com/kdillmcfarland)  
+
+and if you want to see my cats  
+[Instagram](https://www.instagram.com/kdillmcfarland/)
