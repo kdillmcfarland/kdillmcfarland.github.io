@@ -8,8 +8,11 @@ data.frame(
 ) %>% 
 
   ggplot(aes(y=total,x=year)) +
-  geom_col(fill="#6a51a3") +
-  theme_classic() +
+  geom_col(fill="#807dba") +
+  theme_void() +
+  theme(text=element_text(color="#bdbdbd"),
+        axis.text.x=element_text(color="#bdbdbd"),
+        axis.text.y=element_text(color="#bdbdbd")) + 
   labs(x="",y="") +
   ggsave("images/pubs.png", width=8, height=1.7)
   
