@@ -11,7 +11,7 @@ header:
 \* first authors  
 † corresponding authors
 
-#### Human health and disease
+### Human health and disease
 
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. 2021. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep.
 
@@ -29,11 +29,11 @@ header:
 
 0. Jetté ME, **Dill-McFarland KA**, Hanshew AS, Suen G, Thibeault SL. 2016. The human laryngeal microbiome: effects of cigarette smoke and reflux. Sci Rep 6: 35882. doi: [10.1038/srep35882](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5075886/)
 
-#### Education
+### Education
 
 9. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol In press. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661)
 
-#### Animal microbiomes
+### Animal microbiomes
 
 10. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
 
