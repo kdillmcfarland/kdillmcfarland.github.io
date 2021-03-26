@@ -36,11 +36,11 @@
   side: left
   dropdown:
   - title: "R"
-    url: "/R/"
+    url: "/workshops/"
   - title: "Git and GitHub"
-    url: "/git/"
+    url: "/workshops/"
   - title: "Cloud computing"
-    url: "/cloud/"
+    url: "/workshops/"
 
 - title: "Search"
   url: "/search/"
