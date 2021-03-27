@@ -9,18 +9,18 @@ header:
   image_fullwidth: heatmap.png
 widget1:
   title: "Resume"
-  url: 'http://kdillmcfarland.github.io/resume/'
-  image: 
+  url: 'http://kdillmcfarland.github.io/short/'
+  image: kadm_headshot_lrg.jpg
   text: "Where I've been and what I've done."
 widget2:
   title: "Blog"
   url: 'http://kdillmcfarland.github.io/blog/'
-  image: 
+  image: Claire2.jpg
   text: "Coding tips, musings, and anything else that pops into my head worth sharing."
 widget3:
   title: "Workshops"
   url: 'http://kdillmcfarland.github.io/workshops/'
-  image: 
+  image: hex.stickers.png 
   text: "R, git, cloud computing, and more!"
 #
 # Use the call for action to show a button on the frontpage
