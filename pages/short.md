@@ -40,7 +40,7 @@ header:
 </table>
 
 ### Experience
-
+<br>
 __*07/2019 - present* --- Bioinformatician, Division of Allergy and Infectious Diseases, U. of Washington__
 
 <ul><li>Complete data cleaning, quality assessment, and statistical analyses for several research groups</li></ul>
@@ -68,13 +68,13 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 
 ### Education
-
+<br>
 2011 - 2016	--- Ph.D. Microbiology, U. of Wisconsin-Madison, Madison, WI. GPA: 4.00
 
 2007 - 2011	--- B.S. Molecular and cellular biology, Minor mathematics, U. of Puget Sound, Tacoma, WA. GPA: 3.84
 
 ### Select publications
-
+<br>
 **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9)
 
  **Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/)
@@ -85,7 +85,7 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 [Full publication list](https://kdillmcfarland.github.io/pubs/)
 
 ### Notable accomplishments
-
+<br>
 2017, 2018, 2019 --- Session moderator/convener at the American Society for Microbiology (ASM) Microbe meeting
 
 2016 --- Microbiome Digest’s Best Microbiome Paper
@@ -95,7 +95,7 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 2009, 2010 --- American Society for Microbiology Undergraduate Fellow
 
 ### Contact
-
+<br>
 University of Washington, Division of Allergy and Infectious Diseases, Box 358061  
 kadm [at] uw.edu  
 @kdillmcfarland

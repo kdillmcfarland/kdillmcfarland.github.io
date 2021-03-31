@@ -9,6 +9,7 @@ header:
 ---
 
 ### Courses
+<br>
 **U. of British Columbia**
 
 Spring 2019 --- Instructor Microbial Ecological Genomics (MICB425); Microbes and Society (BIOL346)
@@ -38,7 +39,7 @@ Spring 2015 --- Teaching assistant Biology of Microorganisms (MICRO303)
 Fall 2012 --- Guest lecturer & teaching assistant Physiology of Microorganisms (MICRO526)
 
 ### Workshops and short courses
-
+<br>
 2018-2019 --- Instructor [ECOSCOPE workshops](github.com/EDUCE-UBC/workshops_R) "Introduction to R", "The R tidyverse", "Reproducible research in Git and R", and "Intermediate R programming" 
 
 Sum 2018--- Instructor Compute Canada Research Computing Summer School "Microbiome data manipulation and visualization in R"
@@ -46,7 +47,7 @@ Sum 2018--- Instructor Compute Canada Research Computing Summer School "Microbio
 Oct 2015 --- Instructor Universidade Federal de Viçosa, Brazil, short course "Investigating the microbiota using the Illumina MiSeq: from design to analysis"
 
 ### Mentoring
-
+<br>
 **U. of British Columbia**
 
 2018-2019 --- Yue Liu (graduate TA). Applied Mathematics MS student. Now PhD student, U. of Oxford

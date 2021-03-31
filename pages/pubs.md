@@ -12,7 +12,7 @@ header:
 † corresponding authors
 
 ### Human health and disease
-
+<br>
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. 2021. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep.
 
 0. **Dill-McFarland KA**, Busse W, Altman MC, Rosenkranz M. 2021. Allergen-induced gene expression in the lung associated with neurological functions in asthma. In prep.
@@ -32,11 +32,11 @@ header:
 0. Jetté ME, **Dill-McFarland KA**, Hanshew AS, Suen G, Thibeault SL. 2016. The human laryngeal microbiome: effects of cigarette smoke and reflux. Sci Rep 6: 35882. doi: [10.1038/srep35882](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5075886/)
 
 ### Education
-
+<br>
 9. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol In press. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661)
 
 ### Animal microbiomes
-
+<br>
 10. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
 
 0. Carroll C, Olsen KD, Ricks NJ, **Dill-McFarland KA**, Suen G, Robinson TF, Chaston JM. 2019. Bacterial communities in the alpaca gastrointestinal tract vary with diet and body site. Front Microbiol 9: 3334. doi: [10.3389/fmicb.2018.03334](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03334/full)

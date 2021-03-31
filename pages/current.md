@@ -17,7 +17,7 @@ Utilizing **linear modeling, gene set enrichment analysis (GSEA), and network an
 #### Public project repos
 <br>
 [Eosinophils and Anti-IL-5 therapy impact dendritic cells in asthma ][P259]  
-[TOLLIP, lipids, and innate immunity during prolonged *M. tuberculosis* infection][JD20]
+[TOLLIP, lipids, and innate immunity during prolonged *M. tuberculosis* infection][JS20]
 
 ## Epigenetic and genetic programming
 <br>

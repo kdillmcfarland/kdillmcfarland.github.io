@@ -9,7 +9,7 @@ header:
 ---
 
 ### Select invited talks
-
+<br>
 **Dill-McFarland KA**, Hawn TR. 2021. Epigenetic programming contributes to resistance to *M. tuberculosis*. Center for Emerging and Re-emerging Infectious Diseases (CERID), U. of Washington, Seattle, WA, USA
 
 **Dill-McFarland KA**, Hallam SJ. 2019. Incorporating data science into undergraduate microbiology education. American Society for Microbiology (ASM) Microbe. San Francisco, CA, USA
@@ -29,7 +29,7 @@ header:
 **Dill-McFarland KA**, Pauli JN, Peery MZ, Weimer PJ, Suen G. 2015. Microbe-cycling in tree sloths facilitated by pyralid moths. American Society for Microbiology (ASM) General Meeting. New Orleans, LA, USA
 
 ### Select poster presentations
-
+<br>
 **Dill-McFarland KA**, Beni JW, Hallam SJ. 2018. Flexible and progressive undergraduate data science education. American Society for Microbiology (ASM) Microbe Meeting. Atlanta, GA, USA
 
 **Dill-McFarland KA**, Herd P, Rey FE. 2017. Relationships and social interactions shape the human gut microbiota. American Society for Microbiology (ASM) Microbe Meeting. New Orleans, LA, USA
