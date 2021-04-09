@@ -19,7 +19,7 @@ header:
 
 0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. 2021. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. Submitted
 
-0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Robyn Pryor R, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. 2021. TOLLIP prevents lipid accumulation and dampens innate immune responses during prolonged intracellular *M. tuberculosis* macrophage infection. In prep
+0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Robyn Pryor R, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. 2021. TOLLIP resolves lipid-induced EIF2 signaling in alveolar macrophages for durable *Mycobacterium tuberculosis* protection. In prep
 
 0. **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9)
 
