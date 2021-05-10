@@ -10,9 +10,9 @@ header:
 
 <table border="0">
  <tr>
-    <td><b style="font-size:16px">Data</b></td>
-    <td><b style="font-size:16px">Software</b></td>
-    <td><b style="font-size:16px">Statists</b></td>
+    <td width="40%"><b style="font-size:16px">Data</b></td>
+    <td width="30%"><b style="font-size:16px">Software</b></td>
+    <td width="30%"><b style="font-size:16px">Statistics</b></td>
  </tr>
  <tr>
     <td> <ul>
