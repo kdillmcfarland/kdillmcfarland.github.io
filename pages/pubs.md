@@ -17,7 +17,7 @@ header:
 
 0. **Dill-McFarland KA**, Busse W, Altman MC, Rosenkranz M. 2021. Allergen-induced gene expression in the lung associated with neurological functions in asthma. In prep
 
-0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. 2021. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In revision. --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
+0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. 2021. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In revision. --- <span style="color:blue">[GitHub](https://github.com/altman-lab/P259_pDC_public)</span>
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Robyn Pryor R, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. 2021. TOLLIP resolves lipid-induced EIF2 signaling in alveolar macrophages for durable *Mycobacterium tuberculosis* protection. In revision. --- [GitHub](https://github.com/altman-lab/JS20.01)
 
