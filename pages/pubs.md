@@ -17,15 +17,15 @@ header:
 
 0. **Dill-McFarland KA**, Busse W, Altman MC, Rosenkranz M. 2021. Allergen-induced gene expression in the lung associated with neurological functions in asthma. In prep
 
-0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. 2021. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In revision
+0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. 2021. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In revision. [GitHub](https://github.com/altman-lab/P259_pDC_public)
 
-0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Robyn Pryor R, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. 2021. TOLLIP resolves lipid-induced EIF2 signaling in alveolar macrophages for durable *Mycobacterium tuberculosis* protection. In revision
+0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Robyn Pryor R, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. 2021. TOLLIP resolves lipid-induced EIF2 signaling in alveolar macrophages for durable *Mycobacterium tuberculosis* protection. In revision. [GitHub](https://github.com/altman-lab/JS20.01)
 
-0. **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9)
+0. **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9) [GitHub](https://github.com/kdillmcfarland/WLS)
 
-0. De Wolfe TJ, Eggers S, Barker AK, Kates A, **Dill-McFarland KA**, Suen G, Safdar N. 2018. Oral probiotic combination of *Lactobacillus* and *Bifidobacterium* alters the gastrointestinal microbiota during antibiotic treatment for *Clostridium difficile* infection. PLoS One 13(9): e0204253. doi: [10.1371/journal.pone.0204253](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6161886/)
+0. De Wolfe TJ, Eggers S, Barker AK, Kates A, **Dill-McFarland KA**, Suen G, Safdar N. 2018. Oral probiotic combination of *Lactobacillus* and *Bifidobacterium* alters the gastrointestinal microbiota during antibiotic treatment for *Clostridium difficile* infection. PLoS One 13(9): e0204253. doi: [10.1371/journal.pone.0204253](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6161886/) [GitHub](https://github.com/kdillmcfarland/PICO)
 
-0. Romano KA, **Dill-McFarland KA**, Kasahara K, Kerby RL, Vivas EI, Amador-Noguez D, Herd P, Rey FE. 2018. Fecal Aliquot Straw Technique (FAST) allows for easy and reproducible subsampling: Assessing interpersonal variation in trimethylamine-N-oxide (TMAO) accumulation. Microbiome 6(1): 91. doi: [10.1186/s40168-018-0458-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5960144/)
+0. Romano KA, **Dill-McFarland KA**, Kasahara K, Kerby RL, Vivas EI, Amador-Noguez D, Herd P, Rey FE. 2018. Fecal Aliquot Straw Technique (FAST) allows for easy and reproducible subsampling: Assessing interpersonal variation in trimethylamine-N-oxide (TMAO) accumulation. Microbiome 6(1): 91. doi: [10.1186/s40168-018-0458-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5960144/) [GitHub](https://github.com/kdillmcfarland/FAST_method)
 
 0. Vogt NM, Kerby RL, **Dill-McFarland KA**, Harding SJ, Merluzzi AP, Johnson SC, Carlsson CM, Asthana S, Zetterberg H, Blennow K, Bendlina BB†, Rey FE†. 2017. Gut microbiome alterations in Alzheimer’s disease. Sci Rep 7(1): 13537. doi: [10.1038/s41598-017-13601-y](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5648830/)
 
@@ -33,7 +33,7 @@ header:
 
 ### Education
 <br>
-9. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol In press. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661)
+9. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
 
 ### Animal microbiomes
 <br>
@@ -41,7 +41,7 @@ header:
 
 0. Carroll C, Olsen KD, Ricks NJ, **Dill-McFarland KA**, Suen G, Robinson TF, Chaston JM. 2019. Bacterial communities in the alpaca gastrointestinal tract vary with diet and body site. Front Microbiol 9: 3334. doi: [10.3389/fmicb.2018.03334](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03334/full)
 
-0. **Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/)
+0. **Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/) [GitHub](https://github.com/kdillmcfarland/GS01)
 
 0. Cunha CS, Marcondes MI, Veloso CM, Mantovani HC, Pereira LGR, Tomich TR, **Dill-McFarland KA**†, Suen G†. 2018. Compositional and structural dynamics of the ruminal microbiota in dairy heifers and its relationship to methane production. J Sci Food Agric 99(1): 210-18. doi: [10.1002/jsfa.9162](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.9162)
 

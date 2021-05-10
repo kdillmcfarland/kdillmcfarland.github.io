@@ -83,11 +83,11 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Select publications
 <br>
-**Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9)
+**Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9) [GitHub](https://github.com/kdillmcfarland/WLS)
 
- **Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/)
+ **Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/) [GitHub](https://github.com/kdillmcfarland/GS01)
  
-**Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol In press. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661)
+**Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
 
 \*co-first authors  
 [Full publication list](https://kdillmcfarland.github.io/pubs/)
