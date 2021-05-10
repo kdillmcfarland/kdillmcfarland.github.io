@@ -8,11 +8,11 @@ header:
     image_fullwidth: "man.plot.png"
 ---
 
-<table border="0">
+<table border="0" width="100%">
  <tr>
     <td width="40%"><b style="font-size:16px">Data</b></td>
-    <td width="25%"><b style="font-size:16px">Software</b></td>
-    <td width="35%"><b style="font-size:16px">Statistics</b></td>
+    <td width="30%"><b style="font-size:16px">Software</b></td>
+    <td width="30%"><b style="font-size:16px">Statistics</b></td>
  </tr>
  <tr>
     <td> <ul>
