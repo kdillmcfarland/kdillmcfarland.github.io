@@ -8,9 +8,11 @@ header:
     image_fullwidth: "man.plot.png"
 ---
 
-<table border="0" width="100%">
+<table border="0" width="120%">
  <tr>
-    <td><b style="font-size:16px">Data</b></td>
+    <td width="40%"><b style="font-size:16px">Data</b></td>
+    <td width="20%"><b style="font-size:16px">Software</b></td>
+    <td width="40%"><b style="font-size:16px">Statistics</b></td>
  </tr>
  <tr>
     <td> <ul>
@@ -20,20 +22,11 @@ header:
     <li>Proteomics: MS/MS</li>
     <li>Microbiome: 16S, 18S, ITS, meta-transcriptomics</li>
     </ul> </td>
-
- </tr>
-</table>
-
-<table border="0" width="100%">
- <tr>
-    <td width="40%"><b style="font-size:16px">Software</b></td>
-    <td width="60%"><b style="font-size:16px">Statistics</b></td>
- </tr>
- <tr>
+    
     <td> <ul>
     <li>AWS</li>
     <li>Git, GitHub</li>
-    <li>R, Rmarkdown, Shiny</li>
+    <li>R, Rmd, Shiny</li>
     <li>samtools, bedtools</li>
     <li>STAR, BWA, bowtie</li>
     <li>PLINK, vcftools</li>
@@ -49,7 +42,6 @@ header:
     </ul> </td>
  </tr>
 </table>
-
 
 ### Experience
 <br>
