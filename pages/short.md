@@ -2,7 +2,7 @@
 layout: page
 title: "Resume"
 subheadline: ""
-teaser: "Microbiology PhD with 8+ years experience in applying and teaching data science to biological problems. Expertise in next-generation sequencing including library generation, data processing, and statistical analysis. Effective communicator to both expert and novice audiences with experience teaching one-on-one and in large courses. Specific skills include:"
+teaser: "Microbiology PhD with 9+ years experience in applying data science and statistics to biological problems. Skilled leader of teams with diverse backgrounds and varied training. Expertise in next-generation sequencing from experimental design to publication. Effective communicator with formal teaching experience. Specific skills include:"
 permalink: "/short/"
 header:
     image_fullwidth: "man.plot.png"
@@ -10,55 +10,63 @@ header:
 
 <table border="0">
  <tr>
-    <td><b style="font-size:16px">General</b></td>
-    <td><b style="font-size:16px">Computational</b></td>
-    <td><b style="font-size:16px">Statistical</b></td>
+    <td><b style="font-size:16px">Data</b></td>
+    <td><b style="font-size:16px">Software</b></td>
+    <td><b style="font-size:16px">Statists</b></td>
  </tr>
  <tr>
     <td> <ul>
-    <li>Multi-omic sequencing (Illumina, 454)</li>
-    <li>Reproducible research (GitHub, Rmd)</li>
-    <li>Multi-disciplinary collaboration</li>
-    <li>Diverse communication strategies</li>
+    <li>Transcriptomics: RNA-seq</li>
+    <li>Genetics: MegaEX, Omni, whole exome</li>
+    <li>Epigenetics: ATAC-seq, bisulfite seq</li>
+    <li>Proteomics: MS/MS</li>
+    <li>Microbiome: 16S, 18S, ITS, meta-transcriptomics</li>
     </ul> </td>
     
     <td> <ul>
-    <li>Unix / Linux</li>
-    <li>R / RStudio</li>
-    <li>Git</li>
+    <li>AWS</li>
+    <li>Git, GitHub</li>
+    <li>R, Rmd, Shiny</li>
+    <li>samtools, bedtools</li>
+    <li>STAR, BWA, bowtie</li>
+    <li>PLINK, vcftools</li>
     <li>mothur, QIIME</li>
-    <li>AWS, GCP</li>
     </ul> </td>
     
     <td> <ul>
-    <li>Multi-variate linear models</li>
-    <li>Dimensionality reduction</li>
-    <li>Co-variance, correlation</li>
-    <li>Sparse data, data imputation</li>
+    <li>Linear, PLS, LASSO, latent regression</li>
+    <li>Un/supervised machine learning</li>
+    <li>PCA, NMDS, tSNE</li>
+    <li>Sparse data imputation</li>
+    <li>Data visualization</li>
     </ul> </td>
  </tr>
 </table>
 
 ### Experience
 <br>
-__*07/2019 - present* --- Bioinformatician, Division of Allergy and Infectious Diseases, U. of Washington__
+__*07/2019 - present* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
-<ul><li>Complete data cleaning, quality assessment, and statistical analyses for several research groups</li></ul>
-<ul><li>Data mainly include human transcriptomics, epigenetics, and genetics</li></ul>
+<ul><li>Analyze human transcriptomic, epigenetic, and genetic datasets including quality assessment, and statistical tests</li></ul>
+<ul><li>Develop novel pipelines for integrated ‘omics analysis</li></ul>
+<ul><li>Lead a team of 3 core bioinformaticians as well as mentor post-docs and students in related groups</li></ul>
+<ul><li>Administrator AWS Organization (6 users)</li></ul>
+
+__*04/2021 - present*	--- Genomic data specialist, San Mateo County Public Health Lab (part-time)__
+
+<ul><li>Genome assembly, variant tracking, and outbreak assessment of COVID-19 clinical samples</li></ul>
 
 __*08/2017 - 06/2019*	--- Post-doctoral research fellow, Microbiology & Immunology, U. of British Columbia__
 
 <ul><li>Directed Experiential Data Science for Undergraduate Cross-disciplinary Education ([EDUCE](https://educe-ubc.github.io/)) including a team of 3 teaching assistants</li></ul>
-<ul><li>Designed and implemented data science curriculum in 7 undergraduate courses</li></ul>
-<ul><li>Coordinated data science workshops for Ecosystem Services, Commercialization Platforms, and Entrepreneurship ([ECOSCOPE](http://ecoscope.ubc.ca/))</li></ul>
+<ul><li>Designed and implemented data science curriculum in 7 courses</li></ul>
+<ul><li> [ECOSCOPE](http://ecoscope.ubc.ca/) fellow coordinating and teaching data science workshops for industry and academic partners</li></ul>
 
 __*07/2016 - 06/2017*	--- Post-doctoral research associate, Bacteriology/Sociology, U. of Wisconsin-Madison__
-<ul><li>Investigated the relationship between the human gut microbiome and long-term behaviors within the Wisconsin Longitudinal Study ([WLS](https://www.ssc.wisc.edu/wlsresearch/))</li></ul>
-<ul><li>Applied multiple regression analyses with confounder and multiple comparison correction</li></ul>
+<ul><li>Investigated relationships between the human gut microbiome and longterm behaviors in the Wisconsin Longitudinal Study ([WLS](https://www.ssc.wisc.edu/wlsresearch/))</li></ul>
 <ul><li>Navigated large, longitudinal survey databases </li></ul> 
 
 __*08/2011 - 06/2016*	--- Graduate research assistant, Bacteriology, U. of Wisconsin-Madison__
-<ul><li>Thesis: Assessing the impact of diet on microbial succession, growth, and milk production in dairy cows</li></ul>
 <ul><li>Designed and implemented amplicon sequence analysis pipelines</li></ul>
 <ul><li>Collaborated effectively with diverse international researchers resulting in first and corresponding author publications</li></ul>
 <ul><li>Mentored high school, undergraduate, and graduate students </li></ul> 
