@@ -2,7 +2,7 @@
 layout: page
 title: "Resume"
 subheadline: ""
-teaser: "Microbiology PhD with 9+ years experience in applying data science and statistics to biological problems. Skilled leader of teams with diverse backgrounds and varied training. Expertise in next-generation sequencing from experimental design to publication. Effective communicator with formal teaching experience. Specific skills include:"
+teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Skilled leader of teams with diverse backgrounds and varied training. Expertise in next-generation sequencing from experimental design to publication. Effective communicator with formal teaching experience. Specific skills include:"
 permalink: "/short/"
 header:
     image_fullwidth: "man.plot.png"
@@ -45,18 +45,18 @@ header:
 
 ### Experience
 <br>
-__*07/2019 - present* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
+__*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
-<ul><li>Analyze human transcriptomic, epigenetic, and genetic datasets including quality assessment, and statistical tests</li></ul>
-<ul><li>Develop novel pipelines for integrated ‘omics analysis</li></ul>
-<ul><li>Lead a team of 3 core bioinformaticians as well as mentor post-docs and students in related groups</li></ul>
-<ul><li>Administrator AWS Organization (6 users)</li></ul>
+<ul><li>Lead a team of 3 bioinformaticians in the analysis of human ‘omics data</li></ul>
+<ul><li>Develop, standardize, and publish workflows in R packages and other software</li></ul>
+<ul><li>LMentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ([BIGslu](https://github.com/BIGslu))</li></ul>
+<ul><li>Administrator of organizational GitHubs (28 users) and AWS (6 users)</li></ul>
 
-__*04/2021 - present*	--- Genomic data specialist, San Mateo County Public Health Lab (part-time)__
+__*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
-<ul><li>Genome assembly, variant tracking, and outbreak assessment of COVID-19 clinical samples</li></ul>
+<ul><li>Analyze human transcriptomic, epigenetic, and genetic datasets including quality assessment and statistical tests</li></ul>
 
-__*08/2017 - 06/2019*	--- Post-doctoral research fellow, Microbiology & Immunology, U. of British Columbia__
+__*08/2017 - 06/2019* --- Post-doctoral research fellow, Microbiology & Immunology, U. of British Columbia__
 
 <ul><li>Directed Experiential Data Science for Undergraduate Cross-disciplinary Education ([EDUCE](https://educe-ubc.github.io/)) including a team of 3 teaching assistants</li></ul>
 <ul><li>Designed and implemented data science curriculum in 7 courses</li></ul>
@@ -94,9 +94,9 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Notable accomplishments
 <br>
-2017, 2018, 2019 --- Session moderator/convener at the American Society for Microbiology (ASM) Microbe meeting
+2017, 2018, 2019, 2022 --- Session convener American Society for Microbiology (ASM) Microbe meeting
 
-2016 --- Microbiome Digest’s Best Microbiome Paper
+2016 --- Microbiome Digest’s [Best Microbiome Paper](https://microbiomedigest.com/2016/12/31/winners-of-the-best-microbiome-papers-of-2016/)
 
 2016 --- Sigrid Leirmo Memorial Award for peer mentorship and support
 
@@ -104,6 +104,6 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Contact
 <br>
-University of Washington, Division of Allergy and Infectious Diseases, Box 358061  
+University of Washington, Division of Allergy and Infectious Diseases 
 kadm [at] uw.edu  
 @kdillmcfarland

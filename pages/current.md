@@ -2,7 +2,7 @@
 layout: page
 title: "Current research"
 subheadline: ""
-teaser: "I am a bioinformatician at the U. of Washington, where I provide data analysis expertise in next-generation sequencing and other high-throughput molecular data across a variety of projects relevant to human health and disease."
+teaser: "I am a Senior Bioinformatician at the U. of Washington, where I provide data analysis expertise in next-generation sequencing and other high-throughput molecular data across a variety of projects relevant to human health and disease."
 permalink: "/current/"
 header:
     image_fullwidth: "barplot.png"
