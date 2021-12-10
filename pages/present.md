@@ -8,6 +8,16 @@ header:
     image_fullwidth: "man.plot.png"
 ---
 
+### Sessions at American Society for Microbiology (ASM) Microbe
+<br>
+2022. Workshop: RNA-seq analysis in R: quality control, differential expression, and gene set enrichment.
+
+2019. Symposium: Incorporating data science into undergraduate microbiology education.
+
+2018. Symposium: Integrating microbial ecology into the management of threatened wildlife 
+
+2017. Symposium: Conserving wild microbiomes: microbial contributions to the survival of endangered species. 
+
 ### Select invited talks
 <br>
 **Dill-McFarland KA**, Hawn TR. 2021. Epigenetic programming contributes to resistance to *M. tuberculosis*. Center for Emerging and Re-emerging Infectious Diseases (CERID), U. of Washington, Seattle, WA, USA
