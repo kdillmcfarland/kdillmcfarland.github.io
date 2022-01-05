@@ -20,5 +20,4 @@ and if you want to see my cats
 [Instagram](https://www.instagram.com/kdillmcfarland/)
 
 
-[CV]: https://kdillmcfarland.github.io/long/
 [resume]: https://kdillmcfarland.github.io/short/

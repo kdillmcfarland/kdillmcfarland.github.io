@@ -49,7 +49,7 @@ __*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseas
 
 <ul><li>Lead a team of 3 bioinformaticians in the analysis of human ‘omics data</li></ul>
 <ul><li>Develop, standardize, and publish workflows in R packages and other software</li></ul>
-<ul><li>LMentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ([BIGslu](https://github.com/BIGslu))</li></ul>
+<ul><li>Mentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ([BIGslu](https://github.com/BIGslu))</li></ul>
 <ul><li>Administrator of organizational GitHubs (28 users) and AWS (6 users)</li></ul>
 
 __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__

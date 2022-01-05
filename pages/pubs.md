@@ -17,7 +17,9 @@ header:
 
 0. **Dill-McFarland KA**, Busse W, Altman MC, Rosenkranz M. XXXX. Allergen-induced gene expression in the lung associated with neurological functions in asthma. In prep
 
-0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. XXXX. Monocyte transcriptional responses to *Mycobacterium tuberculosis* *in vitro* associate with resistance to tuberculin skin test and interferon gamma release assay conversion in heavily exposed contacts. EBioMedicine. Submitted
+0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Villarreal M, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O’Connor G, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Meyer Kattan, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Patrice M Becker, James E Gern, Sorkness CA, Busse WW, Altman MC, on behalf of the NIAID Inner City Asthma Consortium. XXXX Mepolizumab for urban children with exacerbation-prone eosinophilic asthma. N Engl J Med. Submitted
+
+0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. XXXX. Monocyte transcriptional responses to *Mycobacterium tuberculosis* *in vitro* associate with resistance to tuberculin skin test and interferon gamma release assay conversion in heavily exposed contacts. EBioMedicine. In revision.
 
 0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. XXXX. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In revision. --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
 
