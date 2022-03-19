@@ -11,19 +11,25 @@ header:
 \* first authors  
 † corresponding authors
 
-### Human health and disease
+### In preparation
 <br>
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep
 
-0. **Dill-McFarland KA**, Busse W, Altman MC, Rosenkranz M. XXXX. Allergen-induced gene expression in the lung associated with neurological functions in asthma. In prep
+0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Airway inflammation provokes neuroinflammation and psychopathology. In prep
+
+0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. XXXX. Peripheral blood T-cell deficiency and hyperinflammatory monocyte responses associated with *Mycobacterium avium* complex lung disease. In prep
+
+0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. XXXX. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. Am J Respir Crit Care Med. Submitted
 
 0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Villarreal M, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O’Connor G, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Meyer Kattan, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Patrice M Becker, James E Gern, Sorkness CA, Busse WW, Altman MC, on behalf of the NIAID Inner City Asthma Consortium. XXXX Mepolizumab for urban children with exacerbation-prone eosinophilic asthma. N Engl J Med. Submitted
 
-0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. XXXX. Monocyte transcriptional responses to *Mycobacterium tuberculosis* *in vitro* associate with resistance to tuberculin skin test and interferon gamma release assay conversion in heavily exposed contacts. EBioMedicine. In revision.
+0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. XXXX. Monocyte transcriptional responses to *Mycobacterium tuberculosis* *in vitro* associate with resistance to tuberculin skin test and interferon gamma release assay conversion in heavily exposed contacts. EBioMedicine. Submitted. --- [GitHub](https://github.com/hawn-lab/RSTR_RNAseq_Mtb_public)
 
-0. **Dill-McFarland KA**, Schwartz JT, Fulkerson PC, Zhao H, Shao B, Altman MC, Gill MA. XXXX. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In revision. --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
+0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Cohen S, Lietzke A, Pacheco A, Hinderstein S, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Submitted. --- [GitHub](https://github.com/altman-lab/JS20.01)
 
-0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Robyn Pryor R, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. XXXX. TOLLIP resolves lipid-induced EIF2 signaling in alveolar macrophages for durable *Mycobacterium tuberculosis* protection. In revision. --- [GitHub](https://github.com/altman-lab/JS20.01)
+### Human health and disease
+<br>
+1. **Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. In press. --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
 
 0. **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9) ---  [GitHub](https://github.com/kdillmcfarland/WLS)
 
