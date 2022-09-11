@@ -12,26 +12,30 @@ header:
 † corresponding authors
 
 ### In preparation
-<br>
+
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep
 
-0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Airway inflammation provokes neuroinflammation and psychopathology. In prep
+0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways linking airway inflammation in asthma to functional brain changes: relevance for psychopathology and neuroinflammation. In prep
 
 0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. XXXX. T-cell deficiency and hyperinflammatory monocyte responses associate with MAC lung disease. preprint doi: [10.1101/2022.03.25.485768](https://doi.org/10.1101/2022.03.25.485768)
  
 0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. XXXX. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. Submitted
 
-0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O’Connor G, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Meyer Kattan, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, on behalf of the NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma. Lancet. Under revision.
-
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Cohen S, Lietzke A, Pacheco A, Hinderstein S, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Submitted. --- [GitHub](https://github.com/altman-lab/JS20.01)
+
+### Software
+
+1. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Hawn TR, Altman MC. XXXX. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. doi: [10.5281/zenodo.6585245](https://zenodo.org/badge/latestdoi/387951897) --- [GitHub](https://github.com/BIGslu/kimma)
+
+0. **Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)
 
 ### Human health and disease
 
-<br>
+1. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O’Connor G, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Meyer Kattan, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, on behalf of the NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma. Lancet. In press.
 
-1. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. 2022. Monocyte transcriptional responses to *Mycobacterium tuberculosis* associate with resistance to tuberculin skin test and interferon gamma release assay conversion. mSphere. In press. --- [GitHub](https://github.com/hawn-lab/RSTR_RNAseq_Mtb_public)
+0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. 2022. Monocyte transcriptional responses to *Mycobacterium tuberculosis* associate with resistance to tuberculin skin test and interferon gamma release assay conversion. mSphere 7(3): e0015922. doi: [10.1128/msphere.00159-22](https://doi.org/10.1128/msphere.00159-22) --- [GitHub](https://github.com/hawn-lab/RSTR_RNAseq_Mtb_public)
 
-0. **Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. Epub ahead of print. doi: [10.1016/j.jaci.2022.03.025](https://doi.org/10.1016/j.jaci.2022.03.025). --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
+0. **Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. Epub ahead of print. doi: [10.1016/j.jaci.2022.03.025](https://doi.org/10.1016/j.jaci.2022.03.025) --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
 
 0. **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9) ---  [GitHub](https://github.com/kdillmcfarland/WLS)
 
@@ -44,11 +48,11 @@ header:
 0. Jetté ME, **Dill-McFarland KA**, Hanshew AS, Suen G, Thibeault SL. 2016. The human laryngeal microbiome: effects of cigarette smoke and reflux. Sci Rep 6: 35882. doi: [10.1038/srep35882](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5075886/)
 
 ### Education
-<br>
+
 9. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) ---  [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
 
 ### Animal microbiomes
-<br>
+
 10. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
 
 0. Carroll C, Olsen KD, Ricks NJ, **Dill-McFarland KA**, Suen G, Robinson TF, Chaston JM. 2019. Bacterial communities in the alpaca gastrointestinal tract vary with diet and body site. Front Microbiol 9: 3334. doi: [10.3389/fmicb.2018.03334](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03334/full)
