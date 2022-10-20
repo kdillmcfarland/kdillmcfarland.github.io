@@ -15,23 +15,25 @@ header:
 
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep
 
+0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Transcript isoform analysis identifies novel genes associated with resistance to tuberculin skin test and interferon gamma release assay conversion. In prep.
+
 0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways linking airway inflammation in asthma to functional brain changes: relevance for psychopathology and neuroinflammation. In prep
 
-0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. XXXX. T-cell deficiency and hyperinflammatory monocyte responses associate with MAC lung disease. preprint doi: [10.1101/2022.03.25.485768](https://doi.org/10.1101/2022.03.25.485768)
- 
 0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. XXXX. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. Submitted
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Cohen S, Lietzke A, Pacheco A, Hinderstein S, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Submitted. --- [GitHub](https://github.com/altman-lab/JS20.01)
 
 ### Software
 
-1. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Hawn TR, Altman MC. XXXX. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. doi: [10.5281/zenodo.6585245](https://zenodo.org/badge/latestdoi/387951897) --- [GitHub](https://github.com/BIGslu/kimma)
+1. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2022. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. bioRxiv doi: [10.1101/2022.10.10.508946](https://doi.org/10.1101/2022.10.10.508946) --- [GitHub](https://github.com/BIGslu/kimma)
 
 0. **Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)
 
 ### Human health and disease
 
-1. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O'Connor GT, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Kattan M, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet. 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
+1. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. 2022. T-cell deficiency and hyperinflammatory monocyte responses associate with *Mycobacterium avium* complex lung disease. Front Immunol 13: 1016038 doi: [10.3389/fimmu.2022.1016038](https://doi.org/10.3389/fimmu.2022.1016038)
+
+0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O'Connor GT, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Kattan M, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
 
 0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. 2022. Monocyte transcriptional responses to *Mycobacterium tuberculosis* associate with resistance to tuberculin skin test and interferon gamma release assay conversion. mSphere 7(3): e0015922. doi: [10.1128/msphere.00159-22](https://doi.org/10.1128/msphere.00159-22) --- [GitHub](https://github.com/hawn-lab/RSTR_RNAseq_Mtb_public)
 
