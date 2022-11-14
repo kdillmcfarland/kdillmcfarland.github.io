@@ -15,9 +15,9 @@ header:
 
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep
 
-0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Transcript isoform analysis identifies novel genes associated with resistance to tuberculin skin test and interferon gamma release assay conversion. In prep.
+0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Transcript isoform analysis identifies novel genes associated with resistance to tuberculin skin test and interferon gamma release assay conversion. Submited.
 
-0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways linking airway inflammation in asthma to functional brain changes: relevance for psychopathology and neuroinflammation. In prep
+0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways linking airway inflammation in asthma to functional brain changes: relevance for psychopathology and neuroinflammation. Submitted.
 
 0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. XXXX. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. Submitted
 
