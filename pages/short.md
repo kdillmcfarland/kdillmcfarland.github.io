@@ -16,7 +16,7 @@ header:
  </tr>
  <tr>
     <td> <ul>
-    <li>Transcriptomics: RNA-seq</li>
+    <li>Transcriptomics: RNA-seq, scRNA-seq</li>
     <li>Genetics: MegaEX, Omni, whole exome</li>
     <li>Epigenetics: ATAC-seq, bisulfite seq</li>
     <li>Proteomics: MS/MS</li>
@@ -27,14 +27,14 @@ header:
     <li>AWS</li>
     <li>Git, GitHub</li>
     <li>R, Rmd, Shiny</li>
-    <li>samtools, bedtools</li>
     <li>STAR, BWA, bowtie</li>
+    <li>Seurat, STARsolo</li>
     <li>PLINK, vcftools</li>
     <li>mothur, QIIME</li>
     </ul> </td>
     
     <td> <ul>
-    <li>Linear, PLS, LASSO, latent regression</li>
+    <li>Linear, additive, PLS, LASSO, latent regression</li>
     <li>Un/supervised machine learning</li>
     <li>PCA, NMDS, tSNE</li>
     <li>Sparse data imputation</li>
@@ -47,14 +47,14 @@ header:
 <br>
 __*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
-<ul><li>Lead a team of 3 bioinformaticians in the analysis of human ‘omics data</li></ul>
-<ul><li>Develop, standardize, and publish workflows in R packages and other software</li></ul>
+<ul><li>Lead a team of bioinformaticians in the analysis of human ‘omics data from multiple research groups</li></ul>
+<ul><li>Director of the Human Immunology Project Consortium ([HIPC](https://immunespace.org/)) Data Management and Analysis Core</li></ul>
+<ul><li>Develop, standardize, and publish 'omics workflows in R packages and other software</li></ul>
 <ul><li>Mentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ([BIGslu](https://github.com/BIGslu))</li></ul>
-<ul><li>Administrator of organizational GitHubs (28 users) and AWS (6 users)</li></ul>
 
 __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
-<ul><li>Analyze human transcriptomic, epigenetic, and genetic datasets including quality assessment and statistical tests</li></ul>
+<ul><li>Analyze human transcriptomic, epigenetic, and genetic datasets including quality assessment, statistical tests, and visualization</li></ul>
 
 __*08/2017 - 06/2019* --- Post-doctoral research fellow, Microbiology & Immunology, U. of British Columbia__
 
@@ -83,13 +83,12 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Select publications
 <br>
-**Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9) --- [GitHub](https://github.com/kdillmcfarland/WLS)
+**Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2022. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. bioRxiv doi: [10.1101/2022.10.10.508946](https://doi.org/10.1101/2022.10.10.508946) --- [GitHub](https://github.com/BIGslu/kimma)
 
- **Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/) --- [GitHub](https://github.com/kdillmcfarland/GS01)
- 
-**Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) --- [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
+Jackson DJ, Bacharier LB, Gergen PJ ... **Dill-McFarland KA** ... Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
 
-\*co-first authors  
+**Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. Epub ahead of print. doi: [10.1016/j.jaci.2022.03.025](https://doi.org/10.1016/j.jaci.2022.03.025) --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
+
 [Full publication list](https://kdillmcfarland.github.io/pubs/)
 
 ### Notable accomplishments
@@ -104,6 +103,6 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Contact
 <br>
-University of Washington, Division of Allergy and Infectious Diseases 
+University of Washington, Division of Allergy and Infectious Diseases  
 kadm [at] uw.edu  
 @kdillmcfarland
