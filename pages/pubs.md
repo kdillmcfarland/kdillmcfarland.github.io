@@ -23,7 +23,7 @@ header:
 
 0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. XXXX. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. Submitted.
 
-0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Transcript isoform analysis identifies novel genes associated with resistance to tuberculin skin test and interferon gamma release assay conversion. Submitted.
+0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Transcript isoform analysis identifies novel genes associated with resistance to tuberculin skin test and interferon gamma release assay conversion. Submitted. [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
 
 ### Software
 
