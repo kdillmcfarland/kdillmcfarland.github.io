@@ -17,8 +17,6 @@ header:
 
 0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways linking airway inflammation in asthma to functional brain changes: relevance for psychopathology and neuroinflammation. Submitted.
 
-0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. XXXX. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. Submitted.
-
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Cohen S, Lietzke A, Pacheco A, Hinderstein S, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Submitted. --- [GitHub](https://github.com/altman-lab/JS20.01)
 
 0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. XXXX. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. Submitted.
@@ -33,7 +31,9 @@ header:
 
 ### Human health and disease
 
-1. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. 2022. T-cell deficiency and hyperinflammatory monocyte responses associate with *Mycobacterium avium* complex lung disease. Front Immunol 13: 1016038 doi: [10.3389/fimmu.2022.1016038](https://doi.org/10.3389/fimmu.2022.1016038)
+1. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Liu M, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. 2023. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2022.12.825](https://doi.org/10.1016/j.jaci.2022.12.825)
+
+0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. 2022. T-cell deficiency and hyperinflammatory monocyte responses associate with *Mycobacterium avium* complex lung disease. Front Immunol 13: 1016038 doi: [10.3389/fimmu.2022.1016038](https://doi.org/10.3389/fimmu.2022.1016038)
 
 0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O'Connor GT, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Kattan M, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
 
