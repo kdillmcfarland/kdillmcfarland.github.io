@@ -27,15 +27,8 @@
     url: "/blog/archive/"
 
 - title: "Workshops"
-  url: "/workshops/"
+  url: "https://bigslu.github.io/workshops/"
   side: left
-  dropdown:
-  - title: "R"
-    url: "/workshops/"
-  - title: "Git and GitHub"
-    url: "/workshops/"
-  - title: "Cloud computing"
-    url: "/workshops/"
 
 - title: "Search"
   url: "/search/"
