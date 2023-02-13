@@ -19,7 +19,7 @@ widget2:
   text: "Coding tips, musings, and anything else that pops into my head worth sharing."
 widget3:
   title: "Workshops"
-  url: 'http://kdillmcfarland.github.io/workshops/'
+  url: 'https://bigslu.github.io/workshops/'
   image: hex.stickers.png 
   text: "R, git, cloud computing, and more!"
 #
