@@ -48,9 +48,9 @@ header:
 __*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
 <ul><li>Lead a team of bioinformaticians in the analysis of human ‘omics data from multiple research groups</li></ul>
-<ul><li>Director of the Human Immunology Project Consortium ([HIPC](https://immunespace.org/)) Data Management and Analysis Core</li></ul>
+<ul><li>Director of the Human Immunology Project Consortium ( [HIPC](https://immunespace.org/) ) Data Management and Analysis Core</li></ul>
 <ul><li>Develop, standardize, and publish 'omics workflows in R packages and other software</li></ul>
-<ul><li>Mentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ([BIGslu](https://github.com/BIGslu))</li></ul>
+<ul><li>Mentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ( [BIGslu](https://github.com/BIGslu) )</li></ul>
 
 __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
@@ -58,12 +58,12 @@ __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. 
 
 __*08/2017 - 06/2019* --- Post-doctoral research fellow, Microbiology & Immunology, U. of British Columbia__
 
-<ul><li>Directed Experiential Data Science for Undergraduate Cross-disciplinary Education ([EDUCE](https://educe-ubc.github.io/)) including a team of 3 teaching assistants</li></ul>
+<ul><li>Directed Experiential Data Science for Undergraduate Cross-disciplinary Education ( [EDUCE](https://educe-ubc.github.io/) ) including a team of 3 teaching assistants</li></ul>
 <ul><li>Designed and implemented data science curriculum in 7 courses</li></ul>
-<ul><li> [ECOSCOPE](http://ecoscope.ubc.ca/) fellow coordinating and teaching data science workshops for industry and academic partners</li></ul>
+<ul><li> ECOSCOPE fellow coordinating and teaching data science workshops for industry and academic partners ( [ECOSCOPE](http://ecoscope.ubc.ca/) )</li></ul>
 
 __*07/2016 - 06/2017*	--- Post-doctoral research associate, Bacteriology/Sociology, U. of Wisconsin-Madison__
-<ul><li>Investigated relationships between the human gut microbiome and longterm behaviors in the Wisconsin Longitudinal Study ([WLS](https://www.ssc.wisc.edu/wlsresearch/))</li></ul>
+<ul><li>Investigated relationships between the human gut microbiome and longterm behaviors in the Wisconsin Longitudinal Study ( [WLS](https://www.ssc.wisc.edu/wlsresearch/) )</li></ul>
 <ul><li>Navigated large, longitudinal survey databases </li></ul> 
 
 __*08/2011 - 06/2016*	--- Graduate research assistant, Bacteriology, U. of Wisconsin-Madison__

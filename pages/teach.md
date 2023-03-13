@@ -40,7 +40,7 @@ Fall 2012 --- Guest lecturer & teaching assistant Physiology of Microorganisms (
 
 ### Workshops and short courses
 <br>
-2018-2019 --- Instructor [ECOSCOPE workshops](https://educe-ubc.github.io/workshops/)) "Introduction to R", "The R tidyverse", "Reproducible research in Git and R", and "Intermediate R programming" 
+2018-2019 --- Instructor [ECOSCOPE workshops](https://educe-ubc.github.io/workshops/) "Introduction to R", "The R tidyverse", "Reproducible research in Git and R", and "Intermediate R programming" 
 
 Sum 2018 --- Instructor Compute Canada Research Computing Summer School "Microbiome data manipulation and visualization in R"
 
