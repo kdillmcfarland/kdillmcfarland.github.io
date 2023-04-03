@@ -13,13 +13,11 @@ header:
 
 ### In preparation
 
-1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. In prep.
+1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. *In prep.*
 
-0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways linking airway inflammation in asthma to functional brain changes: relevance for psychopathology and neuroinflammation. Submitted.
+0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. XXXX. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. *In revision.*
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Pearson G, Cohen S, Lietzke A, Pacheco A, Hinderstein S, Soleimanpour SS, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Submitted. --- [GitHub](https://github.com/altman-lab/JS20.01)
-
-0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Transcript isoform analysis identifies novel genes associated with resistance to tuberculin skin test and interferon gamma release assay conversion. Submitted. [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
 
 ### Software
 
@@ -29,7 +27,9 @@ header:
 
 ### Human health and disease
 
-1. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. 2023. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2023.02.031](https://doi.org/10.1016/j.jaci.2023.02.031)
+1. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. *In press.* [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
+
+0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. 2023. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2023.02.031](https://doi.org/10.1016/j.jaci.2023.02.031)
 
 0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Liu M, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. 2023. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2022.12.825](https://doi.org/10.1016/j.jaci.2022.12.825)
 
@@ -53,11 +53,11 @@ header:
 
 ### Education
 
-9. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) ---  [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
+13. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) ---  [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
 
 ### Animal microbiomes
 
-10. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
+14. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
 
 0. Carroll C, Olsen KD, Ricks NJ, **Dill-McFarland KA**, Suen G, Robinson TF, Chaston JM. 2019. Bacterial communities in the alpaca gastrointestinal tract vary with diet and body site. Front Microbiol 9: 3334. doi: [10.3389/fmicb.2018.03334](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03334/full)
 
