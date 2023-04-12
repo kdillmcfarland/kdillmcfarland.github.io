@@ -5,7 +5,7 @@ library(tidyverse)
 
 p1 <- data.frame(
   year = as.character(2014:2023),
-  total = c(1,0,4,5,5,4,0,1,5,4)
+  total = c(1,0,4,5,5,4,0,1,4,4)
 ) %>% 
 
   ggplot(aes(y=total,x=year)) +
