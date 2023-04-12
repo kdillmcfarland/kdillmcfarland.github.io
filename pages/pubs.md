@@ -27,7 +27,7 @@ header:
 
 ### Human health and disease
 
-1. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. *In press.* [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
+3. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. *In press.* [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
 
 0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. 2023. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2023.02.031](https://doi.org/10.1016/j.jaci.2023.02.031)
 
@@ -53,11 +53,11 @@ header:
 
 ### Education
 
-13. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) ---  [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
+15. **Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) ---  [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)
 
 ### Animal microbiomes
 
-14. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
+16. Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)
 
 0. Carroll C, Olsen KD, Ricks NJ, **Dill-McFarland KA**, Suen G, Robinson TF, Chaston JM. 2019. Bacterial communities in the alpaca gastrointestinal tract vary with diet and body site. Front Microbiol 9: 3334. doi: [10.3389/fmicb.2018.03334](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03334/full)
 
