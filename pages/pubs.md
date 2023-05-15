@@ -21,15 +21,15 @@ header:
 
 ### Software
 
-1. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. *In press.* bioRxiv doi: [10.1101/2022.10.10.508946](https://doi.org/10.1101/2022.10.10.508946) --- [GitHub](https://github.com/BIGslu/kimma)
+1. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5):btad279. doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- bioRxiv doi: [10.1101/2022.10.10.508946](https://doi.org/10.1101/2022.10.10.508946) --- [GitHub](https://github.com/BIGslu/kimma)
 
 0. **Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)
 
 ### Human health and disease
 
-3. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. *In press.* [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
+3. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. 18(4):e0284498. doi: [10.1371/journal.pone.0284498](https://doi.org/10.1371/journal.pone.0284498) --- [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
 
-0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. 2023. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2023.02.031](https://doi.org/10.1016/j.jaci.2023.02.031)
+0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. 2023. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. J Allergy Clin Immunol. S0091-6749(23)00292-0. doi: [10.1016/j.jaci.2023.02.031](https://doi.org/10.1016/j.jaci.2023.02.031)
 
 0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Liu M, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. 2023. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2022.12.825](https://doi.org/10.1016/j.jaci.2022.12.825)
 
