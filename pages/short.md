@@ -2,7 +2,7 @@
 layout: page
 title: "Resume"
 subheadline: ""
-teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Skilled leader of teams with diverse backgrounds and varied training. Expertise in next-generation sequencing from experimental design to publication. Effective communicator with formal teaching experience. Specific skills include:"
+teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Expertise in multi-omics from experimental design to publication. Skilled leader of teams with diverse backgrounds and varied training. Effective communicator with formal teaching experience. Specific skills include:"
 permalink: "/short/"
 header:
     image_fullwidth: "man.plot.png"
@@ -17,7 +17,7 @@ header:
  <tr>
     <td> <ul>
     <li>Transcriptomics: RNA-seq, scRNA-seq</li>
-    <li>Genetics: MegaEX, Omni, whole exome</li>
+    <li>Genetics: MegaEX, lpWGS, whole exome</li>
     <li>Epigenetics: ATAC-seq, bisulfite seq</li>
     <li>Proteomics: MS/MS</li>
     <li>Microbiome: 16S, 18S, ITS, meta-transcriptomics</li>
@@ -47,20 +47,22 @@ header:
 <br>
 __*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
-<ul><li>Lead a team of bioinformaticians in the analysis of human ‘omics data from multiple research groups</li></ul>
+<ul><li>Lead a team of bioinformaticians in the analysis of ‘omics data for multiple research groups across the Dept of Medicine</li></ul>
 <ul><li>Director of the Human Immunology Project Consortium ( [HIPC](https://immunespace.org/) ) Data Management and Analysis Core</li></ul>
 <ul><li>Develop, standardize, and publish 'omics workflows in R packages and other software</li></ul>
-<ul><li>Mentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ( [BIGslu](https://github.com/BIGslu) )</li></ul>
+<ul><li>Contribute to scientific grants and publications</li></ul>
 
 __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
 <ul><li>Analyze human transcriptomic, epigenetic, and genetic datasets including quality assessment, statistical tests, and visualization</li></ul>
 
+<ul><li>Mentor researchers and students as Founder and Chair of the Bioinformatics Group at South Lake Union ( [BIGslu](https://github.com/BIGslu) ) and Informatics for TB ( [i4TB](https://seatrac.uw.edu/training/i4TBworkinggroup) )</li></ul>
+
 __*08/2017 - 06/2019* --- Post-doctoral research fellow, Microbiology & Immunology, U. of British Columbia__
 
-<ul><li>Directed Experiential Data Science for Undergraduate Cross-disciplinary Education ( [EDUCE](https://educe-ubc.github.io/) ) including a team of 3 teaching assistants</li></ul>
+<ul><li>Directed the Experiential Data Science for Undergraduate Cross-disciplinary Education ( [EDUCE](https://educe-ubc.github.io/) ) program</li></ul>
 <ul><li>Designed and implemented data science curriculum in 7 courses</li></ul>
-<ul><li> ECOSCOPE fellow coordinating and teaching data science workshops for industry and academic partners ( [ECOSCOPE](http://ecoscope.ubc.ca/) )</li></ul>
+<ul><li> [ECOSCOPE](http://ecoscope.ubc.ca/) fellow coordinating and teaching data science workshops for industry and academic partners</li></ul>
 
 __*07/2016 - 06/2017*	--- Post-doctoral research associate, Bacteriology/Sociology, U. of Wisconsin-Madison__
 <ul><li>Investigated relationships between the human gut microbiome and longterm behaviors in the Wisconsin Longitudinal Study ( [WLS](https://www.ssc.wisc.edu/wlsresearch/) )</li></ul>
@@ -83,7 +85,7 @@ __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget
 
 ### Select publications
 <br>
-**Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2022. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. bioRxiv doi: [10.1101/2022.10.10.508946](https://doi.org/10.1101/2022.10.10.508946) --- [GitHub](https://github.com/BIGslu/kimma)
+**Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5):btad279. doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)
 
 Jackson DJ, Bacharier LB, Gergen PJ ... **Dill-McFarland KA** ... Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
 
