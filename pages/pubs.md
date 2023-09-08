@@ -21,9 +21,6 @@ header:
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Nat Microbiol. *In revision.* --- [GitHub](https://github.com/altman-lab/JS20.01)
 
-0. Hong H, **Dill-McFarland KA**, Benson B, Simmons JD, Peterson GJ, Bencheck P, Stein CM, Boom WH, Mayanja-Kizza M, Hawn TR. XXXX. Mtb-induced monocyte transcriptional responses associate with resistance to
-TST/IGRA conversion in PLWH. *Submitted.*
-
 ### Software
 
 1. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5):btad279. doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)
@@ -32,7 +29,9 @@ TST/IGRA conversion in PLWH. *Submitted.*
 
 ### Human health and disease
 
-3. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. 2023. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. *In press.*
+3. Hong H, **Dill-McFarland KA**, Benson B, Simmons JD, Peterson GJ, Bencheck P, Stein CM, Boom WH, Mayanja-Kizza M, Hawn TR. 2023. Mtb-induced monocyte transcriptional responses associate with resistance to TST/IGRA conversion in PLWH. AIDS. *In press.*
+
+0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. 2023. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. *In press.*
 
 0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. 18(4):e0284498. doi: [10.1371/journal.pone.0284498](https://doi.org/10.1371/journal.pone.0284498) --- [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
 
