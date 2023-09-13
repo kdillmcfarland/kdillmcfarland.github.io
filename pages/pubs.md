@@ -15,9 +15,7 @@ header:
 
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. *In prep.*
 
-0. Hong H, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek P, Mayanja-Kizza H, Boom WH, Stein DM, Hawn TR. XXXX. Expression quantitative trait loci associated with cytokine signaling and resistance against *Mycobacterium tuberculosis* infection. *In prep.*
-
-0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. *Mycobacterium tuberculosis* induced interferon pathways distinguish responses of alveolar and monocyte-derived human  macrophages. *In prep.*
+0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. *Mycobacterium tuberculosis* induced interferon pathways distinguish responses of alveolar and monocyte-derived human macrophages. *In revision.*
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Nat Microbiol. *In revision.* --- [GitHub](https://github.com/altman-lab/JS20.01)
 
@@ -29,7 +27,9 @@ header:
 
 ### Human health and disease
 
-3. Hong H, **Dill-McFarland KA**, Benson B, Simmons JD, Peterson GJ, Bencheck P, Stein CM, Boom WH, Mayanja-Kizza M, Hawn TR. 2023. Mtb-induced monocyte transcriptional responses associate with resistance to TST/IGRA conversion in PLWH. AIDS. *In press.*
+3. Hong H, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek P, Mayanja-Kizza H, Boom WH, Stein DM, Hawn TR. 2023. *Mycobacterium tuberculosis*-dependent monocyte expression quantitative trait loci and tuberculosis pathogenesis. medRxiv. doi: [10.1101/2023.08.28.23294698](https://doi.org/10.1101/2023.08.28.23294698)
+
+0. Hong H, **Dill-McFarland KA**, Benson B, Simmons JD, Peterson GJ, Bencheck P, Stein CM, Boom WH, Mayanja-Kizza M, Hawn TR. 2023. Mtb-induced monocyte transcriptional responses associate with resistance to TST/IGRA conversion in PLWH. AIDS. Online ahead of print. doi: [10.1097/QAD.0000000000003716](https://pubmed.ncbi.nlm.nih.gov/37696247/). 
 
 0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. 2023. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. *In press.*
 
