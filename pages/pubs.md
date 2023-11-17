@@ -15,9 +15,12 @@ header:
 
 1. **Dill-McFarland KA**, Peterson G, Penchek P, Stein CM, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipoprotein pathways associated with resistance to tuberculosis. *In prep.*
 
+0. Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. XXXX. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. *In prep.*
+
 0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. *Mycobacterium tuberculosis* induced interferon pathways distinguish responses of alveolar and monocyte-derived human macrophages. *In revision.*
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. XXXX. Tuberculosis resistance protein TOLLIP controls immune pathology by resolving the integrated stress response in alveolar macrophages. Nat Microbiol. *In revision.* --- [GitHub](https://github.com/altman-lab/JS20.01)
+
 
 ### Software
 
@@ -29,15 +32,15 @@ header:
 
 3. Hong H, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek P, Mayanja-Kizza H, Boom WH, Stein DM, Hawn TR. 2023. *Mycobacterium tuberculosis*-dependent monocyte expression quantitative trait loci and tuberculosis pathogenesis. medRxiv. doi: [10.1101/2023.08.28.23294698](https://doi.org/10.1101/2023.08.28.23294698)
 
-0. Hong H, **Dill-McFarland KA**, Benson B, Simmons JD, Peterson GJ, Bencheck P, Stein CM, Boom WH, Mayanja-Kizza M, Hawn TR. 2023. Mtb-induced monocyte transcriptional responses associate with resistance to TST/IGRA conversion in PLWH. AIDS. Online ahead of print. doi: [10.1097/QAD.0000000000003716](https://pubmed.ncbi.nlm.nih.gov/37696247/). 
+0. Hong H, **Dill-McFarland KA**, Benson B, Simmons JD, Peterson GJ, Bencheck P, Stein CM, Boom WH, Mayanja-Kizza M, Hawn TR. 2023. Mtb-induced monocyte transcriptional responses associate with resistance to TST/IGRA conversion in PLWH. AIDS. 37(15):2287-2296. doi: [10.1097/QAD.0000000000003716](https://doi.org/10.1097/qad.0000000000003716)
 
-0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. 2023. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. *In press.*
+0. Altman MC\*, **Dill-McFarland KA**\*, Esnault S, Jarjour NN, Busse W, Rosenkranz M. 2023. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. S0091-6749(23)01183-1. doi: [10.1016/j.jaci.2023.07.025](https://doi.org/10.1016/j.jaci.2023.07.025)
 
 0. Simmons JD, Segnitz RM, **Dill-McFarland KA**, Stein CM, Peterson GJ, Mayanja-Kizza H, Boom WH, Hawn TR. 2023. Differentially expressed transcript isoforms associate with resistance to tuberculin skin test and interferon gamma release assay conversion. PLoS One. 18(4):e0284498. doi: [10.1371/journal.pone.0284498](https://doi.org/10.1371/journal.pone.0284498) --- [GitHub](https://github.com/hawn-lab/RSTR_splice_public)
 
 0. Phelan KJ, **Dill-McFarland KA**, Kothari A, Segnitz RM, Burkle J, Grashel B, Jenkins S, Spagna D, Martin LJ, Haslam DB, Biagini JM, Kalra M, McCoy KS, Ross K, Jackson DJ, Mersha T, Altman MC, Khurana Hershey GK. 2023. Airway transcriptome networks identify susceptibility to frequent asthma exacerbations in children. J Allergy Clin Immunol. S0091-6749(23)00292-0. doi: [10.1016/j.jaci.2023.02.031](https://doi.org/10.1016/j.jaci.2023.02.031)
 
-0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Liu M, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. 2023. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. J Allergy Clin Immunol. Online ahead of print. doi: [10.1016/j.jaci.2022.12.825](https://doi.org/10.1016/j.jaci.2022.12.825)
+0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Liu M, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. 2023. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. J Allergy Clin Immunol. 151(6):1484-1493. doi: [10.1016/j.jaci.2022.12.825](https://doi.org/10.1016/j.jaci.2022.12.825)
 
 0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. 2022. T-cell deficiency and hyperinflammatory monocyte responses associate with *Mycobacterium avium* complex lung disease. Front Immunol 13: 1016038 doi: [10.3389/fimmu.2022.1016038](https://doi.org/10.3389/fimmu.2022.1016038)
 
@@ -45,7 +48,7 @@ header:
 
 0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. 2022. Monocyte transcriptional responses to *Mycobacterium tuberculosis* associate with resistance to tuberculin skin test and interferon gamma release assay conversion. mSphere 7(3): e0015922. doi: [10.1128/msphere.00159-22](https://doi.org/10.1128/msphere.00159-22) --- [GitHub](https://github.com/hawn-lab/RSTR_RNAseq_Mtb_public)
 
-0. **Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. Epub ahead of print. doi: [10.1016/j.jaci.2022.03.025](https://doi.org/10.1016/j.jaci.2022.03.025) --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
+0. **Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. 150(3):666-675. doi: [10.1016/j.jaci.2022.03.025](https://doi.org/10.1016/j.jaci.2022.03.025) --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
 
 0. **Dill-McFarland KA**\*, Tang Z\*, Kemis JH, Kerby RL, Chen G, Palloni A, Sorenson T, Rey FE†, Herd P†. 2019. Close social relationships correlate with human gut microbiota composition. Sci Rep 9: 703. doi: [10.1038/s41598-018-37298-9](https://www.nature.com/articles/s41598-018-37298-9) ---  [GitHub](https://github.com/kdillmcfarland/WLS)
 
