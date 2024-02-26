@@ -13,7 +13,7 @@ header:
 
 ### In preparation
 
-1. **Dill-McFarland KA**†, Simmons JD, Peterson GJ, Nguyen FK, Campo M, Penchek P, Stein CM, Vaisar T, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of lipid and cholesterol pathways associated with resistance to TST/IGRA conversion after exposure to *Mycobacterium tuberculosis*. *In prep.* GitHub in progress.
+1. **Dill-McFarland KA**†, Simmons JD, Peterson GJ, Nguyen FK, Campo M, Penchek P, Stein CM, Vaisar T, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of host lipid metabolism associates with resistance to TST/IGRA conversion after exposure to *Mycobacterium tuberculosis*. *Submitted.* --- [GitHub](https://github.com/hawn-lab/RSTR_epigenetics_public)
 
 0. Duncombe CJ, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Murphy SC. XXXX. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites. *Submitted.*
 
@@ -23,7 +23,7 @@ header:
 
 0. Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. XXXX. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. *Submitted.*
 
-0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. *Submitted.* --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
+0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. *Submitted.* bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
 
 ### Software
 
