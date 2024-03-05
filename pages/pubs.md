@@ -8,7 +8,7 @@ header:
  image_fullwidth: "pubs.png"
 ---
 
-\* first author if not listed first
+\* first author if not listed first  
 † corresponding author if not listed last
 
 ### In preparation
