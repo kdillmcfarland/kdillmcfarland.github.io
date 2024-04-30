@@ -12,20 +12,25 @@ header:
 † corresponding author if not listed last
 
 ### In preparation
-
-1. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of airway type-2 and epithelial inflammation in urban children with asthma. *In prep.*
+#### Preprints
 
 0. **Dill-McFarland KA**†, Simmons JD, Peterson GJ, Nguyen FK, Campo M, Penchek P, Stein CM, Vaisar T, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of host lipid metabolism associates with resistance to TST/IGRA conversion after exposure to *Mycobacterium tuberculosis*. *Submitted.* bioRvix doi: [2024.02.27.582348](https://doi.org/10.1101/2024.02.27.582348) --- [GitHub](https://github.com/hawn-lab/RSTR_epigenetics_public)
+
+0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. *Submitted.* bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
+
+#### Other
+
+1. Esnault S, Bernaub K, Heather F, Arnaud D, Emeline D, **Dill-McFarland KA**, Altman MC, Busse WW, Rosenkranze MA, Tattersall MC, Labreuche J, Figeach M, Dezoteux F, Segard B, Mortuaire G, Staumont-Sallé D, Stoup T, Chenivesse C, Sandbo N, Jarjour NN, Lefèvre G. XXXX. Oncostatin-M is produced by human eosinophils and is associated with asthma severity and eosinophilia after an *in vivo* allergen challenge with potential systemic effects. *In prep.*
+
+0. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of airway type-2 and epithelial inflammation in urban children with asthma. *In prep.*
 
 0. Duncombe CJ, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Murphy SC. XXXX. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites. *Submitted.*
 
 0. Ivie JJ, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek PH, Mayanja-Kizza H, Veith LE, Boom WH, Stein CM, Thwaites GE, Thanh HH, Thuong NTT, Chang X, Dunstan S, Hawn TR. XXXX. Genome-wide screen identifies variants associated with *Mycobacterium tuberculosis*-induced myeloid cell cytokine response. *Submitted.*
 
-0. Altman MC, Murphy RS, Janczyk T, Jayavelu ND, Calatroni A, Kattan M, Gill MA, Stokes J, Liu AH, Khurana Hershey GK, Sherenian M, Kumar R, Robison RG, Gruchalla RS, O’Connor GT, Zoratti EM, Teach SJ, Lynch SV, **Dill-McFarland KA**, Becker PM, Togias A, Gern JE, Bacharier LB, Busse WW, Jackson DJ. XXXX. Inflammatory epithelial and macrophage associated pathways underlie residual asthma exacerbations in urban children treated with mepolizumab therapy. *Submitted.*
+0. Altman MC†, Murphy RS, Janczyk T, Jayavelu ND, Calatroni A, Kattan M, Gill MA, Stokes J, Liu AH, Khurana Hershey GK, Sherenian M, Kumar R, Robison RG, Gruchalla RS, O’Connor GT, Zoratti EM, Teach SJ, Lynch SV, **Dill-McFarland KA**, Becker PM, Togias A, Gern JE, Bacharier LB, Busse WW, Jackson DJ. XXXX. Epithelial and macrophage associated inflammatory pathways underlie asthma exacerbations: Lessons from blocking IL-5 mediated T2-inflammation. *Submitted.*
 
 0. Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. XXXX. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. *Submitted.*
-
-0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. *Submitted.* bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
 
 ### Software
 
@@ -35,9 +40,9 @@ header:
 
 ### Human health and disease
 
-0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. 2024. Tollip inhibits lipid accumulation and the integrated stress response in alveolar macrophages to control *Mycobacterium tuberculosis* infection. Nat Microbiol. *In press.* --- [GitHub](https://github.com/altman-lab/JS20.01)
+0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. 2024. Tollip inhibits lipid accumulation and the integrated stress response in alveolar macrophages to control *Mycobacterium tuberculosis* infection. Nat Microbiol. 9: 949–963 doi: [10.1038/s41564-024-01641-w](https://doi.org/10.1038/s41564-024-01641-w) --- [GitHub](https://github.com/altman-lab/JS20.01)
 
-0. Hong H, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek P, Mayanja-Kizza H, Boom WH, Stein CM, Hawn TR. 2024. *Mycobacterium tuberculosis*-dependent monocyte expression quantitative trait loci and tuberculosis pathogenesis. Front Immunol. *In press.* medRxiv. doi: [10.1101/2023.08.28.23294698](https://doi.org/10.1101/2023.08.28.23294698) --- [GitHub](https://github.com/hawn-lab/RSTR_eQTL_public)
+0. Hong H, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek P, Mayanja-Kizza H, Boom WH, Stein CM, Hawn TR. 2024. *Mycobacterium tuberculosis*-dependent monocyte expression quantitative trait loci and tuberculosis pathogenesis. Front Immunol. 15: 1359178. doi: [fimmu.2024.1359178](https://doi.org/10.3389/fimmu.2024.1359178) --- [GitHub](https://github.com/hawn-lab/RSTR_eQTL_public)
 
 0. **Dill-McFarland KA**, Altman MC, Esnault S, Jarjour NN, Busse W, Rosenkranz M. 2024. Molecular pathways underlying lung-brain axis signaling in asthma: relevance for psychopathology and neuroinflammation. J Allergy Clin Immunol. S53(1): 111-121. doi: [10.1016/j.jaci.2023.07.025](https://doi.org/10.1016/j.jaci.2023.07.025) --- [GitHub](https://github.com/altman-lab/P337_MINA_BAL_public)
 
@@ -49,9 +54,9 @@ header:
 
 0. Murphy RC, Lai Y, Altman MC, Barrow KA, **Dill-McFarland KA**, Liu M, Hamerman JA, Lacy-Hulbert A, Piliponsky AM, Ziegler SF, Altemeier WA, Debley JS, Gharib SA, Hallstrand TS. 2023. Rhinovirus infection of the airway epithelium enhances mast cell immune responses via epithelial-derived interferons. J Allergy Clin Immunol. 151(6): 1484-1493. doi: [10.1016/j.jaci.2022.12.825](https://doi.org/10.1016/j.jaci.2022.12.825)
 
-0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. 2022. T-cell deficiency and hyperinflammatory monocyte responses associate with *Mycobacterium avium* complex lung disease. Front Immunol 13: 1016038 doi: [10.3389/fimmu.2022.1016038](https://doi.org/10.3389/fimmu.2022.1016038)
+0. Lindestam Arlehamn CS, Benson B, Kuan R, **Dill-McFarland KA**, Peterson GJ, Paul S, Nguyen FK, Gilman RH, Saito M, Taplitz R, Arentz M, Goss CH, Aitken ML, Horne DJ, Shah JA, Sette A, Hawn TR. 2022. T-cell deficiency and hyperinflammatory monocyte responses associate with *Mycobacterium avium* complex lung disease. Front Immunol 13: 1016038. doi: [10.3389/fimmu.2022.1016038](https://doi.org/10.3389/fimmu.2022.1016038)
 
-0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O'Connor GT, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Kattan M, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
+0. Jackson DJ, Bacharier LB, Gergen PJ, Gagalis L, Calatroni A, Wellford S, Gill MA, Stokes J, Liu AH, Gruchalla RS, Cohen RT, Makhija M, Khurana Hershey GK, O'Connor GT, Pongracic JA, Sherenian MG, Rivera-Spoljaric K, Zoratti EM, Teach SJ, Kattan M, Dutmer CM, Kim H, Lamm C, Sheehan WJ, Segnitz RM, **Dill-McFarland KA**, Visness CM, Becker PM, Gern JE, Sorkness CA, Busse WW, Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511. doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
 
 0. Simmons JD, **Dill-McFarland KA**, Stein CM, Van PT, Chihota V, Ntshiqa T, Maenetje P, Peterson GJ, Benchek P, Nsereko M, Velen K, Fielding KL, Grant AD, Gottardo R, Mayanja-Kizza H, Wallis RS, Churchyard G, Boom WH, Hawn TR. 2022. Monocyte transcriptional responses to *Mycobacterium tuberculosis* associate with resistance to tuberculin skin test and interferon gamma release assay conversion. mSphere 7(3): e0015922. doi: [10.1128/msphere.00159-22](https://doi.org/10.1128/msphere.00159-22) --- [GitHub](https://github.com/hawn-lab/RSTR_RNAseq_Mtb_public)
 
