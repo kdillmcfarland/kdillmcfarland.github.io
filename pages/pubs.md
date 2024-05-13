@@ -16,13 +16,11 @@ header:
 
 0. **Dill-McFarland KA**†, Simmons JD, Peterson GJ, Nguyen FK, Campo M, Penchek P, Stein CM, Vaisar T, Mayanja-Kizza H, Boom WH, Hawn TR. XXXX. Epigenetic programming of host lipid metabolism associates with resistance to TST/IGRA conversion after exposure to *Mycobacterium tuberculosis*. *Submitted.* bioRvix doi: [2024.02.27.582348](https://doi.org/10.1101/2024.02.27.582348) --- [GitHub](https://github.com/hawn-lab/RSTR_epigenetics_public)
 
-0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. XXXX. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. *Submitted.* bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
-
-#### Other
+#### On-going
 
 1. Esnault S, Bernaub K, Heather F, Arnaud D, Emeline D, **Dill-McFarland KA**, Altman MC, Busse WW, Rosenkranze MA, Tattersall MC, Labreuche J, Figeach M, Dezoteux F, Segard B, Mortuaire G, Staumont-Sallé D, Stoup T, Chenivesse C, Sandbo N, Jarjour NN, Lefèvre G. XXXX. Oncostatin-M is produced by human eosinophils and is associated with asthma severity and eosinophilia after an *in vivo* allergen challenge with potential systemic effects. *In prep.*
 
-0. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of airway type-2 and epithelial inflammation in urban children with asthma. *In prep.*
+0. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of airway type-2 and epithelial inflammation in urban children with asthma. *Submitted.*
 
 0. Duncombe CJ, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Murphy SC. XXXX. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites. *Submitted.*
 
@@ -39,6 +37,8 @@ header:
 0. **Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)
 
 ### Human health and disease
+
+0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. 2024. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. J Immunol. *In press.* --- bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. 2024. Tollip inhibits lipid accumulation and the integrated stress response in alveolar macrophages to control *Mycobacterium tuberculosis* infection. Nat Microbiol. 9: 949–963 doi: [10.1038/s41564-024-01641-w](https://doi.org/10.1038/s41564-024-01641-w) --- [GitHub](https://github.com/altman-lab/JS20.01)
 
