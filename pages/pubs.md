@@ -38,7 +38,7 @@ header:
 
 ### Human health and disease
 
-0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. 2024. Human aveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. J Immunol. *In press.* --- bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
+0. Campo M†, **Dill-McFarland KA**, Peterson GJ, Benson B, Skerrett SJ, Hawn TR. 2024. Human alveolar and monocyte-derived macrophage responses to *Mycobacterium tuberculosis*. J Immunol. *In press.* --- bioRvix doi: [2024.02.20.581265](https://www.biorxiv.org/content/10.1101/2024.02.20.581265v1) --- [GitHub](https://github.com/hawn-lab/AM_MDM_TB_public)
 
 0. Venkatasubramanian S, Plumlee C, **Dill-McFarland KA**, Cohen SB, Gern B, Rane DA, Meyer MK, Saha A, Pearson GL, Lietzke A, Pacheco A, Chow Y, Hung CF, Soleimanpour SA, Altman MC, Urdahl KB, Shah JA. 2024. Tollip inhibits lipid accumulation and the integrated stress response in alveolar macrophages to control *Mycobacterium tuberculosis* infection. Nat Microbiol. 9: 949–963 doi: [10.1038/s41564-024-01641-w](https://doi.org/10.1038/s41564-024-01641-w) --- [GitHub](https://github.com/altman-lab/JS20.01)
 
@@ -90,7 +90,7 @@ header:
 
 0. Williams CL, **Dill-McFarland KA**, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. 2018. Dietary changes during weaning shape the gut microbiota of red pandas (*Ailurus fulgens*). Conserv Physiol 6(1): cox075. doi: [10.1093/conphys/cox075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5772406/)
 
-0. Cunha CS, Veloso CM, Marcondes MI, Mantovani HC, Tomich TR, Periera LGR, Ferreira MF, **Dill-McFarland KA**†, Suen G†. 2017. Assessing the impact of rumen microbial communities on methane emissions and production traits in Holstein cows in a tropical climate. Syst Appl Microbiol 40(8): 492-99. doi: [10.1016/j.syapm.2017.07.008](https://www.sciencedirect.com/science/article/abs/pii/S0723202017300966?via%3Dihub)
+0. Cunha CS, Veloso CM, Marcondes MI, Mantovani HC, Tomich TR, Periera LGR, Ferreira MF, **Dill-McFarland KA**†, Suen G†. 2017. Assessing the impact of rumen microbial communities on methane emissions and production traits in Holstein cows in a tropical climate. Syst Appl Microbiol 40(8): 492-99. doi: [10.1016/j.syapm.2017.07.008](https://doi.org/10.1016/j.syapm.2017.07.008)
 
 0. Dai X, Weimer PJ, **Dill-McFarland KA**, Brandao VL, Suen G, Faciola AP. 2017. Camelina seed supplementation at two dietary fat levels changes ruminal bacterial community composition in a dual-flow continuous culture system. Front Microbiol 8: 2147. doi: [10.3389/fmicb.2017.02147](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675879/)
 
@@ -102,7 +102,7 @@ header:
 
 0. **Dill-McFarland KA**, Weimer PJ, Pauli JN, Peery MZ, and Suen G. 2016. Diet specialization selects for an unusual and simplified gut microbiota in two- and three-toed sloths. Environ Microbiol 18(5): 1391-402. doi: [10.1111/1462-2920.13022](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.13022)
 
-0. **Dill-McFarland KA**, Suen G, Carey HV. 2016. Spotlight: Bears arouse interest in microbiota's role in health. Trends Microbiol 24(4): 245-6. doi: [10.1016/j.tim.2016.01.011](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(16)00024-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0966842X1600024X%3Fshowall%3Dtrue)
+0. **Dill-McFarland KA**, Suen G, Carey HV. 2016. Spotlight: Bears arouse interest in microbiota's role in health. Trends Microbiol 24(4): 245-6. doi: [10.1016/j.tim.2016.01.011](https://doi.org/10.1016/j.tim.2016.01.011)
 
 0. **Dill-McFarland KA**, Neil KL, Zeng A, Sprenger RJ, Kurtz CC, Suen G†, Carey HV†. 2014. Hibernation alters diversity & composition of mucosa-associated bacteria while enhancing antimicrobial defence in the gut of 13-lined ground squirrels. Mol Ecol 23(18): 4658-69. doi: [10.1111/mec.12884](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.12884)
 
