@@ -34,6 +34,8 @@ header:
 
 0. Paik J†, Kim A, Fogassy K, Snyder J, Brabb T, **Dill-McFarland KA**, He Q, Amory JK. XXXX. Weight loss and metabolic effects of an ALDH1A1-specific inhibitor, FSI-TN42, in a diet induced mouse model of obesity. *Submitted.* 
 
+0. Cox MS†, **Dill-McFarland KA**, Simmons JD, Benchek P, Mayanja-Kizza H, Boom WH, Stein CM, Hawn TR. XXXX. Multi-omic latent variable data integration reveals multicellular structure pathways associated with resistance to tuberculin skin test (TST)/interferon gamma release assay (IGRA) conversion in Uganda. *Submitted.* 
+
 0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. XXXX. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. *In prep.*
 
 ### Software
