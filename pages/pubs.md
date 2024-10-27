@@ -32,8 +32,6 @@ header:
 
 0. Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. XXXX. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. *Submitted.*
 
-0. Paik J†, Kim A, Fogassy K, Snyder J, Brabb T, **Dill-McFarland KA**, He Q, Amory JK. XXXX. Weight loss and metabolic effects of an ALDH1A1-specific inhibitor, FSI-TN42, in a diet induced mouse model of obesity. *Submitted.* 
-
 0. Cox MS†, **Dill-McFarland KA**, Simmons JD, Benchek P, Mayanja-Kizza H, Boom WH, Stein CM, Hawn TR. XXXX. Multi-omic latent variable data integration reveals multicellular structure pathways associated with resistance to tuberculin skin test (TST)/interferon gamma release assay (IGRA) conversion in Uganda. *Submitted.* 
 
 0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. XXXX. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. *In prep.*
@@ -45,6 +43,8 @@ header:
 0. **Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)
 
 ### Human health and disease
+
+0. Paik J†, Kim A, Fogassy K, Snyder J, Brabb T, **Dill-McFarland KA**, He Q, Amory JK. 2024. Weight loss and metabolic effects of an ALDH1A1-specific inhibitor, FSI-TN42, in a diet induced mouse model of obesity. Int J Obes. *In press.* 
 
 0. **Dill-McFarland KA**†, Simmons JD, Peterson GJ, Nguyen FK, Campo M, Penchek P, Stein CM, Vaisar T, Mayanja-Kizza H, Boom WH, Hawn TR. 2024. Epigenetic programming of host lipid metabolism associates with resistance to TST/IGRA conversion after exposure to *Mycobacterium tuberculosis*. mSystems. e00628-24. PMID: 39162406 doi: [10.1128/msystems.00628-24](https://doi.org/10.1128/msystems.00628-24) --- bioRvix doi: [2024.02.27.582348](https://doi.org/10.1101/2024.02.27.582348) --- [GitHub](https://github.com/hawn-lab/RSTR_epigenetics_public)
 
