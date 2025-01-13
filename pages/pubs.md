@@ -16,25 +16,19 @@ header:
 
 0. Altman MC†, Murphy RS, Janczyk T, Jayavelu ND, Calatroni A, Kattan M, Gill MA, Stokes J, Liu AH, Khurana Hershey GK, Sherenian M, Kumar R, Robison RG, Gruchalla RS, O’Connor GT, Zoratti EM, Teach SJ, Lynch SV, **Dill-McFarland KA**, Becker PM, Togias A, Gern JE, Bacharier LB, Busse WW, Jackson DJ. XXXX. Epithelial and macrophage associated inflammatory pathways underlie asthma exacerbations: Lessons from blocking IL-5 mediated T2-inflammation. Lancet preprint. doi: [10.2139/ssrn.4830495](http://dx.doi.org/10.2139/ssrn.4830495)
 
-0. Watson TK, Rosen ABI, Drow T, Medjo JA, MacQuivey MA, Ge Y, Liggett HD, Grosvenor DA, **Dill-McFarland KA*,** Altman MC, Concannon PJ, Bucknet JH, Rawlings DJ, Allenspach EJ. XXXX. Reduced function of the adaptor SH2B3 promotes T1D via altered gc cytokine-regulated, T cell intrinsic immune tolerance. bioRvix doi: [10.1101/2024.08.02.606362](https://doi.org/10.1101/2024.08.02.606362) --- [GitHub](https://github.com/altman-lab/sh2b3_public)
+0. Watson TK, Rosen ABI, Drow T, Medjo JA, MacQuivey MA, Ge Y, Liggett HD, Grosvenor DA, **Dill-McFarland KA**, Altman MC, Concannon PJ, Bucknet JH, Rawlings DJ, Allenspach EJ. XXXX. Reduced function of the adaptor SH2B3 promotes T1D via altered gc cytokine-regulated, T cell intrinsic immune tolerance. bioRvix doi: [10.1101/2024.08.02.606362](https://doi.org/10.1101/2024.08.02.606362) --- [GitHub](https://github.com/altman-lab/sh2b3_public)
+
+0. Cox MS†, **Dill-McFarland KA**, Simmons JD, Benchek P, Mayanja-Kizza H, Boom WH, Stein CM, Hawn TR. XXXX. Multi-omic latent variable data integration reveals multicellular structure pathways associated with resistance to tuberculin skin test (TST)/interferon gamma release assay (IGRA) conversion in Uganda. bioRvix doi: [10.1101/2024.11.05.622020 ](https://doi.org/10.1101/2024.11.05.622020)
 
 #### On-going
 
-1. Esnault S†, Bernaub K, Floerke HL, Dendooven A, Delaunay E, **Dill-McFarland KA**, Altman MC, Busse WW, Rosenkranze MA, Tattersall MC, Johansson MW, Labreuche J, Beury D, Sebda S, Dezoteux F, Segard B, Mortuaire G, Stautmont-Salle D, Stoup T, Chenivesse C, Sandbo N, Jarjour NN, Lefèvre G. XXXX. Oncostatin-M is produced by human eosinophils and associates with asthma severity. *Submitted.*
-
-0. Esnault S\*, **Dill-McFarland KA**\*, Altman MC, Rosenkranz MA, Jarjour NN,n, Busse WW. XXXX. Identification of bronchial epithelial genes associated with type-2 eosinophilic inflammation in asthma. *Submitted.*
-
-0. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of airway type-2 and epithelial inflammation in urban children with asthma. *Submitted.*
+1. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of airway type-2 and epithelial inflammation in urban children with asthma. *Submitted.*
 
 0. Duncombe CJ, Sen N, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Murphy SC. XXXX. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites. *Submitted.*
 
 0. Ivie JJ, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek PH, Mayanja-Kizza H, Veith LE, Boom WH, Stein CM, Thwaites GE, Thanh HH, Thuong NTT, Chang X, Dunstan S, Hawn TR. XXXX. Genome-wide screen identifies variants associated with *Mycobacterium tuberculosis*-induced myeloid cell cytokine response. *Submitted.*
 
-0. Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. XXXX. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. *Submitted.*
-
-0. Cox MS†, **Dill-McFarland KA**, Simmons JD, Benchek P, Mayanja-Kizza H, Boom WH, Stein CM, Hawn TR. XXXX. Multi-omic latent variable data integration reveals multicellular structure pathways associated with resistance to tuberculin skin test (TST)/interferon gamma release assay (IGRA) conversion in Uganda. *Submitted.* 
-
-0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. XXXX. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. *In prep.*
+0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. XXXX. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. *Submitted.*
 
 ### Software
 
@@ -44,7 +38,13 @@ header:
 
 ### Human health and disease
 
-0. Paik J†, Kim A, Fogassy K, Snyder J, Brabb T, **Dill-McFarland KA**, He Q, Amory JK. 2024. Weight loss and metabolic effects of an ALDH1A1-specific inhibitor, FSI-TN42, in a diet induced mouse model of obesity. Int J Obes. *In press.* 
+0. Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. 2025. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. J Immunol. *In press.*
+
+0. Esnault S\*, **Dill-McFarland KA**\*, Altman MC, Rosenkranz MA, Jarjour NN, Busse WW. 2024. Identification of bronchial epithelial genes associated with type-2 eosinophilic inflammation in asthma. J Allergy Clin Immunol. Online ahead of print doi: [10.1016/j.jaci.2024.12.1089](https://doi.org/10.1016/j.jaci.2024.12.1089) --- [GitHub](https://github.com/altman-lab/P337_MINA_BAL_EOS)
+
+0. Paik J†, Kim A, Fogassy K, Snyder J, Brabb T, **Dill-McFarland KA**, He Q, Amory JK. 2024. Weight loss and metabolic effects of an ALDH1A1-specific inhibitor, FSI-TN42, in a diet induced mouse model of obesity. Int J Obes. Online ahead of print. doi: [10.1038/s41366-024-01676-3](https://doi.org/10.1038/s41366-024-01676-3)
+
+0. Esnault S†, Bernaub K, Floerke HL, Dendooven A, Delaunay E, **Dill-McFarland KA**, Altman MC, Busse WW, Rosenkranze MA, Tattersall MC, Johansson MW, Labreuche J, Beury D, Sebda S, Dezoteux F, Segard B, Mortuaire G, Stautmont-Salle D, Stoup T, Chenivesse C, Sandbo N, Jarjour NN, Lefèvre G. 2024. Oncostatin-M is produced by human eosinophils and expression is increased in uncontrolled severe asthma. Allergy. Online ahead of print. PMID: 39707874 doi: [10.1111/all.16453]( https://doi.org/10.1111/all.16453)
 
 0. **Dill-McFarland KA**†, Simmons JD, Peterson GJ, Nguyen FK, Campo M, Penchek P, Stein CM, Vaisar T, Mayanja-Kizza H, Boom WH, Hawn TR. 2024. Epigenetic programming of host lipid metabolism associates with resistance to TST/IGRA conversion after exposure to *Mycobacterium tuberculosis*. mSystems. e00628-24. PMID: 39162406 doi: [10.1128/msystems.00628-24](https://doi.org/10.1128/msystems.00628-24) --- bioRvix doi: [2024.02.27.582348](https://doi.org/10.1101/2024.02.27.582348) --- [GitHub](https://github.com/hawn-lab/RSTR_epigenetics_public)
 
