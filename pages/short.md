@@ -57,7 +57,7 @@ __*01/2024 - present* --- Director, Bioinformatics Core, U. of Washington__
 __*08/2024 - present* --- Bioinformatics consultant, EuropaDX__  
 
 <ul><li>Europa Data eXplorer (EuropaDX™) is a cloud-based data exploration platform that enables scientists to easily manage, process, visualize and share large multiomics datasets, https://europadx.com/</li></ul>
-<ul><li>Develop production ready R and python code for omics analysis, particularly bulk and single-cell RNAseq</li></ul>
+<ul><li>Develop production ready unix, R, and python code for omics analysis, particularly bulk and single-cell RNAseq</li></ul>
 
 __*07/2023 - present* --- Bioinformatics consultant, Seattle Biosoftware__
 
