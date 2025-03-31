@@ -2,7 +2,7 @@
 layout: page
 title: "Resume"
 subheadline: ""
-teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Expertise in multi-omics from experimental design to publication. Skilled leader of teams with diverse backgrounds and varied training. Effective communicator with formal teaching experience. Specific skills include:"
+teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Expertise in multi-omics from experimental design to publication. Skilled leader with Project Management Professional (PMP) training and teams with diverse backgrounds and varied training. Effective communicator with formal teaching experience. Specific skills include:"
 permalink: "/short/"
 header:
     image_fullwidth: "man.plot.png"
@@ -17,7 +17,7 @@ header:
  <tr>
     <td> <ul>
     <li>Transcriptomics: RNA-seq, scRNA-seq</li>
-    <li>Genetics: MegaEX, lpWGS, whole exome</li>
+    <li>Genetics: MegaEX, lpWGS, WGS</li>
     <li>Epigenetics: ATAC-seq, bisulfite seq</li>
     <li>Proteomics: MS/MS</li>
     <li>Microbiome: 16S, 18S, ITS, meta-transcriptomics</li>
@@ -27,8 +27,9 @@ header:
     <li>AWS</li>
     <li>Git, GitHub</li>
     <li>R, Rmd, Shiny</li>
+    <li>python, Jupyter</li>
     <li>STAR, BWA, bowtie</li>
-    <li>Seurat, STARsolo</li>
+    <li>Seurat, scanpy, STARsolo</li>
     <li>PLINK, vcftools</li>
     <li>mothur, QIIME</li>
     </ul> </td>
@@ -45,12 +46,21 @@ header:
 
 ### Experience
 <br>
-__*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
+__*01/2024 - present* --- Director, Bioinformatics Core, U. of Washington__
 
-<ul><li>Lead a team of bioinformaticians in the analysis of ‘omics data for multiple research groups across the Dept of Medicine</li></ul>
-<ul><li>Director of the Human Immunology Project Consortium ( [HIPC](https://immunespace.org/) ) Data Management and Analysis Core</li></ul>
-<ul><li>Develop, standardize, and publish 'omics workflows in R packages and other software</li></ul>
-<ul><li>Contribute to scientific grants and publications</li></ul>
+<ul><li>UWISDOM: U of Washington Informatics, Systems immunology, and Data Omics in Medicine, https://uwisdom.github.io/index.html</li></ul>
+<ul><li>Manage a portfolio of 10+ projects and 5+ bioinformaticians</li></ul>
+<ul><li>Develop and maintain shared code base in R and python</li></ul>
+<ul><li>Interface with the UW community to identify and fill bioinformatic needs</li></ul>
+<ul><li>Serve as the primary Bioinformatician on select projects</li></ul>
+
+__*07/2021 - 12/2023* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
+
+<ul><li>Lead a team of bioinformaticians analyzing 'omics data across diverse
+research fields</li></ul>
+<ul><li>Develop software (R packages) and reproducible workflows (snakemake,
+Rmarkdown)</li></ul>
+<ul><li>Multi-omics and integrated data analyses</li></ul>
 
 __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
