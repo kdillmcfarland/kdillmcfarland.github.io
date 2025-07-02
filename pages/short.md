@@ -2,7 +2,7 @@
 layout: page
 title: "Resume"
 subheadline: ""
-teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Expertise in multi-omics from experimental design to publication. Skilled leader of teams with diverse backgrounds and varied training. Effective communicator with formal teaching experience. Specific skills include:"
+teaser: "Microbiology PhD with 10+ years experience applying data science and statistics to biological problems. Expertise in multi-omics from experimental design to publication. Skilled leader with Project Management Professional (PMP) training and teams with diverse backgrounds and varied training. Effective communicator with formal teaching experience. Specific skills include:"
 permalink: "/short/"
 header:
     image_fullwidth: "man.plot.png"
@@ -17,7 +17,7 @@ header:
  <tr>
     <td> <ul>
     <li>Transcriptomics: RNA-seq, scRNA-seq</li>
-    <li>Genetics: MegaEX, lpWGS, whole exome</li>
+    <li>Genetics: MegaEX, lpWGS, WGS</li>
     <li>Epigenetics: ATAC-seq, bisulfite seq</li>
     <li>Proteomics: MS/MS</li>
     <li>Microbiome: 16S, 18S, ITS, meta-transcriptomics</li>
@@ -27,8 +27,9 @@ header:
     <li>AWS</li>
     <li>Git, GitHub</li>
     <li>R, Rmd, Shiny</li>
+    <li>python, Jupyter</li>
     <li>STAR, BWA, bowtie</li>
-    <li>Seurat, STARsolo</li>
+    <li>Seurat, scanpy, STARsolo</li>
     <li>PLINK, vcftools</li>
     <li>mothur, QIIME</li>
     </ul> </td>
@@ -45,12 +46,30 @@ header:
 
 ### Experience
 <br>
-__*07/2021 - present* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
+__*01/2024 - present* --- Director, Bioinformatics Core, U. of Washington__
 
-<ul><li>Lead a team of bioinformaticians in the analysis of ‘omics data for multiple research groups across the Dept of Medicine</li></ul>
-<ul><li>Director of the Human Immunology Project Consortium ( [HIPC](https://immunespace.org/) ) Data Management and Analysis Core</li></ul>
-<ul><li>Develop, standardize, and publish 'omics workflows in R packages and other software</li></ul>
-<ul><li>Contribute to scientific grants and publications</li></ul>
+<ul><li>UWISDOM: U of Washington Informatics, Systems immunology, and Data Omics in Medicine, https://uwisdom.github.io/index.html</li></ul>
+<ul><li>Manage a portfolio of 10+ projects and 5+ bioinformaticians</li></ul>
+<ul><li>Develop and maintain shared code base in R and python</li></ul>
+<ul><li>Interface with the UW community to identify and fill bioinformatic needs</li></ul>
+<ul><li>Serve as the primary Bioinformatician on select projects</li></ul>
+
+__*08/2024 - present* --- Bioinformatics consultant, EuropaDX__  
+
+<ul><li>Europa Data eXplorer (EuropaDX™) is a cloud-based data exploration platform that enables scientists to easily manage, process, visualize and share large multiomics datasets, https://europadx.com/</li></ul>
+<ul><li>Develop production ready unix, R, and python code for omics analysis, particularly bulk and single-cell RNAseq</li></ul>
+
+__*07/2023 - present* --- Bioinformatics consultant, Seattle Biosoftware__
+
+<ul><li>Fulfill customer requests for R and python based omics analysis, particularly data visualization</li></ul>
+
+__*07/2021 - 12/2023* --- Senior Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
+
+<ul><li>Lead a team of bioinformaticians analyzing 'omics data across diverse
+research fields</li></ul>
+<ul><li>Develop software (R packages) and reproducible workflows (snakemake,
+Rmarkdown)</li></ul>
+<ul><li>Multi-omics and integrated data analyses</li></ul>
 
 __*07/2019 - 06/2021* --- Bioinformatician, Allergy and Infectious Diseases, U. of Washington__
 
@@ -76,20 +95,22 @@ __*08/2011 - 06/2016*	--- Graduate research assistant, Bacteriology, U. of Wisco
 __*08/2008 - 05/2011* --- Undergraduate research assistant, Biology, U. of Puget Sound__
 <ul><li>Thesis: Investigating maltose metabolism in *Bdellovibrio bacteriovorus*</li></ul>  
 
-
 ### Education
 <br>
+
+2023 - 2024 --- Project Management Professional (PMP) Certificate, U. of Washington, Seattle, WA. Project Management Institute (PMI) certification Jan 2025
+
 2011 - 2016	--- Ph.D. Microbiology, U. of Wisconsin-Madison, Madison, WI. GPA: 4.00
 
 2007 - 2011	--- B.S. Molecular and cellular biology, Minor mathematics, U. of Puget Sound, Tacoma, WA. GPA: 3.84
 
 ### Select publications
 <br>
-**Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5):btad279. doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)
+**Dill-McFarland KA**, *et al*. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public)
 
-Jackson DJ, Bacharier LB, Gergen PJ ... **Dill-McFarland KA** ... Altman MC, US NIAID Inner City Asthma Consortium. 2022. Mepolizumab for urban children with exacerbation-prone eosinophilic asthma in the USA (MUPPITS-2): a randomised, double-blind, placebo-controlled, parallel-group trial. Lancet 400(10351): 502-511 doi: [10.1016/S0140-6736(22)01198-9](https://doi.org/10.1016/s0140-6736(22)01198-9)
+**Dill-McFarland KA**, *et al*. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)
 
-**Dill-McFarland KA**, Schwartz JT, Zhao H, Shao B, Fulkerson PC, Altman MC, Gill MA. 2022. Eosinophil-mediated suppression and Anti-IL-5 enhancement of plasmacytoid dendritic cell interferon responses in asthma. J Allergy Clin Immunol. Epub ahead of print. doi: [10.1016/j.jaci.2022.03.025](https://doi.org/10.1016/j.jaci.2022.03.025) --- [GitHub](https://github.com/altman-lab/P259_pDC_public)
+Cox MS, **Dill-McFarland KA**, *et al*. 2024. Multi-omic latent variable data integration reveals multicellular structure pathways associated with resistance to tuberculin skin test (TST)/interferon gamma release assay (IGRA) conversion in Uganda. BMC Genomics. doi: [10.1186/s12864-025-11407-1](https://doi.org/10.1186/s12864-025-11407-1) --- bioRvix doi: [10.1101/2024.11.05.622020 ](https://doi.org/10.1101/2024.11.05.622020)
 
 [Full publication list](https://kdillmcfarland.github.io/pubs/)
 
