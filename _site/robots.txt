@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kdillmcfarland.github.io/sitemap.xml
