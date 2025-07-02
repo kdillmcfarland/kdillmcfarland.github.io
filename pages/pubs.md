@@ -14,15 +14,11 @@ header:
 ### In preparation
 #### Preprints
 
-0. **Dill-McFarland KA**\*†, Andrade BB\*†, Figueiredo MC, Andrade AMS, Avendaño-Rangel F, Cordeiro-Santos M, Kritski AL, Rolla VC, Cubillos-Angulo JM, Kalams SA, Simmons JD, Oakes JM, Avila JP, Nakaya HI, Gangula RD, Rebeiro PF, Amorim G, Mallal SA, Regional Prospective Observational Research in Tuberculosis (RePORT)-Brazil Consortium, Sterling TR†, Hawn TR†. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public)
-
-0. Altman MC†, Murphy RS, Janczyk T, Jayavelu ND, Calatroni A, Kattan M, Gill MA, Stokes J, Liu AH, Khurana Hershey GK, Sherenian M, Kumar R, Robison RG, Gruchalla RS, O’Connor GT, Zoratti EM, Teach SJ, Lynch SV, **Dill-McFarland KA**, Becker PM, Togias A, Gern JE, Bacharier LB, Busse WW, Jackson DJ. XXXX. Epithelial and macrophage associated inflammatory pathways underlie asthma exacerbations: Lessons from blocking IL-5 mediated T2-inflammation. Lancet preprint. doi: [10.2139/ssrn.4830495](http://dx.doi.org/10.2139/ssrn.4830495) 
+0. **Dill-McFarland KA**\*†, Andrade BB\*†, Figueiredo MC, Andrade AMS, Avendaño-Rangel F, Cordeiro-Santos M, Kritski AL, Rolla VC, Cubillos-Angulo JM, Kalams SA, Simmons JD, Oakes JM, Avila JP, Nakaya HI, Gangula RD, Rebeiro PF, Amorim G, Mallal SA, Regional Prospective Observational Research in Tuberculosis (RePORT)-Brazil Consortium, Sterling TR†, Hawn TR†. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public) <span class="pub-tags">GWAS • scRNAseq • tuberculosis</span>
 
 #### On-going
 
 1. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of nasal airway type-2 and epithelial inflammation in urban children with asthma. *Submitted.*
-
-0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. XXXX. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. *Submitted.*
 
 0. **Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. XXXX. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. *Submitted.*
 
@@ -32,6 +28,8 @@ header:
 
 0. Krebs A, Lazarov T, Reynolds A, **Dill-McFarland KA**, Xie A, Bean J, Du M, Levy O, Buglino J, Zhong A, Neehus A, Boisson-Dupuis S, Casanova J, Hawn TR, Zhou T, Finley L, Juste MAJ, Fitzgerald D, Geissmann F, Glickman MS. XXXX. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in *M. tuberculosis* host defense. *In prep.*
 
+0.  Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*
+
 ### Software
 
 0. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5): btad279. PMID: 37140544 doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)
@@ -40,7 +38,11 @@ header:
 
 ### Human health and disease
 
-0. Duncombe CJ, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Sen N, Poehlman AS, Murphy SC. 2025. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites in mice. Nat Commun. 16: 5172. PMID: TBD doi: [s41467-025-60193-7](https://doi.org/10.1038/s41467-025-60193-7)
+0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. 2025. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. Nat Commun. *In press.*
+
+0. Altman MC†, Murphy RS, Janczyk T, Jayavelu ND, Calatroni A, Kattan M, Gill MA, Stokes J, Liu AH, Khurana Hershey GK, Sherenian M, Kumar R, Robison RG, Gruchalla RS, O’Connor GT, Zoratti EM, Teach SJ, Lynch SV, **Dill-McFarland KA**, Becker PM, Togias A, Gern JE, Bacharier LB, Busse WW, Jackson DJ. 2025. Inflammatory epithelial and macrophage pathways underlie residual asthma exacerbations in urban children treated with mepolizumab. JAMA Pediatr. *In press.* --- Preprint doi: [10.2139/ssrn.4830495](http://dx.doi.org/10.2139/ssrn.4830495) 
+
+0. Duncombe CJ, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Sen N, Poehlman AS, Murphy SC. 2025. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites in mice. Nat Commun. 16: 5172. PMID: 40467616 doi: [s41467-025-60193-7](https://doi.org/10.1038/s41467-025-60193-7)
 
 0. Ivie JJ, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek PH, Mayanja-Kizza H, Veith LE, Agata M, Ha DTM, Nghia HDT, Boom WH, Stein CM, Khor CC, Thwaites GE, Hai HT, Thuong NTT, Chang X, Dunstan SJ, Hawn TR. 2025. Myeloid cell genome-wide screen identifies variants associated with *Mycobacterium tuberculosis*-induced cytokine transcriptional responses. J Clin Invest. Online ahead of print. PMID: 40402573 doi: [10.1172/JCI179822](https://doi.org/10.1172/jci179822)
 
