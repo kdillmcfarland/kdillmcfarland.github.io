@@ -58,47 +58,35 @@ Count occurences
 Order counts
 {%- endcomment -%}
 
-{% assign counts_copy = tag_counts %}
-{% assign top_tags = "" | split: "" %}
-{% assign top_counts = "" | split: "" %}
+{{%- assign count_tag_pairs = "" | split: "" -%}
 
-{% for iter in (1..5) %}
-  {% if counts_copy.size == 0 %}
-    {% break %}
-  {% endif %}
+{%- for i in (0..tag_counts.size) -%}
+  {%- if i | modulo: 2 == 0 and i < tag_counts.size - 1 -%}
+    {%- assign tag = tag_counts[i] -%}
+    {%- assign count = tag_counts[i | plus: 1] -%}
+    {%- assign count_str = count | prepend: "000000" -%}  {# pad to allow lex sorting #}
+    {%- assign count_str = count_str | slice: -6, 6 -%}    {# take last 6 chars #}
+    {%- assign pair_str = count_str | append: "|" | append: tag -%}
+    {%- assign count_tag_pairs = count_tag_pairs | push: pair_str -%}
+  {%- endif -%}
+{%- endfor -%}
 
-  {% assign max_count = 0 %}
-  {% assign max_tag = "" %}
-  {% assign max_index = 0 %}
+{%- assign sorted_pairs = count_tag_pairs | sort -%}
+{%- assign sorted_pairs = sorted_pairs | reverse -%}
 
-  {% for i in (0..counts_copy.size | minus: 2) %}
-    {% assign mod = i | modulo: 2 %}
-    {% if mod == 0 %}
-      {% assign tag = counts_copy[i] %}
-      {% assign idx = i | plus: 1 %}
-      {% assign count = counts_copy[idx] %}
-      {% if count > max_count %}
-        {% assign max_count = count %}
-        {% assign max_tag = tag %}
-        {% assign max_index = i %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+<ul>
+{%- for pair in sorted_pairs -%}
+  {%- assign parts = pair | split: "|" -%}
+  {%- assign count = parts[0] | plus: 0 -%}
+  {%- assign tag = parts[1] -%}
+  <li>{{ tag }}: {{ count }}</li>
+{%- endfor -%}
+</ul>
 
-  {% assign top_tags = top_tags | push: max_tag %}
-  {% assign top_counts = top_counts | push: max_count %}
-
-  {% assign before = counts_copy | slice: 0, max_index %}
-  {% assign after = counts_copy | slice: max_index | slice: 2, counts_copy.size %}
-  {% assign counts_copy = before | concat: after %}
-{% endfor %}
 
 <p>All: {{ all_tags | join: ", " }}</p>
 <p>Count: {{ tag_counts | join: ", " }}</p>
-<p>Order: {{ counts_copy | join: ", " }}</p>
-
-<p>tag2: {{ top_tags | join: ", " }}</p>
-<p>count2: {{ counts_copy | join: ", " }}</p>
+<p>Sort: {{ sorted_pairs | join: ", " }}</p>
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
   <div class="top-tags">
