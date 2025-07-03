@@ -7,5 +7,6 @@ permalink: "/pubs/"
 header:
   image_fullwidth: "pubs.png"
 references: "{{ site.data.publications | jsonify }}"
+custom_css: true
 ---
 
