@@ -26,10 +26,6 @@
   text-align: center;         /* center text inside tag */
 }
 
-.references-column {
-  width: 90%;
-}
-
 /* Add a content wrapper with bounded width */
 .content-container {
   max-width: 55rem;
@@ -37,4 +33,29 @@
   margin-right: auto;
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.references-column {
+  width: 90%;
+  display: flex;
+  gap: 0.3em;
+  align-items: baseline;
+}
+
+.ref-number {
+  white-space: nowrap;
+  font-weight: normal; /* or whatever you want */
+}
+
+.ref-text p {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+/* If there might be other block elements inside ref-text */
+.ref-text > * {
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
