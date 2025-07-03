@@ -1,21 +1,21 @@
 ol li {
-  display: grid;
-  grid-template-columns: 120px 1fr; /* left column for tags, right for text */
-  gap: 1em;
-  align-items: start;
+  position: relative;             /* container for absolutely positioned tags */
+  padding-left: 140px;            /* space for left margin tags */
   margin-bottom: 1.5em;
-  position: relative;
 }
 
-/* Tags container on the left */
+/* Tags container on the left margin */
 .pub-tags-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120px;                  /* fixed width for tags area */
   display: flex;
   flex-direction: column;
   gap: 0.3em;
-  margin-left: 1em;
 }
 
-/* Each tag */
+/* Each tag styling */
 .pub-tags {
   background-color: #807dba;
   color: white;
