@@ -1,17 +1,25 @@
-.pub-tags {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4em;
-  flex-wrap: wrap;
+ol li {
+  display: grid;
+  grid-template-columns: 120px 1fr; /* left column for tags, right for text */
+  gap: 1em;
+  align-items: start;
+  margin-bottom: 1.5em;
+  position: relative;
 }
 
-.pub-tags span {
-  display: inline-block;
+/* Tags container on the left */
+.pub-tags-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+}
+
+/* Each tag */
+.pub-tags {
   background-color: #807dba;
   color: white;
-  font-size: 0.85em;
   padding: 0.2em 0.6em;
   border-radius: 0.75em;
-  font-style: normal;
-  position: relative;
+  font-size: 0.85em;
+  white-space: nowrap;
 }
