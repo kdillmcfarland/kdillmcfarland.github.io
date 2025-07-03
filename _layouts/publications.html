@@ -6,25 +6,19 @@ custom_css: true
 <div class="content-container">
   <br>
 {% assign all_tags = [] %}
-
-{%- comment -%} Collect all tags into all_tags array {%- endcomment -%}
 {% for section in site.data.publications %}
   {% for subsection in section.subsections %}
     {% for ref in subsection.references %}
-      {% if ref.tags %}
+      {% if ref.tags and ref.tags.size > 0 %}
         {% for tag in ref.tags %}
-          {% assign tag = tag | strip | downcase %}
-          {% if tag != "" %}
-            {% assign all_tags = all_tags | push: tag %}
-          {% endif %}
+          {% assign all_tags = all_tags | push: tag %}
         {% endfor %}
       {% endif %}
     {% endfor %}
   {% endfor %}
 {% endfor %}
 
-<p>Top tags: {{ all_tags | join: ", " }}</p>
-<p>Sections count: {{ site.data.publications | size }}</p>
+<p>All tags collected: {{ all_tags | join: ", " }}</p>
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
   <div class="top-tags" style="margin-top: 0.5em;">
