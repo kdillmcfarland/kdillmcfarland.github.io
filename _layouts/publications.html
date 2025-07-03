@@ -5,7 +5,7 @@ custom_css: true
 
 <div class="content-container">
   <br>
-{{% assign top_tags = "" | split: "" %}
+{% assign top_tags = "" | split: "" %}
 
 {% for i in (1..5) %}
   {% assign max_count = 0 %}
@@ -28,6 +28,7 @@ custom_css: true
     {% assign top_tags = top_tags | push: max_tag %}
   {% endif %}
 {% endfor %}
+
 
 <p>Top tags: {{ top_tags | join: ", " }}</p>
 <p>Counts: {{ tag_counts | join: ", " }}</p>
