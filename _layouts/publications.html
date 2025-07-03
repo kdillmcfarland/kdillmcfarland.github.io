@@ -7,9 +7,9 @@ custom_css: true
   <br>
 
   <div class="data-tags-box" style="margin-bottom: 1em;">
-    <strong>Data Tags:</strong>
+    <strong>Top Data Tags:</strong>
     <div class="data-tags">
-      {% assign data_tags = "rna-seq,microbiome,multi-omics,genetics,atac-seq,methylation,single-cell,method development," | split: "," %}
+      {% assign data_tags = "rna-seq,microbiome,multi-omics,genetics,open-source,atac-seq,methylation,single-cell,method development," | split: "," %}
       {% for tag in data_tags %}
         <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
       {% endfor %}
@@ -18,7 +18,7 @@ custom_css: true
 
   <br>
   <div class="bio-tags-box" style="margin-bottom: 1em;">
-    <strong>Research Tags:</strong>
+    <strong>Top Research Tags:</strong>
     <div class="bio-tags">
       {% assign bio_tags = "human,murine,animal,tuberculosis,asthma,diet,treatment,illness," | split: "," %}
       {% for tag in bio_tags %}
@@ -26,7 +26,6 @@ custom_css: true
       {% endfor %}
     </div>
   </div>
-<br>
 <br>
 
   <div id="filter-info" style="margin-bottom: 1em; display:none;">
