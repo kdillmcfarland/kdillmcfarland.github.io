@@ -1,44 +1,18 @@
-/* Remove default list styling, use CSS counters */
-ol {
-  counter-reset: item;
-  padding-left: 0;
-  list-style: none;
-}
-
-ol > li {
-  position: relative;
-  counter-increment: item;
-  padding-left: 2.5em; /* space for number */
+ol li {
+  position: relative;             /* container for absolutely positioned tags */
+  padding-left: 140px;            /* space for left margin tags */
   margin-bottom: 1.5em;
-  display: block;
 }
 
-/* Number styling close to text */
-ol > li::before {
-  content: counter(item) ".";
-  position: absolute;
-  left: 0;
-  top: 0;
-  font-weight: bold;
-  width: 2em;
-  text-align: right;
-}
-
-/* Make the whole li a flex container */
-ol > li {
-  display: flex;
-  align-items: flex-start;
-  gap: 1em;
-}
-
-/* Position tags on left */
+/* Tags container on the left margin */
 .pub-tags-wrapper {
-  flex-shrink: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120px;                  /* fixed width for tags area */
   display: flex;
   flex-direction: column;
   gap: 0.3em;
-  min-width: 120px; /* fixed width for tags */
-  margin-right: 0.5em;
 }
 
 /* Each tag styling */
@@ -49,9 +23,4 @@ ol > li {
   border-radius: 0.75em;
   font-size: 0.85em;
   white-space: nowrap;
-}
-
-/* Let citation text take remaining space */
-ol > li > :not(.pub-tags-wrapper) {
-  flex: 1 1 auto;
 }

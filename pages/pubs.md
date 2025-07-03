@@ -17,22 +17,17 @@ header:
 
 0. **Dill-McFarland KA**\*†, Andrade BB\*†, Figueiredo MC, Andrade AMS, Avendaño-Rangel F, Cordeiro-Santos M, Kritski AL, Rolla VC, Cubillos-Angulo JM, Kalams SA, Simmons JD, Oakes JM, Avila JP, Nakaya HI, Gangula RD, Rebeiro PF, Amorim G, Mallal SA, Regional Prospective Observational Research in Tuberculosis (RePORT)-Brazil Consortium, Sterling TR†, Hawn TR†. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public)
 
-<span class="pub-tags-wrapper">
-  <span class="pub-tags">GWAS</span>
-  <span class="pub-tags">scRNAseq</span>
-  <span class="pub-tags">tuberculosis</span>
-</span>
+  <span class="pub-tags-wrapper">
+    <span class="pub-tags">GWAS</span><span class="pub-tags">scRNAseq</span><span class="pub-tags">tuberculosis</span>
+  </span>
 
 #### On-going
 
 0. **Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. XXXX. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. *Submitted.*
 
-<span class="pub-tags-wrapper">
-  <span class="pub-tags">RNAseq</span>
-  <span class="pub-tags">multi-species</span>
-  <span class="pub-tags">macrophage</span>
-  <span class="pub-tags">tuberculosis</span>
-</span>
+  <span class="pub-tags-wrapper">
+    <span class="pub-tags">RNAseq</span><span class="pub-tags">multi-species</span><span class="pub-tags">macrophage</span><span class="pub-tags">tuberculosis</span>
+  </span>
  
 0. Lai Y, Murphy RC, Liu M, Czarnecki MW, Grosvenor D, **Dill-McFarland KA**, Piliponsky AM, Debley JS, Altman MC, Hallstrand TS. XXXX. Human rhinovirus A16 infection of mast cells promotes T2 and non-T2 immune responses that are modulated by the airway epithelium. *Submitted.*
 
