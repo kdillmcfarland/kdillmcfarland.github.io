@@ -44,9 +44,15 @@
 .ref-text div,
 .ref-text br {
   display: inline !important;
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
+
+.ref-text {
+  display: inline;   /* keep reference text inline */
+  white-space: normal; /* allow text wrap */
+}
+
 .ref-number {
   display: inline;
   white-space: nowrap;
