@@ -22,9 +22,10 @@ custom_css: true
           <div class="publication-row">
 
             <div class="pub-tags-column">
-              {% for tag in ref.tags %}
-                <span class="pub-tags">{{ tag }}</span>
-              {% endfor %}
+            {% assign sorted_tags = ref.tags | sort %}
+            {% for tag in sorted_tags %}
+              <span class="pub-tags">{{ tag }}</span>
+            {% endfor %}
             </div>
 
             <div class="references-column">

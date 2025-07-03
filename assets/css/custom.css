@@ -7,10 +7,12 @@
 .pub-tags-column {
   width: 25%;
   display: flex;
-  flex-direction: column;  /* stack tags vertically */
+  flex-direction: row;     /* horizontal flow */
+  flex-wrap: wrap;         /* allow wrapping onto new lines */
   gap: 0.3em;
-  align-items: flex-start;
+  align-items: flex-start; /* align tags to top */
 }
+
 
 .pub-tags {
   display: inline-block;      /* make span behave like inline block, width fits content */
