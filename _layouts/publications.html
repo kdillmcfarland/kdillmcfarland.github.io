@@ -32,11 +32,6 @@ custom_css: true
   {% assign tag_counts = tag_counts | push: tag | push: count %}
 {% endfor %}
 
-{% comment %}
-Now we have tag_counts as flat array: ["rna", 5, "gwas", 3, ...]
-We will manually find the top 5 by looping.
-{% endcomment %}
-
 {% assign top_tags = "" | split: "" %}
 
 {% for i in (1..5) %}
@@ -46,7 +41,7 @@ We will manually find the top 5 by looping.
   {% for j in (0..tag_counts.size | minus: 2) %}
     {% if j modulo 2 == 0 %}
       {% assign tag = tag_counts[j] %}
-      {% assign count = tag_counts[j | plus: 1] %}
+      {% assign count = tag_counts[j | plus: 1] | plus: 0 %}
       {% if count > max %}
         {% unless top_tags contains tag %}
           {% assign max = count %}
@@ -65,7 +60,7 @@ We will manually find the top 5 by looping.
   <strong>Top Tags:</strong>
   <div class="top-tags" style="margin-top: 0.5em;">
     {% for tag in top_tags %}
-      <span class="pub-tags" data-tag="{{ tag }}">{{ tag }}</span>
+      <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
     {% endfor %}
   </div>
 </div>
