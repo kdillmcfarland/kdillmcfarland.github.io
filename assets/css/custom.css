@@ -1,21 +1,14 @@
-.publications-container {
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
-  margin: 1em 0;
-}
-
 .publication-row {
   display: flex;
-  align-items: flex-start;
+  align-items: flex-start; /* align tags and text top */
   gap: 1em;
 }
 
 .pub-tags-column {
   width: 25%;
   display: flex;
-  gap: 0.5em;
-  flex-wrap: wrap; /* so multiple tags wrap nicely */
+  flex-direction: column; /* stack tags vertically */
+  gap: 0.3em;
 }
 
 .pub-tags {
@@ -29,4 +22,12 @@
 
 .references-column {
   width: 75%;
+}
+
+body {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
