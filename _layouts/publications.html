@@ -23,7 +23,7 @@ layout: default
           </div>
 
           <div class="references-column">
-            <p><strong>{{ count }}.</strong> {{ ref.text | markdownify }}</p>
+            {{ count | append: ". " | append: ref.text | markdownify }}
           </div>
 
         </div>
