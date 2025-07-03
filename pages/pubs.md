@@ -15,11 +15,7 @@ header:
 #### Preprints
 
 0. **Dill-McFarland KA**\*†, Andrade BB\*†, Figueiredo MC, Andrade AMS, Avendaño-Rangel F, Cordeiro-Santos M, Kritski AL, Rolla VC, Cubillos-Angulo JM, Kalams SA, Simmons JD, Oakes JM, Avila JP, Nakaya HI, Gangula RD, Rebeiro PF, Amorim G, Mallal SA, Regional Prospective Observational Research in Tuberculosis (RePORT)-Brazil Consortium, Sterling TR†, Hawn TR†. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public) 
-<div class="pub-tags">
-  <span>GWAS</span>
-  <span>scRNAseq</span>
-  <span>tuberculosis</span>
-</div>
+<div class="pub-tags"><span>GWAS</span><span>scRNAseq</span><span>tuberculosis</span></div>
 
 #### On-going
 

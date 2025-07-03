@@ -15,12 +15,3 @@
   font-style: normal;
   position: relative;
 }
-
-/* Dot separator */
-.pub-tags span + span::before {
-  content: "•";
-  color: #999;
-  margin-right: 0.4em;
-  font-size: 0.75em;
-  vertical-align: middle;
-}
