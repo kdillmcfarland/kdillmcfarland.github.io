@@ -39,27 +39,23 @@
   align-items: flex-start;
   flex-wrap: wrap; /* allow long ref text to wrap */
 }
-  
-.ref-text p,
-.ref-text div,
-.ref-text br {
-  display: inline !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.ref-text {
-  display: inline;   /* keep reference text inline */
-  white-space: normal; /* allow text wrap */
-}
 
 .ref-number {
-  display: inline-flex;
-  align-items: center;
   white-space: nowrap;
-  font-weight: normal;
-  flex-shrink: 0;
-  margin-right: 0.3em;
+  font-weight: normal; /* or whatever you want */
+}
+
+.ref-text p {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+/* If there might be other block elements inside ref-text */
+.ref-text > * {
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
 
 /* Add a content wrapper with bounded width */
