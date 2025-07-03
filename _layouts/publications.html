@@ -4,6 +4,11 @@ custom_css: true
 ---
 
 <div class="content-container">
+  <div id="filter-info" style="margin-bottom: 1em; display:none;">
+  Filtered by tag: <span id="active-filter"></span>
+  <button id="clear-filter">Clear filter</button>
+  </div>
+
   <div class="publications-container">
 
     {% for section in site.data.publications %}
@@ -19,23 +24,60 @@ custom_css: true
 
         {% for ref in subsection.references %}
           {% assign count = count | plus: 1 %}
-          <div class="publication-row">
-
+        <div class="publication-row" data-tags="{{ ref.tags | join: ' ' | downcase }}">
             <div class="pub-tags-column">
             {% assign sorted_tags = ref.tags | sort %}
             {% for tag in sorted_tags %}
-              <span class="pub-tags">{{ tag }}</span>
+              <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
             {% endfor %}
-            </div>
-
-            <div class="references-column">
+          </div>
+          <div class="references-column">
               <span class="ref-number">{{ count }}.</span>
               <span class="ref-text">{{ ref.text | markdownify }}</span>
-            </div>
-
+          </div>
+        </div>
           </div>
         {% endfor %}
       {% endfor %}
     {% endfor %}
   </div>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const publicationRows = document.querySelectorAll(".publication-row");
+    const filterInfo = document.getElementById("filter-info");
+    const activeFilter = document.getElementById("active-filter");
+    const clearFilterBtn = document.getElementById("clear-filter");
+
+    function filterByTag(tag) {
+      tag = tag.toLowerCase();
+      publicationRows.forEach(row => {
+        const tags = row.getAttribute("data-tags");
+        if (tags && tags.includes(tag)) {
+          row.style.display = "";
+        } else {
+          row.style.display = "none";
+        }
+      });
+      activeFilter.textContent = tag;
+      filterInfo.style.display = "block";
+    }
+
+    function clearFilter() {
+      publicationRows.forEach(row => row.style.display = "");
+      filterInfo.style.display = "none";
+      activeFilter.textContent = "";
+    }
+
+    document.querySelectorAll(".pub-tags").forEach(tagEl => {
+      tagEl.style.cursor = "pointer";
+      tagEl.addEventListener("click", () => {
+        const tag = tagEl.getAttribute("data-tag");
+        filterByTag(tag);
+      });
+    });
+
+    clearFilterBtn.addEventListener("click", clearFilter);
+  });
+</script>
