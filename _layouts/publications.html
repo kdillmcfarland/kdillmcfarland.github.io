@@ -55,8 +55,12 @@ custom_css: true
     {% assign top_tags = top_tags | push: max_tag %}
   {% endif %}
 {% endfor %}
+
+<p>All tags: {{ all_tags | join: ", " }}</p>
+<p>Unique tags: {{ unique_tags | join: ", " }}</p>
 <p>Top tags: {{ top_tags | join: ", " }}</p>
-<p>count tags: {{ tag_counts | join: ", " }}</p>
+<p>Counts: {{ tag_counts | join: ", " }}</p>
+
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
   <div class="top-tags" style="margin-top: 0.5em;">
