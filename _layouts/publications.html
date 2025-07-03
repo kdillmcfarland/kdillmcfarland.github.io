@@ -67,12 +67,17 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function filterPublications() {
-    publicationRows.forEach(row => {
-      const tags = row.getAttribute("data-tags").split(" ");
-      const matchesAll = selectedTags.every(tag => tags.includes(tag));
-      row.style.display = matchesAll ? "" : "none";
-    });
+  if (selectedTags.length === 0) {
+    publicationRows.forEach(row => row.style.display = "");
+    return;
   }
+
+  publicationRows.forEach(row => {
+    const tags = row.getAttribute("data-tags").split(" ");
+    const matchesAny = selectedTags.some(tag => tags.includes(tag));
+    row.style.display = matchesAny ? "" : "none";
+  });
+}
 
   function handleTagClick(tag) {
   tag = tag.toLowerCase();
