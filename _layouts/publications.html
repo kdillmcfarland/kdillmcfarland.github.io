@@ -24,7 +24,7 @@ custom_css: true
             <div class="pub-tags-column">
               {% assign sorted_tags = ref.tags | sort %}
               {% for tag in sorted_tags %}
-              <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+              <span class="pub-tags">{{ tag }}</span>
               {% endfor %}
             </div>
 
