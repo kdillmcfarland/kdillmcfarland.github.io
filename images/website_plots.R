@@ -17,5 +17,5 @@ p1 <- data.frame(
         axis.text.y=element_text(color="#bdbdbd")) + 
   labs(x="",y="")
 
-ggsave(p1, filename="pubs.png", width=10, height=1.45)
+ggsave(p1, filename="pubs.png", width=7, height=1.45)
   
