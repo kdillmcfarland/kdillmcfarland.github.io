@@ -94,8 +94,11 @@ Order counts
 {% endfor %}
 
 <p>All: {{ all_tags | join: ", " }}</p>
-<p>Counts: {{ sorted_counts | join: ", " }}</p>
+<p>Count: {{ tag_counts | join: ", " }}</p>
+<p>Order: {{ counts_copy | join: ", " }}</p>
 
+<p>tag2: {{ top_tags | join: ", " }}</p>
+<p>count2: {{ counts_copy | join: ", " }}</p>
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
   <div class="top-tags">
