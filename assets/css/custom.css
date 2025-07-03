@@ -50,6 +50,13 @@
   margin: 0;
   padding: 0;
 }
+.ref-number {
+  display: inline;
+  white-space: nowrap;
+  font-weight: normal;
+  flex-shrink: 0;
+  margin-right: 0.3em;
+}
 
 /* Add a content wrapper with bounded width */
 .content-container {
@@ -59,15 +66,6 @@
   padding-left: 1rem;
   padding-right: 1rem;
 }
-
-.ref-number {
-  display: inline-block;
-  white-space: nowrap;
-  font-weight: normal;
-  flex-shrink: 0;
-  margin-right: 0.3em;
-}
-
 
 #clear-filter {
   background-color: #CC6699;
