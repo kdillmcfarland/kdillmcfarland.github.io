@@ -26,7 +26,7 @@ custom_css: true
 
         {% for ref in subsection.references %}
           {% assign count = count | plus: 1 %}
-        <div class="publication-row" data-tags="{{ ref.tags | join: ' ' | downcase }}">
+        <div class="publication-row" data-tags="{{ ref.tags | join: '|' | downcase }}">
             
           <div class="references-column">
               <span class="ref-number">{{ count }}.</span>
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   publicationRows.forEach(row => {
-    const tags = row.getAttribute("data-tags").split(" ");
+    const tags = row.getAttribute("data-tags").split("|);
     const matchesAny = selectedTags.some(tag => tags.includes(tag));
     row.style.display = matchesAny ? "" : "none";
   });
