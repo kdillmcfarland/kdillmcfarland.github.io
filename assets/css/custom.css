@@ -40,13 +40,10 @@
   flex-wrap: wrap; /* allow long ref text to wrap */
 }
   
-.ref-text {
-  display: inline;
-  margin: 0;
-  padding: 0;
-}
-.ref-text p {
-  display: inline; 
+.ref-text p,
+.ref-text div,
+.ref-text br {
+  display: inline !important;
   margin: 0;
   padding: 0;
 }
