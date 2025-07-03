@@ -7,9 +7,9 @@
 .pub-tags-column {
   width: 25%;
   display: flex;
-  flex-direction: column;
-  align-items: flex-start; 
+  flex-wrap: wrap;         /* allow wrapping */
   gap: 0.3em;
+  align-items: flex-start; 
 }
 
 .pub-tags {
@@ -31,7 +31,7 @@
 
 /* Add a content wrapper with bounded width */
 .content-container {
-  max-width: 60rem;
+  max-width: 55rem;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
