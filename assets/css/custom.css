@@ -1,10 +1,26 @@
 .pub-tags {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  flex-wrap: wrap;
+}
+
+.pub-tags span {
   display: inline-block;
   background-color: #807dba;
   color: white;
   font-size: 0.85em;
   padding: 0.2em 0.6em;
-  margin-left: 0.5em;
   border-radius: 0.75em;
   font-style: normal;
+  position: relative;
+}
+
+/* Dot separator */
+.pub-tags span + span::before {
+  content: "•";
+  color: #999;
+  margin-right: 0.4em;
+  font-size: 0.75em;
+  vertical-align: middle;
 }
