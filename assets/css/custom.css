@@ -42,7 +42,7 @@
 }
   
 .ref-text {
-  display: block;
+  display: inline;
   margin: 0;
   padding: 0;
 }
@@ -62,10 +62,13 @@
 }
 
 .ref-number {
-  display: inline;
+  display: inline-block;
   white-space: nowrap;
-  font-weight: normal; /* or whatever you want */
+  font-weight: normal;
+  flex-shrink: 0;
+  margin-right: 0.3em;
 }
+
 
 #clear-filter {
   background-color: #CC6699;
@@ -85,4 +88,4 @@
   background-color: #CC6699;
 }
 
-border-bottom: 1px solid #e0e0e0;
+border-bottom: 1px solid #FFFFFF;
