@@ -61,9 +61,9 @@ We will manually find the top 5 by looping.
 
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
-  <div class="top-tags">
+  <div class="top-tags" style="margin-top: 0.5em;">
     {% for tag in top_tags %}
-      <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+      <span class="pub-tags" data-tag="{{ tag }}">{{ tag }}</span>
     {% endfor %}
   </div>
 </div>
