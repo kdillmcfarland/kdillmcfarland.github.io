@@ -93,5 +93,13 @@
   subsections:
     - subsection: null
       references:
+        - text: "**Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. PMID: 33630850 doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) --- [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)"
+          tags: ["bioinformatics", "open source", "education"]
+
+- section: "Animal microbiomes"
+  subsections:
+    - subsection: null
+      references:
         - text: ""
           tags: [""]
+  
