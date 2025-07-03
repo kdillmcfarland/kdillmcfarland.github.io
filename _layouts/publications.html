@@ -59,21 +59,24 @@ Order counts
 {%- endcomment -%}
 
 {% assign counts_copy = tag_counts %}
-{% assign sorted_tags = "" | split: "" %}
-{% assign sorted_counts = "" | split: "" %}
+{% assign top_tags = "" | split: "" %}
+{% assign top_counts = "" | split: "" %}
 
-{% while counts_copy.size > 0 %}
+{% for iter in (1..5) %}
+  {% if counts_copy.size == 0 %}
+    {% break %}
+  {% endif %}
+
   {% assign max_count = 0 %}
   {% assign max_tag = "" %}
   {% assign max_index = 0 %}
-  
+
   {% for i in (0..counts_copy.size | minus: 2) %}
     {% assign mod = i | modulo: 2 %}
     {% if mod == 0 %}
       {% assign tag = counts_copy[i] %}
       {% assign idx = i | plus: 1 %}
       {% assign count = counts_copy[idx] %}
-      
       {% if count > max_count %}
         {% assign max_count = count %}
         {% assign max_tag = tag %}
@@ -81,15 +84,16 @@ Order counts
       {% endif %}
     {% endif %}
   {% endfor %}
-  
-  {% assign sorted_tags = sorted_tags | push: max_tag %}
-  {% assign sorted_counts = sorted_counts | push: max_count %}
-  
+
+  {% assign top_tags = top_tags | push: max_tag %}
+  {% assign top_counts = top_counts | push: max_count %}
+
   {% assign before = counts_copy | slice: 0, max_index %}
   {% assign after = counts_copy | slice: max_index | slice: 2, counts_copy.size %}
   {% assign counts_copy = before | concat: after %}
-{% endwhile %}
+{% endfor %}
 
+<p>All: {{ all_tags | join: ", " }}</p>
 <p>Counts: {{ sorted_counts | join: ", " }}</p>
 
 <div class="top-tags-box" style="margin-bottom: 1em;">
