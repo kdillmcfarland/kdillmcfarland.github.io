@@ -1,21 +1,23 @@
-ol li {
-  position: relative;             /* container for absolutely positioned tags */
-  padding-left: 140px;            /* space for left margin tags */
-  margin-bottom: 1.5em;
-}
-
-/* Tags container on the left margin */
-.pub-tags-wrapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 120px;                  /* fixed width for tags area */
+.publications-container {
   display: flex;
   flex-direction: column;
-  gap: 0.3em;
+  gap: 1em;
+  margin: 1em 0;
 }
 
-/* Each tag styling */
+.publication-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+}
+
+.pub-tags-column {
+  width: 25%;
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap; /* so multiple tags wrap nicely */
+}
+
 .pub-tags {
   background-color: #807dba;
   color: white;
@@ -23,4 +25,8 @@ ol li {
   border-radius: 0.75em;
   font-size: 0.85em;
   white-space: nowrap;
+}
+
+.references-column {
+  width: 75%;
 }

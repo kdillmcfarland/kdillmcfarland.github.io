@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="publications-container">
+  {% assign count = 0 %}
+  {% for section in site.data.publications %}
+    <h3>{{ section.section }}</h3>
+
+    {% for subsection in section.subsections %}
+      {% if subsection.subsection %}
+        <h4>{{ subsection.subsection }}</h4>
+      {% endif %}
+
+      {% for ref in subsection.references %}
+        {% assign count = count | plus: 1 %}
+        <div class="publication-row">
+
+          <div class="pub-tags-column">
+            {% for tag in ref.tags %}
+              <span class="pub-tags">{{ tag }}</span>
+            {% endfor %}
+          </div>
+
+          <div class="references-column">
+            <p><strong>{{ count }}.</strong> {{ ref.text | markdownify }}</p>
+          </div>
+
+        </div>
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
+</div>
