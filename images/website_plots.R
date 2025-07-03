@@ -2,11 +2,11 @@ setwd("~/Documents/GitHub/kdillmcfarland.github.io/images")
 library(tidyverse)
 
 #### Pubs per year ####
-
+#updated july 3, 2025
 p1 <- data.frame(
-  year = as.character(2014:2024),
+  year = as.character(2014:2025),
   total = c(1,0,4,5,5,4,
-            0,1,4,5,4)
+            0,1,4,5,10,6)
 ) %>% 
 
   ggplot(aes(y=total,x=year)) +
