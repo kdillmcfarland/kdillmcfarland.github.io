@@ -26,12 +26,12 @@
 }
 
 .references-column {
-  width: 85%;
+  width: 90%;
 }
 
 /* Add a content wrapper with bounded width */
 .content-container {
-  max-width: 50rem;
+  max-width: 60rem;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
