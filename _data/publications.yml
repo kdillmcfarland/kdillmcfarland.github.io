@@ -37,7 +37,7 @@
         - text: "Altman MC†, Murphy RS, Janczyk T, Jayavelu ND, Calatroni A, Kattan M, Gill MA, Stokes J, Liu AH, Khurana Hershey GK, Sherenian M, Kumar R, Robison RG, Gruchalla RS, O’Connor GT, Zoratti EM, Teach SJ, Lynch SV, **Dill-McFarland KA**, Becker PM, Togias A, Gern JE, Bacharier LB, Busse WW, Jackson DJ. 2025. Inflammatory epithelial and macrophage pathways underlie residual asthma exacerbations in urban children treated with mepolizumab. JAMA Pediatr. *In press.* --- Preprint doi: [10.2139/ssrn.4830495](http://dx.doi.org/10.2139/ssrn.4830495)"
           tags: ["rna-seq", "clinical trial", "in vivo", "asthma", "treatment","human"]
         - text: "Duncombe CJ, Watson FN, Layton ED, Boey K, Conrad EN, Kalata AC, Mariko Seilie A, **Dill-McFarland KA**, Seshadri C, Shears MJ, Sen N, Poehlman AS, Murphy SC. 2025. Androgens inhibit protective CD8+ T cell responses against pre-erythrocytic malaria parasites in mice. Nat Commun. 16: 5172. PMID: 40467616 doi: [s41467-025-60193-7](https://doi.org/10.1038/s41467-025-60193-7)"
-          tags: ["rna-seq", "T cells", "in vivo", "malaria", "murine"]
+          tags: ["rna-seq", "t cells", "in vivo", "malaria", "murine"]
         - text: "Ivie JJ, **Dill-McFarland KA**, Simmons JD, Peterson GJ, Benchek PH, Mayanja-Kizza H, Veith LE, Agata M, Ha DTM, Nghia HDT, Boom WH, Stein CM, Khor CC, Thwaites GE, Hai HT, Thuong NTT, Chang X, Dunstan SJ, Hawn TR. 2025. Myeloid cell genome-wide screen identifies variants associated with *Mycobacterium tuberculosis*-induced cytokine transcriptional responses. J Clin Invest. Online ahead of print. PMID: 40402573 doi: [10.1172/JCI179822](https://doi.org/10.1172/jci179822)"
           tags: ["eqtl", "cellular gwas","gwas","in vitro","genetics", "tuberculosis","human", "multi-omics"]
         - text: "Anterasian C, Gela A, Mwambene D, Shah JA, Ivie J, **Dill-McFarland KA**, Hanekom WA, Musvosvi M, Hatherill M, Scriba TJ, Hawn TR. 2025. BCG induced innate immune response heterogeneity and susceptibility to pediatric tuberculosis. J Immunol. 214(5): 936-946. PMID: 40174917 doi: [10.1093/jimmun/vkae062](https://doi.org/10.1093/jimmun/vkae062)"
@@ -94,7 +94,7 @@
     - subsection: null
       references:
         - text: "**Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. PMID: 33630850 doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) --- [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)"
-          tags: ["bioinformatics", "open source", "education"]
+          tags: ["bioinformatics", "open-source", "education"]
 
 - section: "Animal microbiomes"
   subsections:
