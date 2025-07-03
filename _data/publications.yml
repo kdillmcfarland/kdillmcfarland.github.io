@@ -8,13 +8,13 @@
       references:
         - text: "**Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. XXXX. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. *Submitted.*"
           tags: ["RNAseq", "multi-species", "macrophage", "tuberculosis"]
-          - text: "Lai Y, Murphy RC, Liu M, Czarnecki MW, Grosvenor D, **Dill-McFarland KA**, Piliponsky AM, Debley JS, Altman MC, Hallstrand TS. XXXX. Human rhinovirus A16 infection of mast cells promotes T2 and non-T2 immune responses that are modulated by the airway epithelium. *Submitted.*"
+        - text: "Lai Y, Murphy RC, Liu M, Czarnecki MW, Grosvenor D, **Dill-McFarland KA**, Piliponsky AM, Debley JS, Altman MC, Hallstrand TS. XXXX. Human rhinovirus A16 infection of mast cells promotes T2 and non-T2 immune responses that are modulated by the airway epithelium. *Submitted.*"
           tags: [""]
-          - text: "Haynes AM, Ovadiuc C, Peterson GJ, Worodria W, Nalukwago S, Muwanguzi T, Nsereko M, Stein CM, **Dill-McFarland KA**, Mayanja-Kizza H, Boom WH, Segnitz RM, Hawn TR. XXXX. Alveolar macrophage transcriptional signatures associated with resistance to IGRA/TST conversion after exposure to Mycobacterium tuberculosis. *Submitted.*"
+        - text: "Haynes AM, Ovadiuc C, Peterson GJ, Worodria W, Nalukwago S, Muwanguzi T, Nsereko M, Stein CM, **Dill-McFarland KA**, Mayanja-Kizza H, Boom WH, Segnitz RM, Hawn TR. XXXX. Alveolar macrophage transcriptional signatures associated with resistance to IGRA/TST conversion after exposure to Mycobacterium tuberculosis. *Submitted.*"
           tags: [""]
-          - text: "Krebs A, Lazarov T, Reynolds A, **Dill-McFarland KA**, Xie A, Bean J, Du M, Levy O, Buglino J, Zhong A, Neehus A, Boisson-Dupuis S, Casanova J, Hawn TR, Zhou T, Finley L, Juste MAJ, Fitzgerald D, Geissmann F, Glickman MS. XXXX. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in *M. tuberculosis* host defense. *In prep.*"
+        - text: "Krebs A, Lazarov T, Reynolds A, **Dill-McFarland KA**, Xie A, Bean J, Du M, Levy O, Buglino J, Zhong A, Neehus A, Boisson-Dupuis S, Casanova J, Hawn TR, Zhou T, Finley L, Juste MAJ, Fitzgerald D, Geissmann F, Glickman MS. XXXX. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in *M. tuberculosis* host defense. *In prep.*"
           tags: [""]
-          - text: "Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*"
+        - text: "Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*"
           tags: [""]
 
 - section: "Software"
@@ -23,9 +23,7 @@
       references:
         - text: "**Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5): btad279. PMID: 37140544 doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)"
           tags: ["mixed-effects models", "multi-omics", "open-source"]
-          - text: "**Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)"
+        - text: "**Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)"
           tags: ["RNAseq", "alignment", "pipeline"]
-
-
         - text: ""
           tags: [""]
