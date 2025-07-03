@@ -40,20 +40,29 @@
   flex-wrap: wrap; /* allow long ref text to wrap */
 }
   
-.ref-text p,
 .ref-text div,
 .ref-text br {
   display: inline !important;
   margin: 0;
   padding: 0;
 }
-.ref-number {
-  display: inline;
-  white-space: nowrap;
-  font-weight: normal;
-  flex-shrink: 0;
-  margin-right: 0.3em;
+
+.ref-number-text {
+  display: flex;
+  flex-wrap: wrap;  /* allow text to wrap */
+  align-items: flex-start;
+  gap: 0.3em;
 }
+
+.ref-number {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.ref-text p {
+  margin: 0;
+}
+
 
 /* Add a content wrapper with bounded width */
 .content-container {
