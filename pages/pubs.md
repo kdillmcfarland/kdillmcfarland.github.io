@@ -18,8 +18,6 @@ header:
 
 #### On-going
 
-1. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of nasal airway type-2 and epithelial inflammation in urban children with asthma. *Submitted.* <span class="pub-tags">RNAseq • decoherence • asthma</span>
-
 0. **Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. XXXX. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. *Submitted.*
 
 0. Lai Y, Murphy RC, Liu M, Czarnecki MW, Grosvenor D, **Dill-McFarland KA**, Piliponsky AM, Debley JS, Altman MC, Hallstrand TS. XXXX. Human rhinovirus A16 infection of mast cells promotes T2 and non-T2 immune responses that are modulated by the airway epithelium. *Submitted.*
@@ -28,7 +26,7 @@ header:
 
 0. Krebs A, Lazarov T, Reynolds A, **Dill-McFarland KA**, Xie A, Bean J, Du M, Levy O, Buglino J, Zhong A, Neehus A, Boisson-Dupuis S, Casanova J, Hawn TR, Zhou T, Finley L, Juste MAJ, Fitzgerald D, Geissmann F, Glickman MS. XXXX. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in *M. tuberculosis* host defense. *In prep.*
 
-0.  Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*
+0. Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*
 
 ### Software
 
@@ -37,6 +35,8 @@ header:
 0. **Dill-McFarland KA**, Segnitz RM, Benson B. SEAsnake: A snakemake pipeline for RNA-seq fastq to counts. doi: [10.5281/zenodo.6471546](https://zenodo.org/badge/latestdoi/411778345)
 
 ### Human health and disease
+
+1. Gaberino C\*, Segnitz RM\*, **Dill-McFarland KA**, Bacharier LB, Calatroni A, Gill MA, Stokes J, Liu AH, Cohen RT, Kumar R, Lang A, Khurana Hershey GK, Sherenian M, Zoratti EM, Teach SJ, Kattan M, Becker PM, Togias A, Busse WW, Jackson DJ, Altman MC. XXXX. Mepolizumab alters gene regulatory networks of nasal airway type-2 and epithelial inflammation in urban children with asthma. Nat Commun. *In press.* <span class="pub-tags">RNAseq • decoherence • asthma</span>
 
 0. Jayavelu ND, Liu AH, Gaberino C, Freeman K, Lawrance M, Pribitzer S, Togias A, Becker PM, Busse WW, Mikacenic C, **Dill-McFarland KA**, Jackson DJ, Altman MC. 2025. Single cell transcriptomic profiling of eosinophils and airway immune cells in childhood asthma. Nat Commun. *In press.*
 
