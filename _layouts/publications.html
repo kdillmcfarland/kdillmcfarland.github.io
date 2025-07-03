@@ -27,16 +27,19 @@ custom_css: true
         {% for ref in subsection.references %}
           {% assign count = count | plus: 1 %}
         <div class="publication-row" data-tags="{{ ref.tags | join: ' ' | downcase }}">
-            <div class="pub-tags-column">
-            {% assign sorted_tags = ref.tags | sort %}
-            {% for tag in sorted_tags %}
-              <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
-            {% endfor %}
-          </div>
+            
           <div class="references-column">
               <span class="ref-number">{{ count }}.</span>
               <div class="ref-text">{{ ref.text | markdownify }}</div>
           </div>
+          
+          <div class="pub-tags-column">
+            {% assign sorted_tags = ref.tags | sort %}
+            {% for tag in sorted_tags %}
+              <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+            {% endfor %}
+            </div>
+            
         </div>
         {% endfor %}
       {% endfor %}

@@ -1,10 +1,10 @@
 .publication-row {
   display: flex;
-  align-items: flex-start;  /* vertical alignment at top */
+  align-items: flex-start;
   gap: 1em;
-  flex-wrap: nowrap;        /* keep columns side-by-side */
+  flex-wrap: nowrap;
   padding-bottom: 1em;
-  border-bottom: 1px solid #e0e0e0; /* thin horizontal line */
+  border-bottom: 1px solid #e0e0e0;
   margin-bottom: 1em;
 }
 
@@ -15,6 +15,7 @@
   gap: 0.3em;
   align-content: flex-start;
   box-sizing: border-box;
+  justify-content: flex-end;
 }
 
 .pub-tags {
@@ -39,6 +40,7 @@
   align-items: flex-start;
   flex-wrap: wrap; /* allow long ref text to wrap */
 }
+
 .ref-text {
   display: block;
   margin: 0;
