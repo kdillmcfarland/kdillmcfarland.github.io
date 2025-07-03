@@ -40,7 +40,7 @@
   align-items: flex-start;
   flex-wrap: wrap; /* allow long ref text to wrap */
 }
-
+  
 .ref-text {
   display: block;
   margin: 0;
@@ -62,6 +62,7 @@
 }
 
 .ref-number {
+  display: inline;
   white-space: nowrap;
   font-weight: normal; /* or whatever you want */
 }
