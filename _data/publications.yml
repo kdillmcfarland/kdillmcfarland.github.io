@@ -86,6 +86,8 @@
           tags: ["microbiome","method development"]
         - text: "Vogt NM, Kerby RL, **Dill-McFarland KA**, Harding SJ, Merluzzi AP, Johnson SC, Carlsson CM, Asthana S, Zetterberg H, Blennow K, Bendlina BB†, Rey FE†. 2017. Gut microbiome alterations in Alzheimer’s disease. Sci Rep 7(1): 13537. PMID: 29051531 doi: [10.1038/s41598-017-13601-y](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5648830/)"
           tags: ["microbiome","Alzheimer’s"]
+        - text: "Jetté ME, **Dill-McFarland KA**, Hanshew AS, Suen G, Thibeault SL. 2016. The human laryngeal microbiome: effects of cigarette smoke and reflux. Sci Rep 6: 35882. PMID: 27775059 doi: [10.1038/srep35882](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5075886/)"
+          tags: ["microbiome","smoking"]
 
 - section: "Education"
   subsections:
