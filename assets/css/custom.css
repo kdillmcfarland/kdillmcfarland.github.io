@@ -64,7 +64,7 @@
 }
 
 #clear-filter {
-  background-color: #CC6699;
+  background-color: #FF6666;
   color: white;
   border: none;
   padding: 0.4em 0.8em;
@@ -74,5 +74,5 @@
 }
 
 #clear-filter:hover {
-  background-color: #FF6666; 
+  background-color: #CC6699; 
 }
