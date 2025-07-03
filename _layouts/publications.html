@@ -26,21 +26,27 @@ custom_css: true
 
         {% for ref in subsection.references %}
           {% assign count = count | plus: 1 %}
-        {% assign sorted_tags = ref.tags | sort %}
-        <div class="publication-row" data-tags="{{ sorted_tags | join: '|' | downcase }}">
-            
-          <div class="references-column">
-              <span class="ref-number">{{ count }}.</span>
-              <span class="ref-text">{{ ref.text | markdownify }}</span>
-          </div>
-          
-          <div class="pub-tags-column">
-            {% for tag in sorted_tags %}
-              <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
-            {% endfor %}
-            </div>
-            
-        </div>
+
+        {% if ref.tags %}
+          {% assign tag_pairs = ref.tags | map: "downcase" | zip: ref.tags %}
+          {% assign sorted_pairs = tag_pairs | sort_natural %}
+          {% assign sorted_tags = sorted_pairs | map: "last" %}
+        {% else %}
+          {% assign sorted_tags = "" %}
+        {% endif %}
+
+<div class="publication-row" data-tags="{{ sorted_tags | join: '|' | downcase }}">
+  <div class="references-column">
+    <span class="ref-number">{{ count }}.</span>
+    <span class="ref-text">{{ ref.text | markdownify }}</span>
+  </div>
+
+  <div class="pub-tags-column">
+    {% for tag in sorted_tags %}
+      <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+    {% endfor %}
+  </div>
+</div>
         {% endfor %}
       {% endfor %}
     {% endfor %}
