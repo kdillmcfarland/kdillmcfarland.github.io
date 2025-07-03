@@ -50,18 +50,17 @@
   font-weight: normal; /* or whatever you want */
 }
 
+.ref-text {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
 .ref-text p {
-  display: inline;
+  display: inline; /* optional: avoid vertical spacing if <p> appears */
   margin: 0;
   padding: 0;
 }
 
-/* If there might be other block elements inside ref-text */
-.ref-text > * {
-  display: inline;
-  margin: 0;
-  padding: 0;
-}
 
 #clear-filter {
   background-color: #FF6666;
