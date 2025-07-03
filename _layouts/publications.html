@@ -47,7 +47,12 @@ We will manually find the top 5 by looping.
     {% if j modulo 2 == 0 %}
       {% assign tag = tag_counts[j] %}
       {% assign count = tag_counts[j | plus: 1] %}
-      {% if count > max and top_tags contains tag == false %}
+      {% if count > max %}
+        {% unless top_tags contains tag %}
+          {% assign max = count %}
+          {% assign max_tag = tag %}
+        {% endunless %}
+      {% endif %}
         {% assign max = count %}
         {% assign max_tag = tag %}
       {% endif %}
