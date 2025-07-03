@@ -5,7 +5,7 @@ custom_css: true
 
 <div class="content-container">
   <br>
-{% assign all_tags = "" | split: "" %}
+{% assign all_tags = [] %}
 
 {% for section in site.data.publications %}
   {% for subsection in section.subsections %}
