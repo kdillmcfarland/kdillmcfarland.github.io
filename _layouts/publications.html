@@ -24,7 +24,7 @@ custom_css: true
 {% endfor %}
 
 <p>Top tags: {{ all_tags | join: ", " }}</p>
-
+<p>Sections count: {{ site.data.publications | size }}</p>
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
   <div class="top-tags" style="margin-top: 0.5em;">
