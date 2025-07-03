@@ -5,51 +5,22 @@ custom_css: true
 
 <div class="content-container">
   <br>
-{% assign all_tags = [] %}
-
-{% for section in site.data.publications %}
-  {% for subsection in section.subsections %}
-    {% for ref in subsection.references %}
-      {% if ref.tags %}
-        {% for tag in ref.tags %}
-          {% assign all_tags = all_tags | push: tag %}
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% endfor %}
-
-{% assign all_tags = all_tags | map: "downcase" %}
-{% assign unique_tags = all_tags | uniq %}
-
-{% assign tag_counts = "" | split: "" %}
-
-{% for tag in unique_tags %}
-  {% assign count = 0 %}
-  {% for t in all_tags %}
-    {% if t == tag %}
-      {% assign count = count | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-  {% assign tag_counts = tag_counts | push: tag | push: count %}
-{% endfor %}
-
-{% assign top_tags = "" | split: "" %}
+{{% assign top_tags = "" | split: "" %}
 
 {% for i in (1..5) %}
-  {% assign max = 0 %}
+  {% assign max_count = 0 %}
   {% assign max_tag = "" %}
 
   {% for j in (0..tag_counts.size | minus: 2) %}
     {% if j modulo 2 == 0 %}
       {% assign tag = tag_counts[j] %}
       {% assign count = tag_counts[j | plus: 1] | plus: 0 %}
-      {% if count > max %}
-        {% unless top_tags contains tag %}
-          {% assign max = count %}
+      {% unless top_tags contains tag %}
+        {% if count > max_count %}
+          {% assign max_count = count %}
           {% assign max_tag = tag %}
-        {% endunless %}
-      {% endif %}
+        {% endif %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
 
@@ -58,8 +29,6 @@ custom_css: true
   {% endif %}
 {% endfor %}
 
-<p>All tags: {{ all_tags | join: ", " }}</p>
-<p>Unique tags: {{ unique_tags | join: ", " }}</p>
 <p>Top tags: {{ top_tags | join: ", " }}</p>
 <p>Counts: {{ tag_counts | join: ", " }}</p>
 
@@ -67,7 +36,7 @@ custom_css: true
   <strong>Top Tags:</strong>
   <div class="top-tags" style="margin-top: 0.5em;">
     {% for tag in top_tags %}
-      <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+      <span class="pub-tags" data-tag="{{ tag }}">{{ tag }}</span>
     {% endfor %}
   </div>
 </div>
