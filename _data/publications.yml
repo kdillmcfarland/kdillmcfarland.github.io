@@ -15,7 +15,7 @@
         - text: "Krebs A, Lazarov T, Reynolds A, **Dill-McFarland KA**, Xie A, Bean J, Du M, Levy O, Buglino J, Zhong A, Neehus A, Boisson-Dupuis S, Casanova J, Hawn TR, Zhou T, Finley L, Juste MAJ, Fitzgerald D, Geissmann F, Glickman MS. XXXX. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in *M. tuberculosis* host defense. *In prep.*"
           tags: ["RNAseq", "in vitro", "macrophages", "tuberculosis"]
         - text: "Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*"
-          tags: [["RNAseq", "signatures", "tuberculosis"]]
+          tags: ["RNAseq", "signatures", "tuberculosis"]
 
 - section: "Software"
   subsections:
