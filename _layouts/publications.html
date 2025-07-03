@@ -7,9 +7,10 @@ custom_css: true
   <div class="publications-container">
 
     {% for section in site.data.publications %}
+      {% comment %} Reset counter for each section {% endcomment %}
+      {% assign count = 0 %}
+
       <h3>{{ section.section }}</h3>
-      
-      {% assign count = 0 %}  {# reset count at start of each section #}
 
       {% for subsection in section.subsections %}
         {% if subsection.subsection %}
@@ -27,7 +28,7 @@ custom_css: true
             </div>
 
             <div class="references-column">
-              {{ count | append: ". " | append: ref.text | markdownify }}
+              {{ count }}. {{ ref.text | markdownify }}
             </div>
 
           </div>
