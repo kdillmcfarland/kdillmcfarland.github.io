@@ -5,96 +5,27 @@ custom_css: true
 
 <div class="content-container">
   <br>
-{%- comment -%}
-Get all tags
-{%- endcomment -%}
 
-{% assign all_tags = "" | split: "" %}
-
-{% for section in site.data.publications %}
-  {% for subsection in section.subsections %}
-    {% for ref in subsection.references %}
-      {% if ref.tags %}
-        {% assign all_tags = all_tags | concat: ref.tags %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% endfor %}
-
-{%- comment -%}
-Count occurences
-{%- endcomment -%}
-
-{% assign tag_counts = "" | split: "" %}
-
-{% for tag in all_tags %}
-  {% assign tag_lc = tag | downcase %}
-  {% assign found = false %}
-  
-  {% for i in (0..tag_counts.size) %}
-    {% assign mod = i | modulo: 2 %}
-    {% if mod == 0 %}
-      {% assign current_tag = tag_counts[i] %}
-      {% assign idx = i | plus: 1 %}
-      {% assign current_count = tag_counts[idx] %}
-      
-      {% if current_tag == tag_lc %}
-        {% assign new_count = current_count | plus: 1 %}
-        {% assign before = tag_counts | slice: 0, i %}
-        {% assign after = tag_counts | slice: idx | slice: 1, tag_counts.size %}
-        {% assign tag_counts = before | push: current_tag | push: new_count | concat: after %}
-        {% assign found = true %}
-        {% break %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-  
-  {% unless found %}
-    {% assign tag_counts = tag_counts | push: tag_lc | push: 1 %}
-  {% endunless %}
-{% endfor %}
-
-{%- comment -%}
-Order counts
-{%- endcomment -%}
-
-{%- assign count_tag_pairs = "" | split: "" -%}
-
-{%- for i in (0..tag_counts.size) -%}
-  {%- if i | modulo: 2 == 0 and i < tag_counts.size - 1 -%}
-    {%- assign tag = tag_counts[i] -%}
-    {%- assign count = tag_counts[i | plus: 1] -%}
-    {%- assign count_str = count | prepend: "000000" -%}  {# pad to allow lex sorting #}
-    {%- assign count_str = count_str | slice: -6, 6 -%}    {# take last 6 chars #}
-    {%- assign pair_str = count_str | append: "|" | append: tag -%}
-    {%- assign count_tag_pairs = count_tag_pairs | push: pair_str -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{%- assign sorted_pairs = count_tag_pairs | sort -%}
-{%- assign sorted_pairs = sorted_pairs | reverse -%}
-
-<ul>
-{%- for pair in sorted_pairs -%}
-  {%- assign parts = pair | split: "|" -%}
-  {%- assign count = parts[0] | plus: 0 -%}
-  {%- assign tag = parts[1] -%}
-  <li>{{ tag }}: {{ count }}</li>
-{%- endfor -%}
-</ul>
-
-
-<p>All: {{ all_tags | join: ", " }}</p>
-<p>Count: {{ tag_counts | join: ", " }}</p>
-<p>Sort: {{ sorted_pairs | join: ", " }}</p>
-<div class="top-tags-box" style="margin-bottom: 1em;">
-  <strong>Top Tags:</strong>
-  <div class="top-tags">
-    {% for tag in top_tags %}
-      <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
-    {% endfor %}
+  <div class="data-tags-box" style="margin-bottom: 1em;">
+    <strong>Data Tags:</strong>
+    <div class="data-tags">
+      {% assign data_tags = "rna-seq,microbiome,multi-omics,genetics,atac-seq,methylation,single-cell,method development," | split: "," %}
+      {% for tag in data_tags %}
+        <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+      {% endfor %}
+    </div>
   </div>
-</div>
+
+  <br>
+  <div class="bio-tags-box" style="margin-bottom: 1em;">
+    <strong>Research Tags:</strong>
+    <div class="bio-tags">
+      {% assign bio_tags = "human,murine,animal,tuberculosis,asthma,diet,treatment,illness," | split: "," %}
+      {% for tag in bio_tags %}
+        <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </div>
 <br>
 <br>
 
