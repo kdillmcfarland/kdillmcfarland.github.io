@@ -11,7 +11,9 @@ custom_css: true
   {% for subsection in section.subsections %}
     {% for ref in subsection.references %}
       {% if ref.tags %}
-        {% assign all_tags = all_tags | concat: ref.tags %}
+        {% for tag in ref.tags %}
+          {% assign all_tags = all_tags | push: tag %}
+        {% endfor %}
       {% endif %}
     {% endfor %}
   {% endfor %}
