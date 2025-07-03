@@ -23,49 +23,7 @@ custom_css: true
   {% endfor %}
 {% endfor %}
 
-{%- comment -%} Count tags - create flat array: [tag1, count1, tag2, count2, ...] {%- endcomment -%}
-{% assign tag_counts = "" | split: "" %}
-{% assign unique_tags = all_tags | uniq %}
-
-{% for tag in unique_tags %}
-  {% assign count = 0 %}
-  {% for t in all_tags %}
-    {% if t == tag %}
-      {% assign count = count | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-  {% assign tag_counts = tag_counts | push: tag %}
-  {% assign tag_counts = tag_counts | push: count %}
-{% endfor %}
-
-{%- comment -%} Find top 5 tags manually by max count {%- endcomment -%}
-{% assign top_tags = "" | split: "" %}
-
-{% for i in (1..5) %}
-  {% assign max_count = 0 %}
-  {% assign max_tag = "" %}
-  
-  {% for j in (0..tag_counts.size | minus: 2) %}
-    {% if j modulo 2 == 0 %}
-      {% assign current_tag = tag_counts[j] %}
-      {% assign current_count = tag_counts[j | plus: 1] | plus: 0 %}
-      {% unless top_tags contains current_tag %}
-        {% if current_count > max_count %}
-          {% assign max_count = current_count %}
-          {% assign max_tag = current_tag %}
-        {% endif %}
-      {% endunless %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if max_tag != "" %}
-    {% assign top_tags = top_tags | push: max_tag %}
-  {% endif %}
-{% endfor %}
-
 <p>Top tags: {{ all_tags | join: ", " }}</p>
-<p>Top tags: {{ top_tags | join: ", " }}</p>
-<p>Counts: {{ tag_counts | join: ", " }}</p>
 
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
