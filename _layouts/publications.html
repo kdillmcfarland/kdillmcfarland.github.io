@@ -29,18 +29,36 @@ Count occurences
 
 {% for tag in all_tags %}
   {% assign tag_lc = tag | downcase %}
-  {% assign existing = tag_counts | where_exp: "item", "item[0] == tag_lc" | first %}
-  {% if existing %}
-    {% assign new_count = existing[1] | plus: 1 %}
-    {% assign tag_counts = tag_counts | where_exp: "item", "item[0] != tag_lc" %}
-    {% assign tag_counts = tag_counts | push: tag_lc | push: new_count %}
-  {% else %}
+  {% assign found = false %}
+  
+  {% for i in (0..tag_counts.size) %}
+    {% if i modulo 2 == 0 %}
+      {% assign current_tag = tag_counts[i] %}
+      {% assign current_count = tag_counts[i | plus: 1] %}
+      
+      {% if current_tag == tag_lc %}
+        {% assign new_count = current_count | plus: 1 %}
+        {% assign before = tag_counts | slice: 0, i %}
+        {% assign after = tag_counts | slice: i | slice: 2, tag_counts.size %}
+        {% assign tag_counts = before | push: current_tag | push: new_count | concat: after %}
+        {% assign found = true %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  
+  {% unless found %}
     {% assign tag_counts = tag_counts | push: tag_lc | push: 1 %}
-  {% endif %}
+  {% endunless %}
 {% endfor %}
 
-<p>All tags: {{ all_tags | join: ", " }}</p>
+
+
+
+
+
 <p>Counts: {{ tag_counts | join: ", " }}</p>
+
 <div class="top-tags-box" style="margin-bottom: 1em;">
   <strong>Top Tags:</strong>
   <div class="top-tags">
