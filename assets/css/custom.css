@@ -7,9 +7,9 @@
 .pub-tags-column {
   width: 25%;
   display: flex;
-  flex-wrap: wrap;         /* allow wrapping */
+  flex-direction: column;  /* stack tags vertically */
   gap: 0.3em;
-  align-items: flex-start; 
+  align-items: flex-start;
 }
 
 .pub-tags {
@@ -19,7 +19,8 @@
   padding: 0.2em 0.6em;       /* some padding but only around text */
   border-radius: 0.75em;
   font-size: 0.85em;
-  white-space: nowrap;        /* keep text on one line */
+  white-space: normal;  /* allow text to wrap inside tag */
+  word-break: break-word; /* optional: breaks long words if needed */
   width: auto;                /* important to avoid full width */
   max-width: none;
   text-align: center;         /* center text inside tag */

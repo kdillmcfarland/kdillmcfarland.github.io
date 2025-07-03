@@ -5,7 +5,9 @@ custom_css: true
 
 <div class="content-container">
   <div class="publications-container">
-    {% assign count = 0 %}
+    {% assign outer_index = forloop.parentloop.index0 %}
+    {% assign inner_index = forloop.index0 %}
+    {% assign count = outer_index | times: some_number | plus: inner_index | plus: 1 %}
     {% for section in site.data.publications %}
       <h3>{{ section.section }}</h3>
 
