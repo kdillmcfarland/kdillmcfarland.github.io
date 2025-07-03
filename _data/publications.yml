@@ -89,3 +89,42 @@
         - text: "Jetté ME, **Dill-McFarland KA**, Hanshew AS, Suen G, Thibeault SL. 2016. The human laryngeal microbiome: effects of cigarette smoke and reflux. Sci Rep 6: 35882. PMID: 27775059 doi: [10.1038/srep35882](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5075886/)"
 tags: ["microbiome","smoking"]
 
+- section: "Education"
+  subsections:
+    - subsection: null
+      references:
+        - text: "**Dill-McFarland KA**, König SG, Mazel F, Oliver DC, McEwen LM, Hong KY, Hallam SJ. 2021. An integrated, modular approach to data science education in microbiology. PLoS Comput Biol 17(2): e1008661. PMID: 33630850 doi: [10.1371/journal.pcbi.1008661](https://doi.org/10.1371/journal.pcbi.1008661) --- [GitHub](https://github.com/kdillmcfarland/EDUCE_desc)"
+          tags: ["bioinformatics", "open source", "education"]
+      
+- section: "Animal microbiomes"
+  subsections:
+    - subsection: null
+      references:
+        - text: "Kehoe SI†, **Dill-McFarland KA**, Breaker JD, Suen G. 2019. Effects of corn silage inclusion in preweaning calf diets. J Dairy Sci 102(5): 4131-37. PMID: 30879818 doi: [10.3168/jds.2018-15799](https://pubmed.ncbi.nlm.nih.gov/30879818/)"
+          tags: ["microbiome","gut","herbivore","animal","dairy","diet"]
+        - text: "Carroll C, Olsen KD, Ricks NJ, **Dill-McFarland KA**, Suen G, Robinson TF, Chaston JM. 2019. Bacterial communities in the alpaca gastrointestinal tract vary with diet and body site. Front Microbiol 9: 3334. PMID: 30713530 doi: [10.3389/fmicb.2018.03334](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03334/full)"
+          tags: ["microbiome","gut","herbivore","animal","diet"]
+        - text: "**Dill-McFarland KA**, Weimer PJ, Breaker JD, Suen G. 2019. Diet influences early microbiota development in dairy calves without long-term impacts on milk production. Appl Environ Microbiol 85(2): e02141-18. PMID: 30367001 doi: [10.1128/AEM.02141-18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328763/) --- [GitHub](https://github.com/kdillmcfarland/GS01)"
+          tags: ["microbiome","gut","herbivore","animal","dairy","diet"]
+        - text: "Cunha CS, Marcondes MI, Veloso CM, Mantovani HC, Pereira LGR, Tomich TR, **Dill-McFarland KA**†, Suen G†. 2018. Compositional and structural dynamics of the ruminal microbiota in dairy heifers and its relationship to methane production. J Sci Food Agric 99(1): 210-18. PMID: 29851082 doi: [10.1002/jsfa.9162](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.9162)"
+          tags: ["microbiome","gut","herbivore","animal","dairy","methane"]
+        - text: "Dias J, Marcondes MI, de Souza SM, da Mata BC, Noronha MF, Resende RT, Machado FS, Mantovani HC, **Dill-McFarland KA**†, Suen G†. 2018. Bacterial community dynamics across the gastrointestinal tracts of dairy calves during preweaning development. Appl Environ Microbiol 84(9): e02675-17. PMID: 29475865 doi: [10.1128/AEM.02675-17](https://aem.asm.org/content/84/9/e02675-17.short)"
+          tags: ["microbiome","gut","herbivore","animal","dairy"]
+        - text: "Williams CL, **Dill-McFarland KA**, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. 2018. Dietary changes during weaning shape the gut microbiota of red pandas (*Ailurus fulgens*). Conserv Physiol 6(1): cox075. PMID: 29399361 doi: [10.1093/conphys/cox075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5772406/)"
+          tags: ["microbiome","gut","herbivore","animal","panda","diet","extreme host"]
+        - text: "Cunha CS, Veloso CM, Marcondes MI, Mantovani HC, Tomich TR, Periera LGR, Ferreira MF, **Dill-McFarland KA**†, Suen G†. 2017. Assessing the impact of rumen microbial communities on methane emissions and production traits in Holstein cows in a tropical climate. Syst Appl Microbiol 40(8): 492-99. PMID: 29113689 doi: [10.1016/j.syapm.2017.07.008](https://doi.org/10.1016/j.syapm.2017.07.008)"
+          tags: ["microbiome","gut","herbivore","animal","dairy","methane"]
+        - text: "Dai X, Weimer PJ, **Dill-McFarland KA**, Brandao VL, Suen G, Faciola AP. 2017. Camelina seed supplementation at two dietary fat levels changes ruminal bacterial community composition in a dual-flow continuous culture system. Front Microbiol 8: 2147. PMID: 29163431 doi: [10.3389/fmicb.2017.02147](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675879/)"
+          tags: ["microbiome","in vitro","fermentation"]
+        - text: "Dias J, Marcondes MI, Noronha MF, Resende RT, Machado FS, Mantovani HC, **Dill-McFarland KA**†, Suen G†. 2017. Effect of pre-weaning diet on the ruminal archaeal, bacterial, and fungal diversity of dairy calves. Front Microbiol 8: 1553. PMID: 28861065 doi: [10.3389/fmicb.2017.01553](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5559706/)"
+          tags: ["microbiome","gut","herbivore","animal","dairy","diet"]
+        - text: "**Dill-McFarland KA**, Breaker JD, Suen G. 2017. Microbial succession in the gastrointestinal tract of dairy cows from 2 weeks to first lactation. Sci Rep 7: 40864. PMID: 28098248 doi: [10.1038/srep40864](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241668/)"
+          tags: ["microbiome","gut","herbivore","animal","dairy","diet"]
+        - text: "Williams CL\\*, **Dill-McFarland KA**\\*, Vandewege MW, Sparks DL, Willard ST, Kouba AJ, Suen G†, Brown AE†. 2016. Dietary shifts may trigger dysbiosis and mucous stools in giant pandas (*Ailuropoda melanoleuca*). Front Microbiol 7: 661. PMID: 27199976 doi: [10.3389/fmicb.2016.00661](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4858621/) --- Microbiome Digest’s [Best Microbiome Paper 2016](https://microbiomedigest.com/2016/12/31/winners-of-the-best-microbiome-papers-of-2016/)"
+          tags: ["microbiome","gut","herbivore","animal","panda","diet","extreme host"]
+        - text: "**Dill-McFarland KA**, Weimer PJ, Pauli JN, Peery MZ, and Suen G. 2016. Diet specialization selects for an unusual and simplified gut microbiota in two- and three-toed sloths. Environ Microbiol 18(5): 1391-402. PMID: 26271635 doi: [10.1111/1462-2920.13022](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.13022)"
+          tags: ["microbiome","gut","herbivore","animal","sloth","extreme host"]
+        - text: "**Dill-McFarland KA**, Suen G, Carey HV. 2016. Spotlight: Bears arouse interest in microbiota's role in health. Trends Microbiol 24(4): 245-6. PMID: 26873548 doi: [10.1016/j.tim.2016.01.011](https://doi.org/10.1016/j.tim.2016.01.011)"
+          tags: ["microbiome","gut","herbivore","animal","bear"]
+        - text: "**Dill-McFarland KA**, Neil KL, Zeng A, Sprenger RJ, Kurtz CC, Suen G†, Carey HV†. 2014. Hibernation alters diversity & composition of mucosa-associated bacteria while enhancing antimicrobial defence in the gut of 13-lined ground squirrels. Mol Ecol 23(18): 4658-69. PMID: 25130694 doi: [10.1111/mec.12884](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.12884)"
+          tags: ["microbiome","gut","herbivore","animal","squirrel","extreme host"]
