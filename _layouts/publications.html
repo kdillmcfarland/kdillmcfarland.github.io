@@ -32,14 +32,16 @@ Count occurences
   {% assign found = false %}
   
   {% for i in (0..tag_counts.size) %}
-    {% if i modulo 2 == 0 %}
+    {% assign mod = i | modulo: 2 %}
+    {% if mod == 0 %}
       {% assign current_tag = tag_counts[i] %}
-      {% assign current_count = tag_counts[i | plus: 1] %}
+      {% assign idx = i | plus: 1 %}
+      {% assign current_count = tag_counts[idx] %}
       
       {% if current_tag == tag_lc %}
         {% assign new_count = current_count | plus: 1 %}
         {% assign before = tag_counts | slice: 0, i %}
-        {% assign after = tag_counts | slice: i | slice: 2, tag_counts.size %}
+        {% assign after = tag_counts | slice: idx | slice: 1, tag_counts.size %}
         {% assign tag_counts = before | push: current_tag | push: new_count | concat: after %}
         {% assign found = true %}
         {% break %}
@@ -51,10 +53,6 @@ Count occurences
     {% assign tag_counts = tag_counts | push: tag_lc | push: 1 %}
   {% endunless %}
 {% endfor %}
-
-
-
-
 
 
 <p>Counts: {{ tag_counts | join: ", " }}</p>
