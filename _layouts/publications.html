@@ -91,10 +91,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   function clearFilter() {
-    selectedTags = [];
-    updateFilterDisplay();
-    publicationRows.forEach(row => row.style.display = "");
-  }
+  selectedTags = [];
+  updateFilterDisplay();
+
+  publicationRows.forEach(row => row.style.display = "");
+
+  // Remove visual selection from all tags
+  document.querySelectorAll(".pub-tags.selected").forEach(el => {
+    el.classList.remove("selected");
+  });
+}
 
   document.querySelectorAll(".pub-tags").forEach(tagEl => {
     tagEl.style.cursor = "pointer";

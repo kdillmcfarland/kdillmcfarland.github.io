@@ -65,7 +65,7 @@
 }
 
 #clear-filter {
-  background-color: #FF6666;
+  background-color: #CC6699;
   color: white;
   border: none;
   padding: 0.4em 0.8em;
@@ -75,7 +75,7 @@
 }
 
 #clear-filter:hover {
-  background-color: #CC6699; 
+  background-color: #FF6666; 
 }
 
 .pub-tags.selected {
