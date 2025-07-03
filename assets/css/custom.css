@@ -54,7 +54,8 @@
 }
 
 .ref-number {
-  display: inline;
+  display: inline-flex;
+  align-items: center;
   white-space: nowrap;
   font-weight: normal;
   flex-shrink: 0;
