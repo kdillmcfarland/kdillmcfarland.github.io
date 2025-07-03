@@ -2,16 +2,16 @@
   subsections:
     - subsection: "Preprints"
       references:
-        - text: '0. **Dill-McFarland KA***†, Andrade BB*†, Figueiredo MC, Andrade AMS, Avendaño-Rangel F, Cordeiro-Santos M, Kritski AL, Rolla VC, Cubillos-Angulo JM, Kalams SA, Simmons JD, Oakes JM, Avila JP, Nakaya HI, Gangula RD, Rebeiro PF, Amorim G, Mallal SA, Regional Prospective Observational Research in Tuberculosis (RePORT)-Brazil Consortium, Sterling TR†, Hawn TR†. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public)'
+        - text: '**Dill-McFarland KA***†, Andrade BB*†, Figueiredo MC, Andrade AMS, Avendaño-Rangel F, Cordeiro-Santos M, Kritski AL, Rolla VC, Cubillos-Angulo JM, Kalams SA, Simmons JD, Oakes JM, Avila JP, Nakaya HI, Gangula RD, Rebeiro PF, Amorim G, Mallal SA, Regional Prospective Observational Research in Tuberculosis (RePORT)-Brazil Consortium, Sterling TR†, Hawn TR†. 2025. Genome-wide association study in Brazil identifies risk factor-adjusted genetic susceptibility to pulmonary tuberculosis with cell-specific gene expression effects. medRvix doi: [10.1101/2025.03.13.25323932](https://doi.org/10.1101/2025.03.13.25323932) --- [GitHub](https://github.com/hawn-lab/ReporTB_GWAS_public)'
           tags: ["GWAS", "scRNAseq", "PBMC", "tuberculosis"]
     - subsection: "On-going"
       references:
-        - text: '0. **Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. XXXX. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. *Submitted.*'
+        - text: '**Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. XXXX. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. *Submitted.*'
           tags: ["RNAseq", "multi-species", "macrophage", "tuberculosis"]
 
 - section: "Software"
   subsections:
     - subsection: null
       references:
-        - text: "0. **Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5): btad279. PMID: 37140544 doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)"
+        - text: "**Dill-McFarland KA**, Mitchell K, Batchu S, Segnitz RM, Benson B, Janczyk T, Cox MS, Mayanja-Kizza HA, Boom WH, Benchek P, Stein C, Hawn TR, Altman MC. 2023. kimma: Flexible linear mixed effects modeling with kinship for RNA-seq data. Bioinformatics. 39(5): btad279. PMID: 37140544 doi: [10.1093/bioinformatics/btad279](https://doi.org/10.1093/bioinformatics/btad279) --- [GitHub](https://github.com/BIGslu/kimma)"
           tags: ["bioinformatics", "mixed-effects models", "open-source"]
