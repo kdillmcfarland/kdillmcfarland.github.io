@@ -1,22 +1,20 @@
 .publication-row {
   display: flex;
-  flex-wrap: wrap;       /* allow items to wrap below if needed */
-  align-items: flex-start;
+  align-items: flex-start;  /* vertical alignment at top */
   gap: 1em;
-  padding-bottom: 1em;   /* give space for wrapping tags */
-  border-bottom: 1px solid #ccc; /* horizontal line */
+  flex-wrap: nowrap;        /* keep columns side-by-side */
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e0e0e0; /* thin horizontal line */
   margin-bottom: 1em;
 }
 
 .pub-tags-column {
   width: 20%;
   display: flex;
-  flex-direction: row;     /* horizontal flow */
   flex-wrap: wrap;
   gap: 0.3em;
-  align-content: flex-start; /* align wrapped rows to the top */
+  align-content: flex-start;
   box-sizing: border-box;
-  min-height: 2em;
 }
 
 .pub-tags {
@@ -33,6 +31,23 @@
   text-align: center;         /* center text inside tag */
 }
 
+.references-column {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5em;
+  align-items: flex-start;
+  flex-wrap: wrap; /* allow long ref text to wrap */
+}
+.ref-text {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+.ref-text p {
+  display: inline;
+}
+
 /* Add a content wrapper with bounded width */
 .content-container {
   max-width: 55rem;
@@ -42,29 +57,10 @@
   padding-right: 1rem;
 }
 
-.references-column {
-  width: 80%;
-  display: flex;
-  gap: 0.3em;
-  align-items: baseline;
-}
-
 .ref-number {
   white-space: nowrap;
   font-weight: normal; /* or whatever you want */
 }
-
-.ref-text {
-  display: block;
-  margin: 0;
-  padding: 0;
-}
-.ref-text p {
-  display: inline; /* optional: avoid vertical spacing if <p> appears */
-  margin: 0;
-  padding: 0;
-}
-
 
 #clear-filter {
   background-color: #FF6666;
