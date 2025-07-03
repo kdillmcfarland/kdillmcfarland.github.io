@@ -58,7 +58,7 @@ Count occurences
 Order counts
 {%- endcomment -%}
 
-{{%- assign count_tag_pairs = "" | split: "" -%}
+{%- assign count_tag_pairs = "" | split: "" -%}
 
 {%- for i in (0..tag_counts.size) -%}
   {%- if i | modulo: 2 == 0 and i < tag_counts.size - 1 -%}
