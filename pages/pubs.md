@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 permalink: "/pubs/"
 header:
- image_fullwidth: "pubs.png"
+  image_fullwidth: "pubs.png"
 references: "{{ site.data.publications | jsonify }}"
 ---
 
