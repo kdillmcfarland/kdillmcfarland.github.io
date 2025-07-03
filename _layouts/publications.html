@@ -29,10 +29,8 @@ custom_css: true
         <div class="publication-row" data-tags="{{ ref.tags | join: ' ' | downcase }}">
             
           <div class="references-column">
-            <div class="ref-number-text">
-              <span class="ref-number">1.</span>
+              <span class="ref-number">{{ count }}.</span>
               <span class="ref-text">{{ ref.text | markdownify }}</span>
-            </div>
           </div>
           
           <div class="pub-tags-column">
