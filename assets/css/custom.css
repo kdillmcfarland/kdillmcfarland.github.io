@@ -40,12 +40,14 @@
   flex-wrap: wrap; /* allow long ref text to wrap */
 }
 .ref-text {
-  display: inline;
+  display: block;
   margin: 0;
   padding: 0;
 }
 .ref-text p {
-  display: inline;
+  display: inline; 
+  margin: 0;
+  padding: 0;
 }
 
 /* Add a content wrapper with bounded width */
@@ -74,6 +76,10 @@
 
 #clear-filter:hover {
   background-color: #CC6699; 
+}
+
+.pub-tags.selected {
+  background-color: #CC6699;
 }
 
 border-bottom: 1px solid #e0e0e0;

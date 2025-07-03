@@ -45,40 +45,65 @@ custom_css: true
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const publicationRows = document.querySelectorAll(".publication-row");
-    const filterInfo = document.getElementById("filter-info");
-    const activeFilter = document.getElementById("active-filter");
-    const clearFilterBtn = document.getElementById("clear-filter");
+document.addEventListener("DOMContentLoaded", function () {
+  const publicationRows = document.querySelectorAll(".publication-row");
+  const filterInfo = document.getElementById("filter-info");
+  const activeFilter = document.getElementById("active-filter");
+  const clearFilterBtn = document.getElementById("clear-filter");
 
-    function filterByTag(tag) {
-      tag = tag.toLowerCase();
-      publicationRows.forEach(row => {
-        const tags = row.getAttribute("data-tags");
-        if (tags && tags.includes(tag)) {
-          row.style.display = "";
-        } else {
-          row.style.display = "none";
-        }
-      });
-      activeFilter.textContent = tag;
+  let selectedTags = [];
+
+  function updateFilterDisplay() {
+    if (selectedTags.length > 0) {
+      activeFilter.textContent = selectedTags.join(", ");
       filterInfo.style.display = "block";
-    }
-
-    function clearFilter() {
-      publicationRows.forEach(row => row.style.display = "");
-      filterInfo.style.display = "none";
+    } else {
       activeFilter.textContent = "";
+      filterInfo.style.display = "none";
     }
+  }
 
-    document.querySelectorAll(".pub-tags").forEach(tagEl => {
-      tagEl.style.cursor = "pointer";
-      tagEl.addEventListener("click", () => {
-        const tag = tagEl.getAttribute("data-tag");
-        filterByTag(tag);
-      });
+  function filterPublications() {
+    publicationRows.forEach(row => {
+      const tags = row.getAttribute("data-tags").split(" ");
+      const matchesAll = selectedTags.every(tag => tags.includes(tag));
+      row.style.display = matchesAll ? "" : "none";
     });
+  }
 
-    clearFilterBtn.addEventListener("click", clearFilter);
+  function handleTagClick(tag) {
+  tag = tag.toLowerCase();
+
+  if (!selectedTags.includes(tag)) {
+    selectedTags.push(tag);
+  } else {
+    selectedTags = selectedTags.filter(t => t !== tag);
+  }
+
+  updateFilterDisplay();
+  filterPublications();
+
+  // 🔽 Add this to toggle selected class on all matching tags
+  document.querySelectorAll(`.pub-tags[data-tag="${tag}"]`).forEach(el => {
+    el.classList.toggle("selected");
   });
+}
+
+
+  function clearFilter() {
+    selectedTags = [];
+    updateFilterDisplay();
+    publicationRows.forEach(row => row.style.display = "");
+  }
+
+  document.querySelectorAll(".pub-tags").forEach(tagEl => {
+    tagEl.style.cursor = "pointer";
+    tagEl.addEventListener("click", () => {
+      const tag = tagEl.getAttribute("data-tag");
+      handleTagClick(tag);
+    });
+  });
+
+  clearFilterBtn.addEventListener("click", clearFilter);
+});
 </script>
