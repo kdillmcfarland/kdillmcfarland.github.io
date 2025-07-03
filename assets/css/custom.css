@@ -1,8 +1,11 @@
 .publication-row {
   display: flex;
-  align-items: stretch; /* allow columns to grow independently */
+  flex-wrap: wrap;       /* allow items to wrap below if needed */
+  align-items: flex-start;
   gap: 1em;
-  flex-wrap: nowrap;    /* keep columns side-by-side */
+  padding-bottom: 1em;   /* give space for wrapping tags */
+  border-bottom: 1px solid #ccc; /* horizontal line */
+  margin-bottom: 1em;
 }
 
 .pub-tags-column {
@@ -13,6 +16,7 @@
   gap: 0.3em;
   align-content: flex-start; /* align wrapped rows to the top */
   box-sizing: border-box;
+  min-height: 2em;
 }
 
 .pub-tags {
@@ -75,3 +79,5 @@
 #clear-filter:hover {
   background-color: #CC6699; 
 }
+
+border-bottom: 1px solid #e0e0e0;
