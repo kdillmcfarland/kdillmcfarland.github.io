@@ -5,7 +5,7 @@ custom_css: true
 
 <div class="content-container">
   <br>
-
+  
   <div class="data-tags-box" style="margin-bottom: 1em;">
     <strong>Top Data Tags:</strong>
     <div class="data-tags">
@@ -16,7 +16,6 @@ custom_css: true
     </div>
   </div>
 
-  <br>
   <div class="bio-tags-box" style="margin-bottom: 1em;">
     <strong>Top Research Tags:</strong>
     <div class="bio-tags">
@@ -34,6 +33,10 @@ custom_css: true
   <button id="clear-filter">Clear filter</button>
   </div>
 
+  <p>* first author if not listed first <br>
+  † corresponding author if not listed last</p>
+
+  
   <div class="publications-container">
 
     {% for section in site.data.publications %}
@@ -70,6 +73,7 @@ custom_css: true
   </div>
 </div>
 
+{% raw %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const publicationRows = document.querySelectorAll(".publication-row");
@@ -144,3 +148,4 @@ document.addEventListener("DOMContentLoaded", function () {
   clearFilterBtn.addEventListener("click", clearFilter);
 });
 </script>
+{% endraw %}
