@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://kdillmcfarland.github.io/</id>
+	<id>http://localhost:4000/</id>
 	<title>Kim Dill-McFarland</title>
-	<updated>2025-07-03T09:22:01-07:00</updated>
+	<updated>2025-07-03T17:56:43-07:00</updated>
 
 	<subtitle>This my personal website with resume, current projects, and occasional blogs. Template by &lt;a href=&apos;http://phlow.de/&apos;&gt;Phlow&lt;/a&gt; with &lt;a href=&apos;http://jekyllrb.com/&apos; target=&apos;_blank&apos;&gt;Jekyll&lt;/a&gt; based on &lt;a href=&apos;http://phlow.github.io/feeling-responsive/&apos;&gt;Feeling Responsive&lt;/a&gt;.</subtitle>
 
@@ -21,16 +21,16 @@
 		</author>
 	
 
-	<link href="https://kdillmcfarland.github.io/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://kdillmcfarland.github.io/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.4.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>https://kdillmcfarland.github.io/r/R-tips/</id>
+			<id>http://localhost:4000/r/R-tips/</id>
 			<title>R tips and tricks</title>
-			<link href="https://kdillmcfarland.github.io/r/R-tips/" rel="alternate" type="text/html" title="R tips and tricks" />
+			<link href="http://localhost:4000/r/R-tips/" rel="alternate" type="text/html" title="R tips and tricks" />
 			<updated>2021-03-26T00:00:00-07:00</updated>
 
 			
@@ -46,7 +46,7 @@
 				</author>
 			
 			<summary>You know that pile of bookmarks hidden in a subdirectory? Or those pages Google reminds you that you &apos;visited many times&apos;? Here, I collect all that code in one place. It&apos;s mostly for me but if you find it useful, go for it!</summary>
-			<content type="html" xml:base="https://kdillmcfarland.github.io/r/R-tips/">&lt;div class=&quot;panel radius&quot;&gt;
+			<content type="html" xml:base="http://localhost:4000/r/R-tips/">&lt;div class=&quot;panel radius&quot;&gt;
   &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#rmarkdown&quot; id=&quot;markdown-toc-rmarkdown&quot;&gt;Rmarkdown&lt;/a&gt;&lt;/li&gt;
@@ -226,7 +226,7 @@ Greek letters &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://kdillmcfarland.github.io/r/R-tips/&quot;&gt;My most Google&apos;d R code. &amp;middot; &lt;strong&gt;R tips and tricks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/r/R-tips/&quot;&gt;My most Google&apos;d R code. &amp;middot; &lt;strong&gt;R tips and tricks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kdillmcfarland.github.io/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://kdillmcfarland.github.io/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Kim Dill-McFarland</title>
 		<description>This my personal website with resume, current projects, and occasional blogs. Template by &lt;a href=&apos;http://phlow.de/&apos;&gt;Phlow&lt;/a&gt; with &lt;a href=&apos;http://jekyllrb.com/&apos; target=&apos;_blank&apos;&gt;Jekyll&lt;/a&gt; based on &lt;a href=&apos;http://phlow.github.io/feeling-responsive/&apos;&gt;Feeling Responsive&lt;/a&gt;.</description>
-		<link>https://kdillmcfarland.github.io/</link>
-		<atom:link href="https://kdillmcfarland.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>R tips and tricks</title>
-				<link>https://kdillmcfarland.github.io/r/R-tips/</link>
+				<link>http://localhost:4000/r/R-tips/</link>
 				<pubDate>Fri, 26 Mar 2021 00:00:00 -0700</pubDate>
 				<description>&lt;div class=&quot;panel radius&quot;&gt;
   &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
@@ -192,14 +192,14 @@ Greek letters &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://kdillmcfarland.github.io/r/R-tips/&quot;&gt;My most Google&apos;d R code. &amp;middot; &lt;strong&gt;R tips and tricks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/r/R-tips/&quot;&gt;My most Google&apos;d R code. &amp;middot; &lt;strong&gt;R tips and tricks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://kdillmcfarland.github.io/r/R-tips/</guid>
+				<guid isPermaLink="true">http://localhost:4000/r/R-tips/</guid>
 			</item>
 		
 	</channel>
