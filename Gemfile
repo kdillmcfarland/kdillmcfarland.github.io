@@ -13,3 +13,4 @@ end
 gem 'asciidoctor', '~> 2.0'  # use newer asciidoctor if possible
 gem 'coderay', '1.1.1'
 gem 'listen', '>= 3.7'
+gem "net-http", "~> 0.6.0"

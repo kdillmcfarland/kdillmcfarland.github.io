@@ -1,0 +1,146 @@
+---
+layout: default
+custom_css: true
+---
+
+<div class="content-container">
+  <br>
+
+  <div class="data-tags-box" style="margin-bottom: 1em;">
+    <strong>Top Data Tags:</strong>
+    <div class="data-tags">
+      {% assign data_tags = "rna-seq,microbiome,multi-omics,genetics,open-source,atac-seq,methylation,single-cell,method development," | split: "," %}
+      {% for tag in data_tags %}
+        <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </div>
+
+  <br>
+  <div class="bio-tags-box" style="margin-bottom: 1em;">
+    <strong>Top Research Tags:</strong>
+    <div class="bio-tags">
+      {% assign bio_tags = "human,murine,animal,tuberculosis,asthma,diet,treatment,illness," | split: "," %}
+      {% for tag in bio_tags %}
+        <span class="pub-tags top-tag" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </div>
+<br>
+
+  <div id="filter-info" style="margin-bottom: 1em; display:none;">
+  Filtered by tag: <span id="active-filter"></span>
+  <br>
+  <button id="clear-filter">Clear filter</button>
+  </div>
+
+  <div class="publications-container">
+
+    {% for section in site.data.publications %}
+      {% comment %} Reset counter for each section {% endcomment %}
+      {% assign count = 0 %}
+
+      <h3>{{ section.section }}</h3>
+
+      {% for subsection in section.subsections %}
+        {% if subsection.subsection %}
+          <h4>{{ subsection.subsection }}</h4>
+        {% endif %}
+
+        {% for ref in subsection.references %}
+          {% assign count = count | plus: 1 %}
+        {% assign sorted_tags = ref.tags | sort %}
+        <div class="publication-row" data-tags="{{ sorted_tags | join: '|' | downcase }}">
+            
+          <div class="references-column">
+              <span class="ref-number">{{ count }}.</span>
+              <span class="ref-text">{{ ref.text | markdownify }}</span>
+          </div>
+          
+          <div class="pub-tags-column">
+            {% for tag in sorted_tags %}
+              <span class="pub-tags" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+            {% endfor %}
+            </div>
+            
+        </div>
+        {% endfor %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const publicationRows = document.querySelectorAll(".publication-row");
+  const filterInfo = document.getElementById("filter-info");
+  const activeFilter = document.getElementById("active-filter");
+  const clearFilterBtn = document.getElementById("clear-filter");
+
+  let selectedTags = [];
+
+  function updateFilterDisplay() {
+    if (selectedTags.length > 0) {
+      activeFilter.textContent = selectedTags.join(", ");
+      filterInfo.style.display = "block";
+    } else {
+      activeFilter.textContent = "";
+      filterInfo.style.display = "none";
+    }
+  }
+
+  function filterPublications() {
+  if (selectedTags.length === 0) {
+    publicationRows.forEach(row => row.style.display = "");
+    return;
+  }
+
+  publicationRows.forEach(row => {
+    const tags = row.getAttribute("data-tags").split("|");
+    const matchesAny = selectedTags.some(tag => tags.includes(tag));
+    row.style.display = matchesAny ? "" : "none";
+  });
+}
+
+  function handleTagClick(tag) {
+  tag = tag.toLowerCase();
+
+  if (!selectedTags.includes(tag)) {
+    selectedTags.push(tag);
+  } else {
+    selectedTags = selectedTags.filter(t => t !== tag);
+  }
+
+  updateFilterDisplay();
+  filterPublications();
+
+  // 🔽 Add this to toggle selected class on all matching tags
+  document.querySelectorAll(`.pub-tags[data-tag="${tag}"]`).forEach(el => {
+    el.classList.toggle("selected");
+  });
+}
+
+
+  function clearFilter() {
+  selectedTags = [];
+  updateFilterDisplay();
+
+  publicationRows.forEach(row => row.style.display = "");
+
+  // Remove visual selection from all tags
+  document.querySelectorAll(".pub-tags.selected").forEach(el => {
+    el.classList.remove("selected");
+  });
+}
+
+  document.querySelectorAll(".pub-tags").forEach(tagEl => {
+    tagEl.style.cursor = "pointer";
+    tagEl.addEventListener("click", () => {
+      const tag = tagEl.getAttribute("data-tag");
+      handleTagClick(tag);
+    });
+  });
+
+  clearFilterBtn.addEventListener("click", clearFilter);
+});
+</script>

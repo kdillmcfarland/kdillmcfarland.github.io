@@ -5,6 +5,9 @@ layout: compress
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
 	{% include _head.html %}
+	{% if page.custom_css %}
+    <link rel="stylesheet" href="/assets/css/custom.css">
+  {% endif %}
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}

@@ -25,7 +25,7 @@ author: kadm
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://kdillmcfarland.github.io'
+url: ''
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -122,7 +122,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: kadm     # Default author for posts
-
+data_dir: _data
 
 
 #       _   __            _             __  _

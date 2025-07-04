@@ -112,6 +112,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-paginate
   listen (>= 3.7)
+  net-http (~> 0.6.0)
 
 RUBY VERSION
    ruby 3.2.4p170

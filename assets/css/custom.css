@@ -1,6 +1,91 @@
+.publication-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  flex-wrap: nowrap;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+.pub-tags-column {
+  width: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+  align-content: flex-start;
+  box-sizing: border-box;
+  justify-content: flex-end;
+}
+
 .pub-tags {
-  float: right;
+  display: inline-block;      /* make span behave like inline block, width fits content */
+  background-color: #807dba;
+  color: white;
+  padding: 0.2em 0.6em;       /* some padding but only around text */
+  border-radius: 0.75em;
+  font-size: 0.85em;
+  white-space: normal;  /* allow text to wrap inside tag */
+  word-break: break-word; /* optional: breaks long words if needed */
+  width: auto;                /* important to avoid full width */
+  max-width: none;
+  text-align: center;         /* center text inside tag */
+}
+
+.references-column {
+  display: block;
+  gap: 0.5em;
+  align-items: flex-start; /* Align number to top of text */
+  width: 80%;
+  flex-wrap: wrap; /* Allow text to wrap below */
+}
+
+.ref-number {
+  flex-shrink: 0;          /* Don't let number shrink */
+  white-space: nowrap;     /* Keep number on one line */
+  margin-right: 0.3em;
+  font-weight: normal;
+  display: inline;
+  /* No need for inline-flex or vertical centering here */
+  /* align-items: flex-start from parent aligns this top */
+}
+
+.ref-text {
+  display: inline;         /* Inline so text flows next to number */
+  white-space: normal;     /* Allow wrapping */
+}
+
+/* Ensure all paragraph or div inside .ref-text are inline to avoid breaks */
+.ref-text p,
+.ref-text div,
+.ref-text br {
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Add a content wrapper with bounded width */
+.content-container {
+  max-width: 55rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#clear-filter {
+  background-color: #CC6699;
+  color: white;
+  border: none;
+  padding: 0.4em 0.8em;
+  border-radius: 0.5em; /* rounded corners */
   font-size: 0.9em;
-  color: #666;
-  font-style: italic;
+  cursor: pointer;
+}
+
+#clear-filter:hover {
+  background-color: #FF6666; 
+}
+
+.pub-tags.selected {
+  background-color: #CC6699;
 }
