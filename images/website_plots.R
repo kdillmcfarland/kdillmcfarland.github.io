@@ -14,8 +14,8 @@ p1 <- data.frame(
   theme_void() +
   theme(text=element_text(color="#bdbdbd"),
         axis.text.x=element_text(color="#bdbdbd"),
-        axis.text.y=element_text(color="#bdbdbd")) + 
+        axis.text=element_blank()) + 
   labs(x="",y="")
-
+p1
 ggsave(p1, filename="pubs.png", width=6, height=1.45)
   
