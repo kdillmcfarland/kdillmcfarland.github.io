@@ -6,6 +6,8 @@
           tags: ["gwas","single-cell", "rna-seq", "eqtl", "pbmc", "in vivo", "tuberculosis", "multi-omics","human","genetics"]
         - text: "Krebs A, Lazarov T, Reynolds A, **Dill-McFarland KA**, Xie A, Bean J, Du M, Levy O, Buglino J, Zhong A, Neehus A, Boisson-Dupuis S, Casanova J, Hawn TR, Zhou T, Finley L, Juste MAJ, Fitzgerald D, Geissmann F, Glickman MS. 2025. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in *M. tuberculosis* host defense. preprint doi: [10.1101/2025.07.23.664455](https://doi.org/10.1101/2025.07.23.664455)"
           tags: ["rna-seq", "in vitro", "macrophages", "tuberculosis", "human"]
+        - text: "Stein CM, Benchek P, Mantshoyane L, Ciesielski T, McHenry ML, Sesay H, Joloba M, Wampande E, **Dill-McFarland KA**, Roberts AW, Polacco B, Bennett M, Krogan N, Boom WH, Cox JS, Mayanja-Kizza H, Hawn TR, Williams SM. 2025. Human genetic variation associates with infection by derived Ugandan *M. tuberculosis* lineage. preprint doi: []()"
+          tags: ["gwas", "tuberculosis", "coevolution", "eqtl", "in vivo", "human", "genetics"]
     - subsection: "On-going"
       references:
         - text: "Lai Y, Murphy RC, Liu M, Czarnecki MW, Grosvenor D, **Dill-McFarland KA**, Piliponsky AM, Debley JS, Altman MC, Hallstrand TS. XXXX. Human rhinovirus A16 infection of mast cells promotes T2 and non-T2 immune responses that are modulated by the airway epithelium. *Submitted.*"
@@ -26,7 +28,7 @@
   subsections:
     - subsection: null
       references:
-        - text: "Haynes AM, Ovadiuc C, Peterson GJ, Worodria W, Nalukwago S, Muwanguzi T, Nsereko M, Stein CM, **Dill-McFarland KA**, Mayanja-Kizza H, Boom WH, Segnitz RM, Hawn TR. 2025. Alveolar macrophage transcriptional signatures associated with resistance to IGRA/TST conversion after exposure to Mycobacterium tuberculosis. BMC Genomics. *In press.*"
+        - text: "Haynes AM, Ovadiuc C, Peterson GJ, Worodria W, Nalukwago S, Muwanguzi T, Nsereko M, Stein CM, **Dill-McFarland KA**, Mayanja-Kizza H, Boom WH, Segnitz RM, Hawn TR. 2025. Alveolar macrophage transcriptional signatures associated with resistance to IGRA/TST conversion after exposure to *Mycobacterium tuberculosis*. BMC Genomics 26: 983. PMID: 41174479 doi: [10.1186/s12864-025-12165-w](https://doi.org/10.1186/s12864-025-12165-w)"
           tags: ["rna-seq", "in vitro", "macrophages", "tuberculosis","human"]
         - text: "**Dill-McFarland KA**, Peterson G, Lim PN, Skerrett S, Hawn TR, Rothchild AC†, Campo M†. 2025. Shared and distinct responses of human and murine alveolar macrophages and monocyte-derived macrophages to *Mycobacterium tuberculosis*. Immunohorizons. *In press.* --- [preprint](https://doi.org/10.1101/2025.02.28.640814) --- [GitHub](https://github.com/hawn-lab/AM-MDM-cross-species)"
           tags: ["rna-seq", "macrophages", "in vitro", "multi-species", "murine", "tuberculosis", "human"]
