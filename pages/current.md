@@ -2,7 +2,7 @@
 layout: page
 title: "Current research"
 subheadline: ""
-teaser: "I am a Senior Bioinformatician at the U. of Washington, where I provide data analysis expertise in next-generation sequencing and other high-throughput molecular data across a variety of projects relevant to human health and disease."
+teaser: "I am a Bioinformatics Field Applications Scientist at Oxford Nanopore Technologies, supporting researchers across the western U.S. in designing experiments, implementing analysis workflows, and applying ONT sequencing to complex biological questions in infectious disease, microbiology, human omics, and beyond."
 permalink: "/current/"
 header:
     image_fullwidth: "barplot.png"

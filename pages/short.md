@@ -46,7 +46,14 @@ header:
 
 ### Experience
 <br>
-__*01/2024 - present* --- Director, Bioinformatics Core, U. of Washington__
+__*01/2026 - present* --- Bioinformatics Field Applications Scientist, Oxford Nanopore Technologies__
+
+<ul><li>Support experimental design, data analysis, and best practices for long-read and NGS applications</li></ul>
+<ul><li>Deliver technical presentations, trainings, and onsite engagements</li></ul>
+<ul><li>Partner with Sales to provide technical consultation across ONT sequencing platforms</li></ul>
+<ul><li>Strengthen customer success and adoption through ongoing technical guidance and troubleshooting</li></ul>
+
+__*01/2024 - 12/2025* --- Director, Bioinformatics Core, U. of Washington__
 
 <ul><li>UWISDOM: U of Washington Informatics, Systems immunology, and Data Omics in Medicine, https://uwisdom.github.io/index.html</li></ul>
 <ul><li>Manage a portfolio of 10+ projects and 5+ bioinformaticians</li></ul>
@@ -54,12 +61,12 @@ __*01/2024 - present* --- Director, Bioinformatics Core, U. of Washington__
 <ul><li>Interface with the UW community to identify and fill bioinformatic needs</li></ul>
 <ul><li>Serve as the primary Bioinformatician on select projects</li></ul>
 
-__*08/2024 - present* --- Bioinformatics consultant, EuropaDX__  
+__*08/2024 - 12/2025* --- Bioinformatics consultant, EuropaDX__  
 
 <ul><li>Europa Data eXplorer (EuropaDX™) is a cloud-based data exploration platform that enables scientists to easily manage, process, visualize and share large multiomics datasets, https://europadx.com/</li></ul>
 <ul><li>Develop production ready unix, R, and python code for omics analysis, particularly bulk and single-cell RNAseq</li></ul>
 
-__*07/2023 - present* --- Bioinformatics consultant, Seattle Biosoftware__
+__*07/2023 - 12/2025* --- Bioinformatics consultant, Seattle Biosoftware__
 
 <ul><li>Fulfill customer requests for R and python based omics analysis, particularly data visualization</li></ul>
 
@@ -123,9 +130,3 @@ Cox MS, **Dill-McFarland KA**, *et al*. 2024. Multi-omic latent variable data in
 2016 --- Sigrid Leirmo Memorial Award for peer mentorship and support
 
 2009, 2010 --- American Society for Microbiology Undergraduate Fellow
-
-### Contact
-<br>
-University of Washington, Division of Allergy and Infectious Diseases  
-kadm [at] uw.edu  
-@kdillmcfarland
