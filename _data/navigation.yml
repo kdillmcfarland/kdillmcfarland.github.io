@@ -15,10 +15,6 @@
   - title: "Presentations"
     url: "/present/"
 
-- title: "Current"
-  url: "/current/"
-  side: left
-
 - title: "Blog"
   url: "/blog/"
   side: left
