@@ -10,7 +10,9 @@
       references:
         - text: "Newby RE, Kijaro L, **Dill-McFarland KA**, Njagi LN, Murithi WB, Mwongera Z, Agata M, Byers J, Peterson GJ, Fennelly KP, Nduba V, Horne DJ, Zifodya J, Hawn TR. XXXX. A whole-blood transcriptional signature associated with obstructive post-tuberculosis lung disease. *In prep.*"
           tags: ["rna-seq", "signatures", "tuberculosis","human"]
-
+        - text: "Amorim G, Araujo-Pereira M, **Dill-McFarland KA**, Rangel F, Mendelsohn S, Figueiredo MC, Cordeiro-Santos M, Rolla VC, Mello F, Rebeiro PF, Scriba TJ, Hawn TR, Andrade BB, Sterling TR, the RePORT-Brazil consortium. XXXX. Elevated adiponectin levels predict increased risk of tuberculosis progression among interferon gamma release assay-positive close contacts. *In prep.*"
+          tags: ["gwas", "signatures", "tuberculosis","human"]
+          
 - section: "Software"
   subsections:
     - subsection: null
